@@ -7,7 +7,7 @@ import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
 # Add logo
-#st.image('image.png', width=200)  # Adjust the width as needed
+##st.image('image.png', width=200)  # Adjust the width as needed
 
 # Title
 st.title("Temperature Forecasting App")
