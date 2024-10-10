@@ -1,0 +1,6589 @@
+Year,Country,Annual_temperature
+1901,Algeria,22.84
+1902,Algeria,22.84
+1903,Algeria,22.75
+1904,Algeria,22.89
+1905,Algeria,22.7
+1906,Algeria,22.71
+1907,Algeria,22.6
+1908,Algeria,22.71
+1909,Algeria,22.67
+1910,Algeria,22.67
+1911,Algeria,22.77
+1912,Algeria,22.74
+1913,Algeria,22.81
+1914,Algeria,22.69
+1915,Algeria,22.68
+1916,Algeria,22.65
+1917,Algeria,22.54
+1918,Algeria,22.52
+1919,Algeria,22.66
+1920,Algeria,22.82
+1921,Algeria,22.77
+1922,Algeria,22.77
+1923,Algeria,22.68
+1924,Algeria,22.98
+1925,Algeria,22.54
+1926,Algeria,23.13
+1927,Algeria,22.98
+1928,Algeria,22.94
+1929,Algeria,22.79
+1930,Algeria,23.14
+1931,Algeria,23.08
+1932,Algeria,22.64
+1933,Algeria,22.88
+1934,Algeria,22.68
+1935,Algeria,22.91
+1936,Algeria,22.84
+1937,Algeria,23.21
+1938,Algeria,22.91
+1939,Algeria,22.77
+1940,Algeria,23.01
+1941,Algeria,23.06
+1942,Algeria,23.25
+1943,Algeria,23.11
+1944,Algeria,22.92
+1945,Algeria,23.23
+1946,Algeria,23.12
+1947,Algeria,23.38
+1948,Algeria,23.12
+1949,Algeria,23.19
+1950,Algeria,22.89
+1951,Algeria,23.08
+1952,Algeria,23.02
+1953,Algeria,22.91
+1954,Algeria,22.68
+1955,Algeria,23.5
+1956,Algeria,22.5
+1957,Algeria,22.68
+1958,Algeria,23.21
+1959,Algeria,23.07
+1960,Algeria,23.01
+1961,Algeria,23.15
+1962,Algeria,22.91
+1963,Algeria,22.93
+1964,Algeria,22.97
+1965,Algeria,22.81
+1966,Algeria,23.02
+1967,Algeria,22.78
+1968,Algeria,22.98
+1969,Algeria,22.99
+1970,Algeria,23
+1971,Algeria,22.57
+1972,Algeria,22.58
+1973,Algeria,22.78
+1974,Algeria,22.52
+1975,Algeria,22.6
+1976,Algeria,22.4
+1977,Algeria,22.98
+1978,Algeria,22.97
+1979,Algeria,23.16
+1980,Algeria,22.94
+1981,Algeria,23.14
+1982,Algeria,23.11
+1983,Algeria,23.34
+1984,Algeria,22.91
+1985,Algeria,23.2
+1986,Algeria,23.01
+1987,Algeria,23.6
+1988,Algeria,23.25
+1989,Algeria,23.39
+1990,Algeria,23.58
+1991,Algeria,22.8
+1992,Algeria,22.78
+1993,Algeria,23.06
+1994,Algeria,23.44
+1995,Algeria,23.57
+1996,Algeria,23.3
+1997,Algeria,23.67
+1998,Algeria,23.49
+1999,Algeria,23.66
+2000,Algeria,23.57
+2001,Algeria,23.83
+2002,Algeria,23.73
+2003,Algeria,23.84
+2004,Algeria,23.56
+2005,Algeria,23.58
+2006,Algeria,23.75
+2007,Algeria,23.59
+2008,Algeria,23.43
+2009,Algeria,23.87
+2010,Algeria,24.1
+2011,Algeria,23.78
+2012,Algeria,23.75
+2013,Algeria,23.49
+2014,Algeria,23.92
+2015,Algeria,23.79
+2016,Algeria,23.99
+2017,Algeria,23.87
+2018,Algeria,23.5
+2019,Algeria,23.66
+2020,Algeria,23.79
+2021,Algeria,23.93
+2022,Algeria,24.11
+1901,Angola,21.32
+1902,Angola,21.36
+1903,Angola,21.37
+1904,Angola,21.28
+1905,Angola,21.32
+1906,Angola,21.2
+1907,Angola,21.22
+1908,Angola,21.29
+1909,Angola,21.31
+1910,Angola,21.35
+1911,Angola,21.41
+1912,Angola,21.36
+1913,Angola,21.37
+1914,Angola,21.29
+1915,Angola,21.3
+1916,Angola,21.28
+1917,Angola,21.33
+1918,Angola,21.13
+1919,Angola,21.19
+1920,Angola,21.31
+1921,Angola,21.32
+1922,Angola,21.44
+1923,Angola,21.31
+1924,Angola,21.37
+1925,Angola,21.19
+1926,Angola,21.26
+1927,Angola,21.26
+1928,Angola,21.48
+1929,Angola,21.32
+1930,Angola,21.29
+1931,Angola,21.49
+1932,Angola,21.25
+1933,Angola,21.44
+1934,Angola,21.54
+1935,Angola,21.36
+1936,Angola,21.22
+1937,Angola,21.29
+1938,Angola,21.37
+1939,Angola,21.42
+1940,Angola,21.68
+1941,Angola,21.84
+1942,Angola,21.84
+1943,Angola,21.54
+1944,Angola,21.75
+1945,Angola,21.48
+1946,Angola,21.36
+1947,Angola,21.51
+1948,Angola,21.22
+1949,Angola,21.86
+1950,Angola,21.5
+1951,Angola,21.4
+1952,Angola,21.61
+1953,Angola,21.26
+1954,Angola,21.19
+1955,Angola,21.24
+1956,Angola,21.16
+1957,Angola,21.54
+1958,Angola,21.36
+1959,Angola,21.47
+1960,Angola,21.45
+1961,Angola,21.15
+1962,Angola,21.17
+1963,Angola,21.23
+1964,Angola,21.16
+1965,Angola,21.23
+1966,Angola,21.46
+1967,Angola,21.18
+1968,Angola,21.27
+1969,Angola,21.48
+1970,Angola,21.51
+1971,Angola,21.35
+1972,Angola,21.34
+1973,Angola,21.58
+1974,Angola,21.14
+1975,Angola,21.3
+1976,Angola,21.07
+1977,Angola,21.55
+1978,Angola,21.32
+1979,Angola,21.57
+1980,Angola,21.5
+1981,Angola,21.4
+1982,Angola,21.43
+1983,Angola,21.78
+1984,Angola,21.74
+1985,Angola,21.64
+1986,Angola,21.49
+1987,Angola,22.02
+1988,Angola,21.76
+1989,Angola,21.55
+1990,Angola,21.74
+1991,Angola,21.56
+1992,Angola,21.73
+1993,Angola,21.6
+1994,Angola,21.68
+1995,Angola,21.98
+1996,Angola,21.76
+1997,Angola,21.9
+1998,Angola,22.18
+1999,Angola,21.64
+2000,Angola,21.72
+2001,Angola,21.9
+2002,Angola,21.98
+2003,Angola,22.08
+2004,Angola,21.81
+2005,Angola,22.22
+2006,Angola,21.58
+2007,Angola,21.56
+2008,Angola,21.53
+2009,Angola,21.76
+2010,Angola,21.92
+2011,Angola,21.49
+2012,Angola,21.53
+2013,Angola,21.58
+2014,Angola,21.57
+2015,Angola,21.71
+2016,Angola,21.99
+2017,Angola,21.85
+2018,Angola,21.67
+2019,Angola,21.81
+2020,Angola,21.73
+2021,Angola,21.74
+2022,Angola,21.63
+1901,Benin,27.38
+1902,Benin,27.46
+1903,Benin,27.57
+1904,Benin,27.57
+1905,Benin,27.14
+1906,Benin,27.86
+1907,Benin,27.44
+1908,Benin,27.5
+1909,Benin,27.28
+1910,Benin,27.68
+1911,Benin,27.28
+1912,Benin,27.67
+1913,Benin,27.98
+1914,Benin,28.25
+1915,Benin,27.35
+1916,Benin,27.18
+1917,Benin,27.25
+1918,Benin,27.2
+1919,Benin,27.57
+1920,Benin,27.62
+1921,Benin,27.57
+1922,Benin,27.42
+1923,Benin,27.41
+1924,Benin,27.57
+1925,Benin,26.96
+1926,Benin,27.58
+1927,Benin,27.01
+1928,Benin,26.99
+1929,Benin,26.76
+1930,Benin,27.76
+1931,Benin,28.08
+1932,Benin,27.88
+1933,Benin,27.79
+1934,Benin,28.11
+1935,Benin,28.25
+1936,Benin,27.55
+1937,Benin,28.65
+1938,Benin,28.95
+1939,Benin,28.28
+1940,Benin,27.65
+1941,Benin,28.33
+1942,Benin,28.08
+1943,Benin,27.58
+1944,Benin,27.87
+1945,Benin,27.42
+1946,Benin,27.4
+1947,Benin,27.84
+1948,Benin,27.23
+1949,Benin,27.95
+1950,Benin,27.06
+1951,Benin,27.83
+1952,Benin,27.62
+1953,Benin,27.43
+1954,Benin,27.21
+1955,Benin,27.12
+1956,Benin,27.22
+1957,Benin,27.31
+1958,Benin,27.6
+1959,Benin,27.55
+1960,Benin,27.44
+1961,Benin,27.18
+1962,Benin,27.23
+1963,Benin,27.53
+1964,Benin,27.29
+1965,Benin,27.35
+1966,Benin,27.57
+1967,Benin,27.27
+1968,Benin,27.5
+1969,Benin,27.84
+1970,Benin,27.7
+1971,Benin,26.9
+1972,Benin,27.21
+1973,Benin,27.63
+1974,Benin,26.89
+1975,Benin,26.74
+1976,Benin,26.78
+1977,Benin,27.33
+1978,Benin,27.09
+1979,Benin,27.37
+1980,Benin,27.44
+1981,Benin,27.97
+1982,Benin,27.83
+1983,Benin,28.21
+1984,Benin,28.07
+1985,Benin,28.01
+1986,Benin,27.83
+1987,Benin,28.07
+1988,Benin,27.54
+1989,Benin,27.18
+1990,Benin,27.76
+1991,Benin,27.48
+1992,Benin,27.34
+1993,Benin,27.52
+1994,Benin,27.4
+1995,Benin,27.66
+1996,Benin,27.74
+1997,Benin,27.7
+1998,Benin,28.17
+1999,Benin,27.68
+2000,Benin,27.84
+2001,Benin,28.01
+2002,Benin,28.06
+2003,Benin,28.15
+2004,Benin,28
+2005,Benin,28.32
+2006,Benin,28.19
+2007,Benin,28.17
+2008,Benin,27.85
+2009,Benin,28.31
+2010,Benin,28.46
+2011,Benin,28.19
+2012,Benin,28.01
+2013,Benin,28.16
+2014,Benin,28.33
+2015,Benin,28.27
+2016,Benin,28.53
+2017,Benin,28.35
+2018,Benin,28.33
+2019,Benin,28.17
+2020,Benin,28.43
+2021,Benin,28.7
+2022,Benin,28.09
+1901,Botswana,21.09
+1902,Botswana,21.11
+1903,Botswana,21.25
+1904,Botswana,20.72
+1905,Botswana,21.25
+1906,Botswana,20.7
+1907,Botswana,20.46
+1908,Botswana,21.09
+1909,Botswana,20.86
+1910,Botswana,20.59
+1911,Botswana,20.71
+1912,Botswana,21.25
+1913,Botswana,21.37
+1914,Botswana,21.54
+1915,Botswana,21.15
+1916,Botswana,21.24
+1917,Botswana,20.94
+1918,Botswana,20.57
+1919,Botswana,20.97
+1920,Botswana,21.21
+1921,Botswana,20.84
+1922,Botswana,21.74
+1923,Botswana,21.4
+1924,Botswana,20.95
+1925,Botswana,20.78
+1926,Botswana,21.1
+1927,Botswana,21.18
+1928,Botswana,21.56
+1929,Botswana,21.36
+1930,Botswana,21
+1931,Botswana,21.69
+1932,Botswana,21.5
+1933,Botswana,21.49
+1934,Botswana,21.55
+1935,Botswana,20.93
+1936,Botswana,21.05
+1937,Botswana,21.06
+1938,Botswana,21.37
+1939,Botswana,20.81
+1940,Botswana,21.5
+1941,Botswana,21.84
+1942,Botswana,21.77
+1943,Botswana,21.09
+1944,Botswana,21.59
+1945,Botswana,21.48
+1946,Botswana,21.67
+1947,Botswana,21.74
+1948,Botswana,21.32
+1949,Botswana,21.75
+1950,Botswana,21.49
+1951,Botswana,21.18
+1952,Botswana,21.59
+1953,Botswana,20.96
+1954,Botswana,21.07
+1955,Botswana,20.72
+1956,Botswana,21.1
+1957,Botswana,21.67
+1958,Botswana,21.53
+1959,Botswana,21.51
+1960,Botswana,21.35
+1961,Botswana,21.26
+1962,Botswana,21.43
+1963,Botswana,20.95
+1964,Botswana,21.15
+1965,Botswana,21.27
+1966,Botswana,21.55
+1967,Botswana,20.88
+1968,Botswana,21.07
+1969,Botswana,21.45
+1970,Botswana,21.79
+1971,Botswana,21.15
+1972,Botswana,21.25
+1973,Botswana,21.45
+1974,Botswana,20.65
+1975,Botswana,20.87
+1976,Botswana,20.5
+1977,Botswana,21.36
+1978,Botswana,21.07
+1979,Botswana,21.49
+1980,Botswana,21.08
+1981,Botswana,20.98
+1982,Botswana,21.64
+1983,Botswana,22.21
+1984,Botswana,21.96
+1985,Botswana,21.76
+1986,Botswana,21.66
+1987,Botswana,22.13
+1988,Botswana,21.43
+1989,Botswana,21.33
+1990,Botswana,21.8
+1991,Botswana,21.58
+1992,Botswana,22.43
+1993,Botswana,21.97
+1994,Botswana,21.46
+1995,Botswana,22.08
+1996,Botswana,21.53
+1997,Botswana,21.68
+1998,Botswana,22.28
+1999,Botswana,22.08
+2000,Botswana,21.4
+2001,Botswana,21.79
+2002,Botswana,21.97
+2003,Botswana,22.24
+2004,Botswana,22.34
+2005,Botswana,22.73
+2006,Botswana,21.78
+2007,Botswana,22.05
+2008,Botswana,22.2
+2009,Botswana,22.33
+2010,Botswana,22.35
+2011,Botswana,21.77
+2012,Botswana,22.06
+2013,Botswana,21.91
+2014,Botswana,22.02
+2015,Botswana,22.65
+2016,Botswana,22.67
+2017,Botswana,22.09
+2018,Botswana,22.3
+2019,Botswana,22.98
+2020,Botswana,22.06
+2021,Botswana,21.74
+2022,Botswana,22
+1901,Burkina Faso,28.09
+1902,Burkina Faso,28.42
+1903,Burkina Faso,28.71
+1904,Burkina Faso,28.75
+1905,Burkina Faso,28.3
+1906,Burkina Faso,28.62
+1907,Burkina Faso,28.36
+1908,Burkina Faso,28.58
+1909,Burkina Faso,28.52
+1910,Burkina Faso,28.56
+1911,Burkina Faso,28.04
+1912,Burkina Faso,28.63
+1913,Burkina Faso,28.64
+1914,Burkina Faso,28.97
+1915,Burkina Faso,27.85
+1916,Burkina Faso,27.22
+1917,Burkina Faso,27.49
+1918,Burkina Faso,27.28
+1919,Burkina Faso,28.74
+1920,Burkina Faso,28.77
+1921,Burkina Faso,28.74
+1922,Burkina Faso,28.1
+1923,Burkina Faso,28.15
+1924,Burkina Faso,28.62
+1925,Burkina Faso,28.25
+1926,Burkina Faso,28.29
+1927,Burkina Faso,27.56
+1928,Burkina Faso,27.75
+1929,Burkina Faso,27.65
+1930,Burkina Faso,28.23
+1931,Burkina Faso,28.85
+1932,Burkina Faso,28.59
+1933,Burkina Faso,28.55
+1934,Burkina Faso,28.81
+1935,Burkina Faso,29.39
+1936,Burkina Faso,28.7
+1937,Burkina Faso,29.95
+1938,Burkina Faso,30.13
+1939,Burkina Faso,29.5
+1940,Burkina Faso,28.8
+1941,Burkina Faso,29.27
+1942,Burkina Faso,29.11
+1943,Burkina Faso,28.58
+1944,Burkina Faso,29.03
+1945,Burkina Faso,28.67
+1946,Burkina Faso,28.55
+1947,Burkina Faso,29.08
+1948,Burkina Faso,28.44
+1949,Burkina Faso,29.09
+1950,Burkina Faso,28.15
+1951,Burkina Faso,28.77
+1952,Burkina Faso,28.45
+1953,Burkina Faso,28.46
+1954,Burkina Faso,28.36
+1955,Burkina Faso,28.29
+1956,Burkina Faso,28.45
+1957,Burkina Faso,28.39
+1958,Burkina Faso,28.91
+1959,Burkina Faso,28.82
+1960,Burkina Faso,28.52
+1961,Burkina Faso,28.15
+1962,Burkina Faso,28.32
+1963,Burkina Faso,28.7
+1964,Burkina Faso,28.39
+1965,Burkina Faso,28.28
+1966,Burkina Faso,28.63
+1967,Burkina Faso,28.34
+1968,Burkina Faso,28.6
+1969,Burkina Faso,29.19
+1970,Burkina Faso,28.97
+1971,Burkina Faso,28.56
+1972,Burkina Faso,28.71
+1973,Burkina Faso,29.11
+1974,Burkina Faso,28.29
+1975,Burkina Faso,28.16
+1976,Burkina Faso,28.07
+1977,Burkina Faso,28.61
+1978,Burkina Faso,28.64
+1979,Burkina Faso,28.73
+1980,Burkina Faso,29.07
+1981,Burkina Faso,28.89
+1982,Burkina Faso,28.64
+1983,Burkina Faso,29.18
+1984,Burkina Faso,29.16
+1985,Burkina Faso,29.05
+1986,Burkina Faso,28.81
+1987,Burkina Faso,29.6
+1988,Burkina Faso,28.86
+1989,Burkina Faso,28.64
+1990,Burkina Faso,29.15
+1991,Burkina Faso,28.89
+1992,Burkina Faso,28.53
+1993,Burkina Faso,29.05
+1994,Burkina Faso,28.52
+1995,Burkina Faso,28.89
+1996,Burkina Faso,29.13
+1997,Burkina Faso,29.12
+1998,Burkina Faso,29.47
+1999,Burkina Faso,28.92
+2000,Burkina Faso,29.06
+2001,Burkina Faso,29.19
+2002,Burkina Faso,29.47
+2003,Burkina Faso,29.34
+2004,Burkina Faso,29.41
+2005,Burkina Faso,29.64
+2006,Burkina Faso,29.29
+2007,Burkina Faso,29.38
+2008,Burkina Faso,28.89
+2009,Burkina Faso,29.55
+2010,Burkina Faso,29.61
+2011,Burkina Faso,29.5
+2012,Burkina Faso,29.15
+2013,Burkina Faso,29.31
+2014,Burkina Faso,29.43
+2015,Burkina Faso,29.42
+2016,Burkina Faso,29.68
+2017,Burkina Faso,29.52
+2018,Burkina Faso,29.55
+2019,Burkina Faso,29.29
+2020,Burkina Faso,29.63
+2021,Burkina Faso,30.01
+2022,Burkina Faso,29.28
+1901,Burundi,20.13
+1902,Burundi,20.29
+1903,Burundi,20.13
+1904,Burundi,19.9
+1905,Burundi,19.79
+1906,Burundi,19.42
+1907,Burundi,19.4
+1908,Burundi,19.97
+1909,Burundi,19.23
+1910,Burundi,19.22
+1911,Burundi,19.31
+1912,Burundi,19.29
+1913,Burundi,19.21
+1914,Burundi,19.43
+1915,Burundi,19.38
+1916,Burundi,19.15
+1917,Burundi,18.89
+1918,Burundi,19.11
+1919,Burundi,19.23
+1920,Burundi,19.22
+1921,Burundi,19.91
+1922,Burundi,19.85
+1923,Burundi,19.82
+1924,Burundi,19.99
+1925,Burundi,19.92
+1926,Burundi,20.1
+1927,Burundi,20
+1928,Burundi,20.11
+1929,Burundi,19.01
+1930,Burundi,19.16
+1931,Burundi,19.66
+1932,Burundi,19.41
+1933,Burundi,19.36
+1934,Burundi,19.4
+1935,Burundi,19.61
+1936,Burundi,19.49
+1937,Burundi,19.44
+1938,Burundi,19.65
+1939,Burundi,19.67
+1940,Burundi,19.87
+1941,Burundi,20.05
+1942,Burundi,19.62
+1943,Burundi,19.71
+1944,Burundi,19.78
+1945,Burundi,19.73
+1946,Burundi,19.75
+1947,Burundi,19.59
+1948,Burundi,19.8
+1949,Burundi,20.14
+1950,Burundi,19.4
+1951,Burundi,19.83
+1952,Burundi,20.02
+1953,Burundi,20.13
+1954,Burundi,19.97
+1955,Burundi,19.91
+1956,Burundi,19.8
+1957,Burundi,20.08
+1958,Burundi,20.28
+1959,Burundi,20.06
+1960,Burundi,19.86
+1961,Burundi,20.01
+1962,Burundi,19.79
+1963,Burundi,19.75
+1964,Burundi,19.78
+1965,Burundi,19.82
+1966,Burundi,20.08
+1967,Burundi,19.87
+1968,Burundi,19.58
+1969,Burundi,20.22
+1970,Burundi,19.92
+1971,Burundi,19.69
+1972,Burundi,19.97
+1973,Burundi,20.07
+1974,Burundi,19.81
+1975,Burundi,19.8
+1976,Burundi,20.04
+1977,Burundi,20.15
+1978,Burundi,20.07
+1979,Burundi,19.95
+1980,Burundi,20.08
+1981,Burundi,20.07
+1982,Burundi,20.13
+1983,Burundi,20.39
+1984,Burundi,20.03
+1985,Burundi,19.95
+1986,Burundi,20
+1987,Burundi,20.53
+1988,Burundi,20.3
+1989,Burundi,19.9
+1990,Burundi,20.24
+1991,Burundi,20.24
+1992,Burundi,20.23
+1993,Burundi,20.14
+1994,Burundi,20.3
+1995,Burundi,20.59
+1996,Burundi,20.32
+1997,Burundi,20.56
+1998,Burundi,20.51
+1999,Burundi,20.48
+2000,Burundi,20.6
+2001,Burundi,20.59
+2002,Burundi,20.86
+2003,Burundi,20.96
+2004,Burundi,20.51
+2005,Burundi,20.71
+2006,Burundi,20.47
+2007,Burundi,20.49
+2008,Burundi,20.31
+2009,Burundi,20.76
+2010,Burundi,20.85
+2011,Burundi,20.35
+2012,Burundi,20.37
+2013,Burundi,20.57
+2014,Burundi,20.36
+2015,Burundi,20.45
+2016,Burundi,20.68
+2017,Burundi,20.9
+2018,Burundi,20.4
+2019,Burundi,20.63
+2020,Burundi,20.44
+2021,Burundi,20.53
+2022,Burundi,20.43
+1901,Cameroon,24.15
+1902,Cameroon,24.39
+1903,Cameroon,24.48
+1904,Cameroon,24.29
+1905,Cameroon,24.57
+1906,Cameroon,24.53
+1907,Cameroon,24.56
+1908,Cameroon,24.29
+1909,Cameroon,24.66
+1910,Cameroon,24.21
+1911,Cameroon,24.53
+1912,Cameroon,24.54
+1913,Cameroon,24.29
+1914,Cameroon,24.58
+1915,Cameroon,24.46
+1916,Cameroon,24.47
+1917,Cameroon,24.46
+1918,Cameroon,24.46
+1919,Cameroon,24.46
+1920,Cameroon,24.47
+1921,Cameroon,24.46
+1922,Cameroon,24.46
+1923,Cameroon,24.6
+1924,Cameroon,24.54
+1925,Cameroon,24.35
+1926,Cameroon,24.61
+1927,Cameroon,24.62
+1928,Cameroon,24.45
+1929,Cameroon,24.3
+1930,Cameroon,24.61
+1931,Cameroon,24.79
+1932,Cameroon,24.69
+1933,Cameroon,24.54
+1934,Cameroon,24.64
+1935,Cameroon,24.71
+1936,Cameroon,24.56
+1937,Cameroon,24.63
+1938,Cameroon,24.82
+1939,Cameroon,24.71
+1940,Cameroon,24.47
+1941,Cameroon,25.16
+1942,Cameroon,24.99
+1943,Cameroon,24.52
+1944,Cameroon,24.78
+1945,Cameroon,24.77
+1946,Cameroon,24.74
+1947,Cameroon,24.86
+1948,Cameroon,24.5
+1949,Cameroon,24.81
+1950,Cameroon,24.71
+1951,Cameroon,24.81
+1952,Cameroon,24.78
+1953,Cameroon,24.72
+1954,Cameroon,24.51
+1955,Cameroon,24.43
+1956,Cameroon,24.42
+1957,Cameroon,24.74
+1958,Cameroon,24.87
+1959,Cameroon,24.78
+1960,Cameroon,24.75
+1961,Cameroon,24.44
+1962,Cameroon,24.57
+1963,Cameroon,24.83
+1964,Cameroon,24.48
+1965,Cameroon,24.56
+1966,Cameroon,24.68
+1967,Cameroon,24.35
+1968,Cameroon,24.52
+1969,Cameroon,24.86
+1970,Cameroon,24.77
+1971,Cameroon,24.1
+1972,Cameroon,24.41
+1973,Cameroon,24.69
+1974,Cameroon,24.04
+1975,Cameroon,24.06
+1976,Cameroon,24
+1977,Cameroon,24.36
+1978,Cameroon,24.28
+1979,Cameroon,24.64
+1980,Cameroon,24.61
+1981,Cameroon,24.3
+1982,Cameroon,24.34
+1983,Cameroon,24.63
+1984,Cameroon,24.44
+1985,Cameroon,24.38
+1986,Cameroon,24.37
+1987,Cameroon,24.9
+1988,Cameroon,24.63
+1989,Cameroon,24.35
+1990,Cameroon,24.83
+1991,Cameroon,24.58
+1992,Cameroon,24.3
+1993,Cameroon,24.45
+1994,Cameroon,24.44
+1995,Cameroon,24.68
+1996,Cameroon,24.51
+1997,Cameroon,24.64
+1998,Cameroon,25.2
+1999,Cameroon,24.59
+2000,Cameroon,24.57
+2001,Cameroon,24.63
+2002,Cameroon,24.81
+2003,Cameroon,24.86
+2004,Cameroon,24.93
+2005,Cameroon,24.97
+2006,Cameroon,24.88
+2007,Cameroon,24.88
+2008,Cameroon,24.68
+2009,Cameroon,25
+2010,Cameroon,25.17
+2011,Cameroon,24.81
+2012,Cameroon,24.77
+2013,Cameroon,24.88
+2014,Cameroon,24.92
+2015,Cameroon,24.95
+2016,Cameroon,25.21
+2017,Cameroon,24.94
+2018,Cameroon,24.94
+2019,Cameroon,24.88
+2020,Cameroon,25.22
+2021,Cameroon,25.21
+2022,Cameroon,24.94
+1901,Cape Verde,22.74
+1902,Cape Verde,22.79
+1903,Cape Verde,23.06
+1904,Cape Verde,22.71
+1905,Cape Verde,22.89
+1906,Cape Verde,23.1
+1907,Cape Verde,22.15
+1908,Cape Verde,22.98
+1909,Cape Verde,22.82
+1910,Cape Verde,22.89
+1911,Cape Verde,22.85
+1912,Cape Verde,22.75
+1913,Cape Verde,23.04
+1914,Cape Verde,22.65
+1915,Cape Verde,23.14
+1916,Cape Verde,22.74
+1917,Cape Verde,22.65
+1918,Cape Verde,23
+1919,Cape Verde,23.43
+1920,Cape Verde,22.77
+1921,Cape Verde,22.73
+1922,Cape Verde,22.43
+1923,Cape Verde,22.76
+1924,Cape Verde,22.68
+1925,Cape Verde,22.83
+1926,Cape Verde,23.18
+1927,Cape Verde,22.98
+1928,Cape Verde,22.64
+1929,Cape Verde,22.69
+1930,Cape Verde,22.43
+1931,Cape Verde,22.78
+1932,Cape Verde,22.84
+1933,Cape Verde,22.88
+1934,Cape Verde,22.59
+1935,Cape Verde,22.54
+1936,Cape Verde,22.99
+1937,Cape Verde,23.2
+1938,Cape Verde,22.95
+1939,Cape Verde,22.65
+1940,Cape Verde,22.72
+1941,Cape Verde,22.89
+1942,Cape Verde,22.63
+1943,Cape Verde,22.78
+1944,Cape Verde,23.03
+1945,Cape Verde,23.38
+1946,Cape Verde,22.88
+1947,Cape Verde,22.88
+1948,Cape Verde,22.9
+1949,Cape Verde,22.86
+1950,Cape Verde,22.98
+1951,Cape Verde,22.55
+1952,Cape Verde,22.59
+1953,Cape Verde,22.64
+1954,Cape Verde,22.72
+1955,Cape Verde,22.85
+1956,Cape Verde,22.55
+1957,Cape Verde,22.5
+1958,Cape Verde,23.03
+1959,Cape Verde,22.75
+1960,Cape Verde,22.87
+1961,Cape Verde,23.11
+1962,Cape Verde,23.09
+1963,Cape Verde,23.11
+1964,Cape Verde,22.95
+1965,Cape Verde,22.63
+1966,Cape Verde,23.09
+1967,Cape Verde,22.55
+1968,Cape Verde,22.58
+1969,Cape Verde,23.39
+1970,Cape Verde,23.2
+1971,Cape Verde,22.31
+1972,Cape Verde,22.52
+1973,Cape Verde,22.81
+1974,Cape Verde,22.24
+1975,Cape Verde,22.44
+1976,Cape Verde,22.38
+1977,Cape Verde,22.88
+1978,Cape Verde,22.72
+1979,Cape Verde,22.94
+1980,Cape Verde,22.63
+1981,Cape Verde,22.92
+1982,Cape Verde,22.52
+1983,Cape Verde,23.17
+1984,Cape Verde,22.74
+1985,Cape Verde,22.53
+1986,Cape Verde,22.56
+1987,Cape Verde,23.2
+1988,Cape Verde,22.85
+1989,Cape Verde,22.77
+1990,Cape Verde,23.09
+1991,Cape Verde,22.87
+1992,Cape Verde,22.87
+1993,Cape Verde,22.88
+1994,Cape Verde,22.79
+1995,Cape Verde,22.92
+1996,Cape Verde,23.11
+1997,Cape Verde,23.36
+1998,Cape Verde,23.48
+1999,Cape Verde,22.84
+2000,Cape Verde,23.03
+2001,Cape Verde,23.33
+2002,Cape Verde,23.22
+2003,Cape Verde,23.21
+2004,Cape Verde,23.26
+2005,Cape Verde,23.47
+2006,Cape Verde,23.2
+2007,Cape Verde,23.21
+2008,Cape Verde,23.32
+2009,Cape Verde,23.02
+2010,Cape Verde,23.61
+2011,Cape Verde,23.15
+2012,Cape Verde,23.19
+2013,Cape Verde,23.26
+2014,Cape Verde,23.14
+2015,Cape Verde,23.24
+2016,Cape Verde,23.37
+2017,Cape Verde,23.47
+2018,Cape Verde,22.91
+2019,Cape Verde,23.06
+2020,Cape Verde,23.65
+2021,Cape Verde,23.45
+2022,Cape Verde,22.67
+1901,Central African Republic,24.95
+1902,Central African Republic,24.99
+1903,Central African Republic,25
+1904,Central African Republic,24.98
+1905,Central African Republic,25.01
+1906,Central African Republic,25.01
+1907,Central African Republic,25.01
+1908,Central African Republic,24.98
+1909,Central African Republic,25.03
+1910,Central African Republic,24.9
+1911,Central African Republic,24.96
+1912,Central African Republic,24.95
+1913,Central African Republic,24.9
+1914,Central African Republic,25.02
+1915,Central African Republic,24.99
+1916,Central African Republic,24.92
+1917,Central African Republic,24.93
+1918,Central African Republic,25.1
+1919,Central African Republic,25.24
+1920,Central African Republic,24.71
+1921,Central African Republic,24.93
+1922,Central African Republic,24.73
+1923,Central African Republic,24.92
+1924,Central African Republic,25.13
+1925,Central African Republic,25.07
+1926,Central African Republic,25.14
+1927,Central African Republic,25.15
+1928,Central African Republic,25.26
+1929,Central African Republic,24.88
+1930,Central African Republic,24.96
+1931,Central African Republic,25.16
+1932,Central African Republic,25.15
+1933,Central African Republic,25.29
+1934,Central African Republic,25.14
+1935,Central African Republic,25.09
+1936,Central African Republic,25.27
+1937,Central African Republic,25.22
+1938,Central African Republic,25.28
+1939,Central African Republic,25.18
+1940,Central African Republic,25.1
+1941,Central African Republic,25.73
+1942,Central African Republic,25.54
+1943,Central African Republic,24.95
+1944,Central African Republic,25.15
+1945,Central African Republic,25.18
+1946,Central African Republic,25.2
+1947,Central African Republic,25.34
+1948,Central African Republic,25.03
+1949,Central African Republic,25.03
+1950,Central African Republic,24.77
+1951,Central African Republic,25.11
+1952,Central African Republic,25.37
+1953,Central African Republic,25.19
+1954,Central African Republic,25.01
+1955,Central African Republic,24.88
+1956,Central African Republic,24.91
+1957,Central African Republic,25.23
+1958,Central African Republic,25.64
+1959,Central African Republic,25.35
+1960,Central African Republic,25.34
+1961,Central African Republic,25.1
+1962,Central African Republic,25.12
+1963,Central African Republic,25.29
+1964,Central African Republic,25.01
+1965,Central African Republic,25.21
+1966,Central African Republic,25.21
+1967,Central African Republic,24.71
+1968,Central African Republic,25.01
+1969,Central African Republic,25.36
+1970,Central African Republic,25.32
+1971,Central African Republic,24.54
+1972,Central African Republic,24.97
+1973,Central African Republic,25.14
+1974,Central African Republic,24.5
+1975,Central African Republic,24.53
+1976,Central African Republic,24.66
+1977,Central African Republic,24.83
+1978,Central African Republic,24.77
+1979,Central African Republic,25.09
+1980,Central African Republic,25.15
+1981,Central African Republic,24.98
+1982,Central African Republic,24.97
+1983,Central African Republic,25.33
+1984,Central African Republic,24.91
+1985,Central African Republic,25.01
+1986,Central African Republic,25.12
+1987,Central African Republic,25.46
+1988,Central African Republic,25.24
+1989,Central African Republic,24.87
+1990,Central African Republic,25.36
+1991,Central African Republic,25.16
+1992,Central African Republic,24.87
+1993,Central African Republic,24.94
+1994,Central African Republic,24.9
+1995,Central African Republic,25.18
+1996,Central African Republic,25.1
+1997,Central African Republic,25.53
+1998,Central African Republic,25.77
+1999,Central African Republic,25.04
+2000,Central African Republic,25.33
+2001,Central African Republic,25.27
+2002,Central African Republic,25.35
+2003,Central African Republic,25.57
+2004,Central African Republic,25.78
+2005,Central African Republic,25.84
+2006,Central African Republic,25.66
+2007,Central African Republic,25.65
+2008,Central African Republic,25.51
+2009,Central African Republic,26
+2010,Central African Republic,25.98
+2011,Central African Republic,25.45
+2012,Central African Republic,25.46
+2013,Central African Republic,25.55
+2014,Central African Republic,25.48
+2015,Central African Republic,25.58
+2016,Central African Republic,25.73
+2017,Central African Republic,25.5
+2018,Central African Republic,25.45
+2019,Central African Republic,25.7
+2020,Central African Republic,25.67
+2021,Central African Republic,25.78
+2022,Central African Republic,25.56
+1901,Chad,26.91
+1902,Chad,26.91
+1903,Chad,26.91
+1904,Chad,26.9
+1905,Chad,26.91
+1906,Chad,26.91
+1907,Chad,26.91
+1908,Chad,26.9
+1909,Chad,26.91
+1910,Chad,26.88
+1911,Chad,26.89
+1912,Chad,26.87
+1913,Chad,26.87
+1914,Chad,26.91
+1915,Chad,26.91
+1916,Chad,26.85
+1917,Chad,26.87
+1918,Chad,27.11
+1919,Chad,27.27
+1920,Chad,26.5
+1921,Chad,26.83
+1922,Chad,26.5
+1923,Chad,26.88
+1924,Chad,27.13
+1925,Chad,26.96
+1926,Chad,27.21
+1927,Chad,27.21
+1928,Chad,27.28
+1929,Chad,26.72
+1930,Chad,27.01
+1931,Chad,27.37
+1932,Chad,27.24
+1933,Chad,27.35
+1934,Chad,27.21
+1935,Chad,27.16
+1936,Chad,27.32
+1937,Chad,27.3
+1938,Chad,27.48
+1939,Chad,27.29
+1940,Chad,27.05
+1941,Chad,27.2
+1942,Chad,27.1
+1943,Chad,26.76
+1944,Chad,26.88
+1945,Chad,26.74
+1946,Chad,26.75
+1947,Chad,27.01
+1948,Chad,26.61
+1949,Chad,26.32
+1950,Chad,26.12
+1951,Chad,26.56
+1952,Chad,26.69
+1953,Chad,26.5
+1954,Chad,26.52
+1955,Chad,26.57
+1956,Chad,26.41
+1957,Chad,26.65
+1958,Chad,26.95
+1959,Chad,26.54
+1960,Chad,26.84
+1961,Chad,26.21
+1962,Chad,26.79
+1963,Chad,27.01
+1964,Chad,26.5
+1965,Chad,26.59
+1966,Chad,26.88
+1967,Chad,26.38
+1968,Chad,26.64
+1969,Chad,27.4
+1970,Chad,26.78
+1971,Chad,26.49
+1972,Chad,27.11
+1973,Chad,27.26
+1974,Chad,26.62
+1975,Chad,26.75
+1976,Chad,27.12
+1977,Chad,26.56
+1978,Chad,26.94
+1979,Chad,27.36
+1980,Chad,27.26
+1981,Chad,27
+1982,Chad,27.09
+1983,Chad,27.07
+1984,Chad,27.29
+1985,Chad,27.13
+1986,Chad,27.17
+1987,Chad,27.41
+1988,Chad,27.08
+1989,Chad,26.76
+1990,Chad,27.4
+1991,Chad,27.41
+1992,Chad,26.72
+1993,Chad,27.17
+1994,Chad,27.04
+1995,Chad,27.33
+1996,Chad,27.46
+1997,Chad,27.76
+1998,Chad,27.78
+1999,Chad,27.62
+2000,Chad,27.29
+2001,Chad,27.34
+2002,Chad,27.47
+2003,Chad,27.78
+2004,Chad,27.91
+2005,Chad,27.83
+2006,Chad,27.8
+2007,Chad,27.74
+2008,Chad,27.65
+2009,Chad,28.28
+2010,Chad,28.52
+2011,Chad,27.75
+2012,Chad,27.74
+2013,Chad,27.78
+2014,Chad,27.78
+2015,Chad,27.69
+2016,Chad,27.96
+2017,Chad,27.59
+2018,Chad,27.61
+2019,Chad,27.76
+2020,Chad,27.35
+2021,Chad,27.7
+2022,Chad,27.28
+1901,Comoros,22.8
+1902,Comoros,23.03
+1903,Comoros,22.89
+1904,Comoros,22.74
+1905,Comoros,22.98
+1906,Comoros,22.74
+1907,Comoros,22.79
+1908,Comoros,23.02
+1909,Comoros,22.84
+1910,Comoros,22.75
+1911,Comoros,22.87
+1912,Comoros,23.02
+1913,Comoros,23.11
+1914,Comoros,23.15
+1915,Comoros,23.17
+1916,Comoros,23
+1917,Comoros,22.98
+1918,Comoros,23.06
+1919,Comoros,23.12
+1920,Comoros,23.04
+1921,Comoros,23.04
+1922,Comoros,22.97
+1923,Comoros,23.2
+1924,Comoros,23.12
+1925,Comoros,23.18
+1926,Comoros,23.21
+1927,Comoros,23.05
+1928,Comoros,23.1
+1929,Comoros,23.14
+1930,Comoros,23.01
+1931,Comoros,23.03
+1932,Comoros,22.99
+1933,Comoros,22.97
+1934,Comoros,22.96
+1935,Comoros,22.93
+1936,Comoros,23.02
+1937,Comoros,23.02
+1938,Comoros,23.04
+1939,Comoros,22.99
+1940,Comoros,22.92
+1941,Comoros,23.17
+1942,Comoros,23.14
+1943,Comoros,22.82
+1944,Comoros,23.16
+1945,Comoros,23.07
+1946,Comoros,22.97
+1947,Comoros,23.1
+1948,Comoros,23.35
+1949,Comoros,23.2
+1950,Comoros,23.07
+1951,Comoros,23.21
+1952,Comoros,23.31
+1953,Comoros,23.21
+1954,Comoros,23.09
+1955,Comoros,22.94
+1956,Comoros,22.73
+1957,Comoros,22.91
+1958,Comoros,23.21
+1959,Comoros,23.02
+1960,Comoros,22.9
+1961,Comoros,23.48
+1962,Comoros,22.97
+1963,Comoros,22.79
+1964,Comoros,22.74
+1965,Comoros,22.68
+1966,Comoros,23.28
+1967,Comoros,23.18
+1968,Comoros,22.75
+1969,Comoros,23.35
+1970,Comoros,23.18
+1971,Comoros,22.55
+1972,Comoros,22.84
+1973,Comoros,22.85
+1974,Comoros,22.44
+1975,Comoros,22.61
+1976,Comoros,22.68
+1977,Comoros,23.04
+1978,Comoros,22.92
+1979,Comoros,22.97
+1980,Comoros,22.98
+1981,Comoros,22.78
+1982,Comoros,22.94
+1983,Comoros,23.17
+1984,Comoros,22.53
+1985,Comoros,22.66
+1986,Comoros,22.8
+1987,Comoros,23.34
+1988,Comoros,23.31
+1989,Comoros,22.66
+1990,Comoros,23.12
+1991,Comoros,22.96
+1992,Comoros,23.07
+1993,Comoros,22.98
+1994,Comoros,23.23
+1995,Comoros,23.19
+1996,Comoros,23
+1997,Comoros,23.26
+1998,Comoros,23.53
+1999,Comoros,23.1
+2000,Comoros,23.12
+2001,Comoros,23.2
+2002,Comoros,23.2
+2003,Comoros,23.25
+2004,Comoros,23.13
+2005,Comoros,23.43
+2006,Comoros,23.29
+2007,Comoros,23.57
+2008,Comoros,23.16
+2009,Comoros,23.49
+2010,Comoros,23.57
+2011,Comoros,23.4
+2012,Comoros,23.31
+2013,Comoros,23.38
+2014,Comoros,23.41
+2015,Comoros,23.63
+2016,Comoros,23.43
+2017,Comoros,23.66
+2018,Comoros,23.46
+2019,Comoros,23.82
+2020,Comoros,23.76
+2021,Comoros,23.51
+2022,Comoros,23.74
+1901,Democratic Republic of Congo,24.02
+1902,Democratic Republic of Congo,24.07
+1903,Democratic Republic of Congo,24.04
+1904,Democratic Republic of Congo,24.02
+1905,Democratic Republic of Congo,24.01
+1906,Democratic Republic of Congo,23.92
+1907,Democratic Republic of Congo,23.9
+1908,Democratic Republic of Congo,23.99
+1909,Democratic Republic of Congo,23.96
+1910,Democratic Republic of Congo,23.94
+1911,Democratic Republic of Congo,23.95
+1912,Democratic Republic of Congo,23.98
+1913,Democratic Republic of Congo,23.96
+1914,Democratic Republic of Congo,23.98
+1915,Democratic Republic of Congo,23.97
+1916,Democratic Republic of Congo,23.95
+1917,Democratic Republic of Congo,23.94
+1918,Democratic Republic of Congo,23.91
+1919,Democratic Republic of Congo,23.93
+1920,Democratic Republic of Congo,23.95
+1921,Democratic Republic of Congo,23.99
+1922,Democratic Republic of Congo,24.01
+1923,Democratic Republic of Congo,23.99
+1924,Democratic Republic of Congo,24.01
+1925,Democratic Republic of Congo,23.97
+1926,Democratic Republic of Congo,24
+1927,Democratic Republic of Congo,23.99
+1928,Democratic Republic of Congo,24.04
+1929,Democratic Republic of Congo,23.94
+1930,Democratic Republic of Congo,23.94
+1931,Democratic Republic of Congo,24.01
+1932,Democratic Republic of Congo,23.94
+1933,Democratic Republic of Congo,23.94
+1934,Democratic Republic of Congo,23.93
+1935,Democratic Republic of Congo,23.95
+1936,Democratic Republic of Congo,23.92
+1937,Democratic Republic of Congo,23.91
+1938,Democratic Republic of Congo,23.98
+1939,Democratic Republic of Congo,23.97
+1940,Democratic Republic of Congo,24.05
+1941,Democratic Republic of Congo,24.4
+1942,Democratic Republic of Congo,24.24
+1943,Democratic Republic of Congo,23.93
+1944,Democratic Republic of Congo,24.13
+1945,Democratic Republic of Congo,24.06
+1946,Democratic Republic of Congo,24.04
+1947,Democratic Republic of Congo,24.11
+1948,Democratic Republic of Congo,23.97
+1949,Democratic Republic of Congo,24.27
+1950,Democratic Republic of Congo,23.87
+1951,Democratic Republic of Congo,23.92
+1952,Democratic Republic of Congo,24.11
+1953,Democratic Republic of Congo,24.01
+1954,Democratic Republic of Congo,23.81
+1955,Democratic Republic of Congo,23.75
+1956,Democratic Republic of Congo,23.72
+1957,Democratic Republic of Congo,24.04
+1958,Democratic Republic of Congo,24.24
+1959,Democratic Republic of Congo,24.02
+1960,Democratic Republic of Congo,23.92
+1961,Democratic Republic of Congo,23.85
+1962,Democratic Republic of Congo,23.85
+1963,Democratic Republic of Congo,23.93
+1964,Democratic Republic of Congo,23.85
+1965,Democratic Republic of Congo,23.92
+1966,Democratic Republic of Congo,24.08
+1967,Democratic Republic of Congo,23.83
+1968,Democratic Republic of Congo,23.82
+1969,Democratic Republic of Congo,24.22
+1970,Democratic Republic of Congo,24.14
+1971,Democratic Republic of Congo,23.78
+1972,Democratic Republic of Congo,23.95
+1973,Democratic Republic of Congo,24.07
+1974,Democratic Republic of Congo,23.68
+1975,Democratic Republic of Congo,23.69
+1976,Democratic Republic of Congo,23.75
+1977,Democratic Republic of Congo,24.08
+1978,Democratic Republic of Congo,24.02
+1979,Democratic Republic of Congo,24.1
+1980,Democratic Republic of Congo,24.13
+1981,Democratic Republic of Congo,24.13
+1982,Democratic Republic of Congo,24.1
+1983,Democratic Republic of Congo,24.43
+1984,Democratic Republic of Congo,24.14
+1985,Democratic Republic of Congo,24.04
+1986,Democratic Republic of Congo,24.07
+1987,Democratic Republic of Congo,24.59
+1988,Democratic Republic of Congo,24.35
+1989,Democratic Republic of Congo,24
+1990,Democratic Republic of Congo,24.34
+1991,Democratic Republic of Congo,24.13
+1992,Democratic Republic of Congo,24.07
+1993,Democratic Republic of Congo,24.03
+1994,Democratic Republic of Congo,24.06
+1995,Democratic Republic of Congo,24.36
+1996,Democratic Republic of Congo,24.08
+1997,Democratic Republic of Congo,24.27
+1998,Democratic Republic of Congo,24.57
+1999,Democratic Republic of Congo,24.04
+2000,Democratic Republic of Congo,24.27
+2001,Democratic Republic of Congo,24.38
+2002,Democratic Republic of Congo,24.51
+2003,Democratic Republic of Congo,24.53
+2004,Democratic Republic of Congo,24.52
+2005,Democratic Republic of Congo,24.73
+2006,Democratic Republic of Congo,24.44
+2007,Democratic Republic of Congo,24.46
+2008,Democratic Republic of Congo,24.34
+2009,Democratic Republic of Congo,24.56
+2010,Democratic Republic of Congo,24.74
+2011,Democratic Republic of Congo,24.25
+2012,Democratic Republic of Congo,24.19
+2013,Democratic Republic of Congo,24.3
+2014,Democratic Republic of Congo,24.24
+2015,Democratic Republic of Congo,24.33
+2016,Democratic Republic of Congo,24.54
+2017,Democratic Republic of Congo,24.41
+2018,Democratic Republic of Congo,24.32
+2019,Democratic Republic of Congo,24.37
+2020,Democratic Republic of Congo,24.48
+2021,Democratic Republic of Congo,24.46
+2022,Democratic Republic of Congo,24.38
+1901,Congo,24.22
+1902,Congo,24.32
+1903,Congo,24.42
+1904,Congo,24.21
+1905,Congo,24.48
+1906,Congo,24.41
+1907,Congo,24.46
+1908,Congo,24.18
+1909,Congo,24.57
+1910,Congo,24.22
+1911,Congo,24.48
+1912,Congo,24.56
+1913,Congo,24.23
+1914,Congo,24.49
+1915,Congo,24.35
+1916,Congo,24.33
+1917,Congo,24.36
+1918,Congo,24.35
+1919,Congo,24.34
+1920,Congo,24.35
+1921,Congo,24.35
+1922,Congo,24.34
+1923,Congo,24.33
+1924,Congo,24.4
+1925,Congo,24.35
+1926,Congo,24.36
+1927,Congo,24.37
+1928,Congo,24.4
+1929,Congo,24.32
+1930,Congo,24.37
+1931,Congo,24.39
+1932,Congo,24.31
+1933,Congo,24.42
+1934,Congo,24.44
+1935,Congo,24.38
+1936,Congo,24.34
+1937,Congo,24.45
+1938,Congo,24.38
+1939,Congo,24.4
+1940,Congo,24.37
+1941,Congo,25
+1942,Congo,24.82
+1943,Congo,24.25
+1944,Congo,24.84
+1945,Congo,24.74
+1946,Congo,24.59
+1947,Congo,24.88
+1948,Congo,24.44
+1949,Congo,24.82
+1950,Congo,24.57
+1951,Congo,24.62
+1952,Congo,24.62
+1953,Congo,24.55
+1954,Congo,24.31
+1955,Congo,24.32
+1956,Congo,24.34
+1957,Congo,24.59
+1958,Congo,24.63
+1959,Congo,24.59
+1960,Congo,24.54
+1961,Congo,24.21
+1962,Congo,24.39
+1963,Congo,24.54
+1964,Congo,24.34
+1965,Congo,24.42
+1966,Congo,24.66
+1967,Congo,24.32
+1968,Congo,24.41
+1969,Congo,24.72
+1970,Congo,24.63
+1971,Congo,24.16
+1972,Congo,24.34
+1973,Congo,24.45
+1974,Congo,23.88
+1975,Congo,23.92
+1976,Congo,23.76
+1977,Congo,24.2
+1978,Congo,24.1
+1979,Congo,24.63
+1980,Congo,24.42
+1981,Congo,24.55
+1982,Congo,24.37
+1983,Congo,24.78
+1984,Congo,24.65
+1985,Congo,24.49
+1986,Congo,24.51
+1987,Congo,24.97
+1988,Congo,24.71
+1989,Congo,24.5
+1990,Congo,24.69
+1991,Congo,24.5
+1992,Congo,24.2
+1993,Congo,24.28
+1994,Congo,24.31
+1995,Congo,24.58
+1996,Congo,24.28
+1997,Congo,24.46
+1998,Congo,25.15
+1999,Congo,24.46
+2000,Congo,24.49
+2001,Congo,24.68
+2002,Congo,24.76
+2003,Congo,24.73
+2004,Congo,24.83
+2005,Congo,24.89
+2006,Congo,24.85
+2007,Congo,24.78
+2008,Congo,24.64
+2009,Congo,24.81
+2010,Congo,25.09
+2011,Congo,24.63
+2012,Congo,24.69
+2013,Congo,24.81
+2014,Congo,24.77
+2015,Congo,24.89
+2016,Congo,25.23
+2017,Congo,24.9
+2018,Congo,25.05
+2019,Congo,25
+2020,Congo,25.36
+2021,Congo,25.23
+2022,Congo,25.05
+1901,Côte d'Ivoire,26.52
+1902,Côte d'Ivoire,26.5
+1903,Côte d'Ivoire,26.45
+1904,Côte d'Ivoire,26.39
+1905,Côte d'Ivoire,26.4
+1906,Côte d'Ivoire,26.43
+1907,Côte d'Ivoire,26.34
+1908,Côte d'Ivoire,26.43
+1909,Côte d'Ivoire,26.4
+1910,Côte d'Ivoire,26.5
+1911,Côte d'Ivoire,26.34
+1912,Côte d'Ivoire,26.58
+1913,Côte d'Ivoire,26.45
+1914,Côte d'Ivoire,26.49
+1915,Côte d'Ivoire,26.47
+1916,Côte d'Ivoire,26.34
+1917,Côte d'Ivoire,26.32
+1918,Côte d'Ivoire,26.21
+1919,Côte d'Ivoire,26.32
+1920,Côte d'Ivoire,26.4
+1921,Côte d'Ivoire,26.35
+1922,Côte d'Ivoire,26.34
+1923,Côte d'Ivoire,26.26
+1924,Côte d'Ivoire,26.29
+1925,Côte d'Ivoire,26.04
+1926,Côte d'Ivoire,26.3
+1927,Côte d'Ivoire,25.63
+1928,Côte d'Ivoire,25.66
+1929,Côte d'Ivoire,25.65
+1930,Côte d'Ivoire,25.9
+1931,Côte d'Ivoire,26.45
+1932,Côte d'Ivoire,26.31
+1933,Côte d'Ivoire,26.34
+1934,Côte d'Ivoire,26.48
+1935,Côte d'Ivoire,26.35
+1936,Côte d'Ivoire,26.29
+1937,Côte d'Ivoire,26.88
+1938,Côte d'Ivoire,26.97
+1939,Côte d'Ivoire,26.72
+1940,Côte d'Ivoire,26.47
+1941,Côte d'Ivoire,26.82
+1942,Côte d'Ivoire,26.52
+1943,Côte d'Ivoire,26.18
+1944,Côte d'Ivoire,26.67
+1945,Côte d'Ivoire,26.54
+1946,Côte d'Ivoire,26.28
+1947,Côte d'Ivoire,26.53
+1948,Côte d'Ivoire,26.17
+1949,Côte d'Ivoire,26.53
+1950,Côte d'Ivoire,26.18
+1951,Côte d'Ivoire,26.56
+1952,Côte d'Ivoire,26.54
+1953,Côte d'Ivoire,26.57
+1954,Côte d'Ivoire,26.29
+1955,Côte d'Ivoire,26.22
+1956,Côte d'Ivoire,26.22
+1957,Côte d'Ivoire,26.49
+1958,Côte d'Ivoire,26.58
+1959,Côte d'Ivoire,26.49
+1960,Côte d'Ivoire,26.41
+1961,Côte d'Ivoire,26.35
+1962,Côte d'Ivoire,26.33
+1963,Côte d'Ivoire,26.61
+1964,Côte d'Ivoire,26.16
+1965,Côte d'Ivoire,26.12
+1966,Côte d'Ivoire,26.53
+1967,Côte d'Ivoire,26.15
+1968,Côte d'Ivoire,26.43
+1969,Côte d'Ivoire,26.76
+1970,Côte d'Ivoire,26.66
+1971,Côte d'Ivoire,25.87
+1972,Côte d'Ivoire,26.11
+1973,Côte d'Ivoire,26.59
+1974,Côte d'Ivoire,25.99
+1975,Côte d'Ivoire,25.88
+1976,Côte d'Ivoire,25.67
+1977,Côte d'Ivoire,26.27
+1978,Côte d'Ivoire,26.05
+1979,Côte d'Ivoire,26.37
+1980,Côte d'Ivoire,26.37
+1981,Côte d'Ivoire,26.45
+1982,Côte d'Ivoire,26.07
+1983,Côte d'Ivoire,26.67
+1984,Côte d'Ivoire,26.54
+1985,Côte d'Ivoire,26.32
+1986,Côte d'Ivoire,26.19
+1987,Côte d'Ivoire,27.07
+1988,Côte d'Ivoire,26.58
+1989,Côte d'Ivoire,26.39
+1990,Côte d'Ivoire,26.54
+1991,Côte d'Ivoire,26.48
+1992,Côte d'Ivoire,26.33
+1993,Côte d'Ivoire,26.45
+1994,Côte d'Ivoire,26.41
+1995,Côte d'Ivoire,26.65
+1996,Côte d'Ivoire,26.64
+1997,Côte d'Ivoire,26.66
+1998,Côte d'Ivoire,27.21
+1999,Côte d'Ivoire,26.56
+2000,Côte d'Ivoire,26.58
+2001,Côte d'Ivoire,26.64
+2002,Côte d'Ivoire,26.89
+2003,Côte d'Ivoire,26.84
+2004,Côte d'Ivoire,26.87
+2005,Côte d'Ivoire,27.02
+2006,Côte d'Ivoire,26.79
+2007,Côte d'Ivoire,26.92
+2008,Côte d'Ivoire,26.5
+2009,Côte d'Ivoire,26.88
+2010,Côte d'Ivoire,27.17
+2011,Côte d'Ivoire,26.84
+2012,Côte d'Ivoire,26.57
+2013,Côte d'Ivoire,26.8
+2014,Côte d'Ivoire,26.85
+2015,Côte d'Ivoire,27.03
+2016,Côte d'Ivoire,27.31
+2017,Côte d'Ivoire,27.17
+2018,Côte d'Ivoire,27.02
+2019,Côte d'Ivoire,26.83
+2020,Côte d'Ivoire,27.18
+2021,Côte d'Ivoire,27.37
+2022,Côte d'Ivoire,26.84
+1901,Djibouti,27.9
+1902,Djibouti,28.03
+1903,Djibouti,28.2
+1904,Djibouti,27.93
+1905,Djibouti,28.13
+1906,Djibouti,28.08
+1907,Djibouti,27.78
+1908,Djibouti,28.14
+1909,Djibouti,27.5
+1910,Djibouti,28.41
+1911,Djibouti,28.46
+1912,Djibouti,27.87
+1913,Djibouti,27.89
+1914,Djibouti,27.9
+1915,Djibouti,27.9
+1916,Djibouti,27.89
+1917,Djibouti,27.9
+1918,Djibouti,27.9
+1919,Djibouti,27.9
+1920,Djibouti,27.89
+1921,Djibouti,27.91
+1922,Djibouti,27.92
+1923,Djibouti,27.9
+1924,Djibouti,27.92
+1925,Djibouti,27.92
+1926,Djibouti,27.91
+1927,Djibouti,27.91
+1928,Djibouti,27.92
+1929,Djibouti,27.9
+1930,Djibouti,27.89
+1931,Djibouti,27.91
+1932,Djibouti,27.89
+1933,Djibouti,27.9
+1934,Djibouti,27.9
+1935,Djibouti,27.9
+1936,Djibouti,27.9
+1937,Djibouti,27.91
+1938,Djibouti,27.9
+1939,Djibouti,27.91
+1940,Djibouti,27.91
+1941,Djibouti,27.81
+1942,Djibouti,27.66
+1943,Djibouti,27.25
+1944,Djibouti,27.59
+1945,Djibouti,27.48
+1946,Djibouti,27.84
+1947,Djibouti,28.1
+1948,Djibouti,27.5
+1949,Djibouti,27.27
+1950,Djibouti,27.39
+1951,Djibouti,27.93
+1952,Djibouti,28.01
+1953,Djibouti,28.35
+1954,Djibouti,28.36
+1955,Djibouti,28.44
+1956,Djibouti,27.62
+1957,Djibouti,27.54
+1958,Djibouti,27.97
+1959,Djibouti,27.85
+1960,Djibouti,27.71
+1961,Djibouti,27.45
+1962,Djibouti,27.45
+1963,Djibouti,27.84
+1964,Djibouti,27.32
+1965,Djibouti,27.7
+1966,Djibouti,27.83
+1967,Djibouti,27.28
+1968,Djibouti,27.36
+1969,Djibouti,28.09
+1970,Djibouti,27.97
+1971,Djibouti,27.46
+1972,Djibouti,27.91
+1973,Djibouti,28.36
+1974,Djibouti,27.63
+1975,Djibouti,27.85
+1976,Djibouti,28.1
+1977,Djibouti,28.13
+1978,Djibouti,28.11
+1979,Djibouti,28.31
+1980,Djibouti,28.66
+1981,Djibouti,27.71
+1982,Djibouti,27.94
+1983,Djibouti,28.07
+1984,Djibouti,27.79
+1985,Djibouti,27.84
+1986,Djibouti,27.88
+1987,Djibouti,28.04
+1988,Djibouti,27.95
+1989,Djibouti,27.54
+1990,Djibouti,28.11
+1991,Djibouti,28.24
+1992,Djibouti,27.87
+1993,Djibouti,27.87
+1994,Djibouti,28.04
+1995,Djibouti,28.19
+1996,Djibouti,28.25
+1997,Djibouti,28.26
+1998,Djibouti,28.61
+1999,Djibouti,27.99
+2000,Djibouti,28.27
+2001,Djibouti,28.35
+2002,Djibouti,28.88
+2003,Djibouti,28.62
+2004,Djibouti,28.5
+2005,Djibouti,28.59
+2006,Djibouti,28.52
+2007,Djibouti,28.33
+2008,Djibouti,28.31
+2009,Djibouti,29.08
+2010,Djibouti,28.69
+2011,Djibouti,28.59
+2012,Djibouti,28.57
+2013,Djibouti,28.94
+2014,Djibouti,28.66
+2015,Djibouti,29.21
+2016,Djibouti,29.07
+2017,Djibouti,28.85
+2018,Djibouti,28.45
+2019,Djibouti,28.57
+2020,Djibouti,28.39
+2021,Djibouti,28.52
+2022,Djibouti,28.6
+1901,Arab Republic of Egypt,22.15
+1902,Arab Republic of Egypt,21.76
+1903,Arab Republic of Egypt,21.12
+1904,Arab Republic of Egypt,21.32
+1905,Arab Republic of Egypt,21.72
+1906,Arab Republic of Egypt,22.19
+1907,Arab Republic of Egypt,21.57
+1908,Arab Republic of Egypt,21.81
+1909,Arab Republic of Egypt,22.77
+1910,Arab Republic of Egypt,21.75
+1911,Arab Republic of Egypt,21.71
+1912,Arab Republic of Egypt,21.7
+1913,Arab Republic of Egypt,21.57
+1914,Arab Republic of Egypt,22.21
+1915,Arab Republic of Egypt,23.11
+1916,Arab Republic of Egypt,23.04
+1917,Arab Republic of Egypt,22.5
+1918,Arab Republic of Egypt,22.47
+1919,Arab Republic of Egypt,22.8
+1920,Arab Republic of Egypt,22
+1921,Arab Republic of Egypt,22.13
+1922,Arab Republic of Egypt,22.64
+1923,Arab Republic of Egypt,22.55
+1924,Arab Republic of Egypt,22.55
+1925,Arab Republic of Egypt,22.57
+1926,Arab Republic of Egypt,22.36
+1927,Arab Republic of Egypt,22.84
+1928,Arab Republic of Egypt,23.08
+1929,Arab Republic of Egypt,22.48
+1930,Arab Republic of Egypt,22.85
+1931,Arab Republic of Egypt,22.86
+1932,Arab Republic of Egypt,22.78
+1933,Arab Republic of Egypt,22.51
+1934,Arab Republic of Egypt,22.83
+1935,Arab Republic of Egypt,22.88
+1936,Arab Republic of Egypt,23.16
+1937,Arab Republic of Egypt,23.01
+1938,Arab Republic of Egypt,22.37
+1939,Arab Republic of Egypt,23.14
+1940,Arab Republic of Egypt,22.82
+1941,Arab Republic of Egypt,22.89
+1942,Arab Republic of Egypt,22.7
+1943,Arab Republic of Egypt,22.22
+1944,Arab Republic of Egypt,22.33
+1945,Arab Republic of Egypt,21.9
+1946,Arab Republic of Egypt,22.54
+1947,Arab Republic of Egypt,22.87
+1948,Arab Republic of Egypt,21.74
+1949,Arab Republic of Egypt,21.71
+1950,Arab Republic of Egypt,22.2
+1951,Arab Republic of Egypt,22.44
+1952,Arab Republic of Egypt,22.54
+1953,Arab Republic of Egypt,21.98
+1954,Arab Republic of Egypt,22.05
+1955,Arab Republic of Egypt,22.73
+1956,Arab Republic of Egypt,22.32
+1957,Arab Republic of Egypt,22.37
+1958,Arab Republic of Egypt,22.68
+1959,Arab Republic of Egypt,21.68
+1960,Arab Republic of Egypt,22.96
+1961,Arab Republic of Egypt,21.76
+1962,Arab Republic of Egypt,22.92
+1963,Arab Republic of Egypt,22.92
+1964,Arab Republic of Egypt,21.65
+1965,Arab Republic of Egypt,22.05
+1966,Arab Republic of Egypt,22.76
+1967,Arab Republic of Egypt,21.58
+1968,Arab Republic of Egypt,22.4
+1969,Arab Republic of Egypt,22.72
+1970,Arab Republic of Egypt,22
+1971,Arab Republic of Egypt,22.01
+1972,Arab Republic of Egypt,22.14
+1973,Arab Republic of Egypt,22.06
+1974,Arab Republic of Egypt,22.19
+1975,Arab Republic of Egypt,22.02
+1976,Arab Republic of Egypt,22.19
+1977,Arab Republic of Egypt,22.08
+1978,Arab Republic of Egypt,22.27
+1979,Arab Republic of Egypt,22.9
+1980,Arab Republic of Egypt,22.43
+1981,Arab Republic of Egypt,22.22
+1982,Arab Republic of Egypt,21.84
+1983,Arab Republic of Egypt,21.6
+1984,Arab Republic of Egypt,22.24
+1985,Arab Republic of Egypt,22.6
+1986,Arab Republic of Egypt,22.43
+1987,Arab Republic of Egypt,22.33
+1988,Arab Republic of Egypt,22.6
+1989,Arab Republic of Egypt,22.35
+1990,Arab Republic of Egypt,22.59
+1991,Arab Republic of Egypt,22.52
+1992,Arab Republic of Egypt,21.91
+1993,Arab Republic of Egypt,22.71
+1994,Arab Republic of Egypt,22.75
+1995,Arab Republic of Egypt,22.68
+1996,Arab Republic of Egypt,22.87
+1997,Arab Republic of Egypt,22.41
+1998,Arab Republic of Egypt,23.17
+1999,Arab Republic of Egypt,23.2
+2000,Arab Republic of Egypt,22.36
+2001,Arab Republic of Egypt,23.15
+2002,Arab Republic of Egypt,23.26
+2003,Arab Republic of Egypt,23.07
+2004,Arab Republic of Egypt,23.01
+2005,Arab Republic of Egypt,23
+2006,Arab Republic of Egypt,23
+2007,Arab Republic of Egypt,23.13
+2008,Arab Republic of Egypt,23.43
+2009,Arab Republic of Egypt,23.28
+2010,Arab Republic of Egypt,24.57
+2011,Arab Republic of Egypt,22.84
+2012,Arab Republic of Egypt,23.49
+2013,Arab Republic of Egypt,23.4
+2014,Arab Republic of Egypt,23.66
+2015,Arab Republic of Egypt,23.44
+2016,Arab Republic of Egypt,23.82
+2017,Arab Republic of Egypt,23.31
+2018,Arab Republic of Egypt,24.08
+2019,Arab Republic of Egypt,23.38
+2020,Arab Republic of Egypt,23.18
+2021,Arab Republic of Egypt,23.88
+2022,Arab Republic of Egypt,23.23
+1901,Equatorial Guinea,23.94
+1902,Equatorial Guinea,24.21
+1903,Equatorial Guinea,24.35
+1904,Equatorial Guinea,24.05
+1905,Equatorial Guinea,24.48
+1906,Equatorial Guinea,24.42
+1907,Equatorial Guinea,24.47
+1908,Equatorial Guinea,24.04
+1909,Equatorial Guinea,24.62
+1910,Equatorial Guinea,23.95
+1911,Equatorial Guinea,24.42
+1912,Equatorial Guinea,24.49
+1913,Equatorial Guinea,24.04
+1914,Equatorial Guinea,24.5
+1915,Equatorial Guinea,24.31
+1916,Equatorial Guinea,24.32
+1917,Equatorial Guinea,24.31
+1918,Equatorial Guinea,24.31
+1919,Equatorial Guinea,24.31
+1920,Equatorial Guinea,24.32
+1921,Equatorial Guinea,24.31
+1922,Equatorial Guinea,24.31
+1923,Equatorial Guinea,24.31
+1924,Equatorial Guinea,24.32
+1925,Equatorial Guinea,24.31
+1926,Equatorial Guinea,24.31
+1927,Equatorial Guinea,24.31
+1928,Equatorial Guinea,24.31
+1929,Equatorial Guinea,24.31
+1930,Equatorial Guinea,24.31
+1931,Equatorial Guinea,24.32
+1932,Equatorial Guinea,24.32
+1933,Equatorial Guinea,24.32
+1934,Equatorial Guinea,24.31
+1935,Equatorial Guinea,24.31
+1936,Equatorial Guinea,24.32
+1937,Equatorial Guinea,24.31
+1938,Equatorial Guinea,24.32
+1939,Equatorial Guinea,24.32
+1940,Equatorial Guinea,24.32
+1941,Equatorial Guinea,24.89
+1942,Equatorial Guinea,24.76
+1943,Equatorial Guinea,24.15
+1944,Equatorial Guinea,24.77
+1945,Equatorial Guinea,24.8
+1946,Equatorial Guinea,24.54
+1947,Equatorial Guinea,24.81
+1948,Equatorial Guinea,24.41
+1949,Equatorial Guinea,24.82
+1950,Equatorial Guinea,24.67
+1951,Equatorial Guinea,24.66
+1952,Equatorial Guinea,24.55
+1953,Equatorial Guinea,24.47
+1954,Equatorial Guinea,24.09
+1955,Equatorial Guinea,24.24
+1956,Equatorial Guinea,24.1
+1957,Equatorial Guinea,24.5
+1958,Equatorial Guinea,24.38
+1959,Equatorial Guinea,24.5
+1960,Equatorial Guinea,24.55
+1961,Equatorial Guinea,24.3
+1962,Equatorial Guinea,24.37
+1963,Equatorial Guinea,24.72
+1964,Equatorial Guinea,24.34
+1965,Equatorial Guinea,24.3
+1966,Equatorial Guinea,24.64
+1967,Equatorial Guinea,24.39
+1968,Equatorial Guinea,24.35
+1969,Equatorial Guinea,24.54
+1970,Equatorial Guinea,24.51
+1971,Equatorial Guinea,24.08
+1972,Equatorial Guinea,24.14
+1973,Equatorial Guinea,24.49
+1974,Equatorial Guinea,24
+1975,Equatorial Guinea,23.99
+1976,Equatorial Guinea,23.78
+1977,Equatorial Guinea,24.27
+1978,Equatorial Guinea,24.22
+1979,Equatorial Guinea,24.5
+1980,Equatorial Guinea,24.48
+1981,Equatorial Guinea,24.22
+1982,Equatorial Guinea,24.06
+1983,Equatorial Guinea,24.39
+1984,Equatorial Guinea,24.47
+1985,Equatorial Guinea,24.17
+1986,Equatorial Guinea,24.04
+1987,Equatorial Guinea,24.71
+1988,Equatorial Guinea,24.44
+1989,Equatorial Guinea,24.43
+1990,Equatorial Guinea,24.55
+1991,Equatorial Guinea,24.37
+1992,Equatorial Guinea,24.14
+1993,Equatorial Guinea,24.31
+1994,Equatorial Guinea,24.29
+1995,Equatorial Guinea,24.55
+1996,Equatorial Guinea,24.33
+1997,Equatorial Guinea,24.3
+1998,Equatorial Guinea,25.05
+1999,Equatorial Guinea,24.51
+2000,Equatorial Guinea,24.47
+2001,Equatorial Guinea,24.55
+2002,Equatorial Guinea,24.77
+2003,Equatorial Guinea,24.77
+2004,Equatorial Guinea,24.76
+2005,Equatorial Guinea,24.72
+2006,Equatorial Guinea,24.76
+2007,Equatorial Guinea,24.74
+2008,Equatorial Guinea,24.56
+2009,Equatorial Guinea,24.7
+2010,Equatorial Guinea,24.92
+2011,Equatorial Guinea,24.58
+2012,Equatorial Guinea,24.64
+2013,Equatorial Guinea,24.65
+2014,Equatorial Guinea,24.68
+2015,Equatorial Guinea,24.87
+2016,Equatorial Guinea,25.06
+2017,Equatorial Guinea,24.82
+2018,Equatorial Guinea,24.94
+2019,Equatorial Guinea,24.83
+2020,Equatorial Guinea,25.08
+2021,Equatorial Guinea,25.08
+2022,Equatorial Guinea,24.89
+1901,Eritrea,26.49
+1902,Eritrea,25.92
+1903,Eritrea,25.75
+1904,Eritrea,25.84
+1905,Eritrea,25.76
+1906,Eritrea,26.06
+1907,Eritrea,25.74
+1908,Eritrea,25.85
+1909,Eritrea,25.82
+1910,Eritrea,25.9
+1911,Eritrea,26.05
+1912,Eritrea,25.67
+1913,Eritrea,25.47
+1914,Eritrea,25.98
+1915,Eritrea,26.21
+1916,Eritrea,25.5
+1917,Eritrea,25.56
+1918,Eritrea,25.64
+1919,Eritrea,26.16
+1920,Eritrea,25.25
+1921,Eritrea,25.59
+1922,Eritrea,25.61
+1923,Eritrea,25.52
+1924,Eritrea,25.93
+1925,Eritrea,25.73
+1926,Eritrea,25.82
+1927,Eritrea,26.11
+1928,Eritrea,26.54
+1929,Eritrea,25.82
+1930,Eritrea,25.72
+1931,Eritrea,26.16
+1932,Eritrea,25.8
+1933,Eritrea,26.26
+1934,Eritrea,25.87
+1935,Eritrea,26.01
+1936,Eritrea,26.32
+1937,Eritrea,26.04
+1938,Eritrea,25.97
+1939,Eritrea,26.54
+1940,Eritrea,26.56
+1941,Eritrea,25.79
+1942,Eritrea,25.47
+1943,Eritrea,24.7
+1944,Eritrea,25.29
+1945,Eritrea,25.04
+1946,Eritrea,25.36
+1947,Eritrea,25.68
+1948,Eritrea,25.08
+1949,Eritrea,24.89
+1950,Eritrea,25.4
+1951,Eritrea,25.34
+1952,Eritrea,25.77
+1953,Eritrea,25.77
+1954,Eritrea,25.87
+1955,Eritrea,26.04
+1956,Eritrea,25.41
+1957,Eritrea,25.5
+1958,Eritrea,25.91
+1959,Eritrea,25.4
+1960,Eritrea,25.84
+1961,Eritrea,25.06
+1962,Eritrea,25.54
+1963,Eritrea,25.88
+1964,Eritrea,25.01
+1965,Eritrea,25.6
+1966,Eritrea,25.85
+1967,Eritrea,25.03
+1968,Eritrea,25.22
+1969,Eritrea,26.2
+1970,Eritrea,25.75
+1971,Eritrea,25.17
+1972,Eritrea,25.63
+1973,Eritrea,26.16
+1974,Eritrea,25.68
+1975,Eritrea,25.79
+1976,Eritrea,26.14
+1977,Eritrea,25.88
+1978,Eritrea,26.11
+1979,Eritrea,26.43
+1980,Eritrea,26.63
+1981,Eritrea,25.98
+1982,Eritrea,25.86
+1983,Eritrea,25.96
+1984,Eritrea,26.39
+1985,Eritrea,26.21
+1986,Eritrea,26.1
+1987,Eritrea,26.05
+1988,Eritrea,25.73
+1989,Eritrea,25.35
+1990,Eritrea,26.2
+1991,Eritrea,26.21
+1992,Eritrea,25.61
+1993,Eritrea,26.15
+1994,Eritrea,26.05
+1995,Eritrea,25.9
+1996,Eritrea,26.36
+1997,Eritrea,26.31
+1998,Eritrea,26.62
+1999,Eritrea,26.52
+2000,Eritrea,26.44
+2001,Eritrea,26.58
+2002,Eritrea,26.93
+2003,Eritrea,26.64
+2004,Eritrea,26.54
+2005,Eritrea,26.81
+2006,Eritrea,26.51
+2007,Eritrea,26.42
+2008,Eritrea,26.59
+2009,Eritrea,27.23
+2010,Eritrea,27.38
+2011,Eritrea,26.77
+2012,Eritrea,26.94
+2013,Eritrea,27.04
+2014,Eritrea,26.7
+2015,Eritrea,27.25
+2016,Eritrea,27.26
+2017,Eritrea,27.07
+2018,Eritrea,26.91
+2019,Eritrea,26.68
+2020,Eritrea,26.36
+2021,Eritrea,26.88
+2022,Eritrea,26.49
+1901,Eswatini,19.33
+1902,Eswatini,19.33
+1903,Eswatini,19.43
+1904,Eswatini,19.23
+1905,Eswatini,19.35
+1906,Eswatini,19.02
+1907,Eswatini,18.79
+1908,Eswatini,19.21
+1909,Eswatini,19.1
+1910,Eswatini,18.58
+1911,Eswatini,18.82
+1912,Eswatini,19.42
+1913,Eswatini,19.62
+1914,Eswatini,19.74
+1915,Eswatini,19.34
+1916,Eswatini,19.36
+1917,Eswatini,18.89
+1918,Eswatini,19.02
+1919,Eswatini,19.3
+1920,Eswatini,19.41
+1921,Eswatini,18.99
+1922,Eswatini,19.7
+1923,Eswatini,19.69
+1924,Eswatini,18.93
+1925,Eswatini,19.33
+1926,Eswatini,19.47
+1927,Eswatini,19.62
+1928,Eswatini,19.48
+1929,Eswatini,19.4
+1930,Eswatini,19.12
+1931,Eswatini,19.85
+1932,Eswatini,19.9
+1933,Eswatini,19.81
+1934,Eswatini,19.97
+1935,Eswatini,19.03
+1936,Eswatini,19.38
+1937,Eswatini,19.72
+1938,Eswatini,19.89
+1939,Eswatini,19.3
+1940,Eswatini,20.04
+1941,Eswatini,20.48
+1942,Eswatini,19.96
+1943,Eswatini,19.36
+1944,Eswatini,20.07
+1945,Eswatini,19.77
+1946,Eswatini,20.18
+1947,Eswatini,20.13
+1948,Eswatini,19.87
+1949,Eswatini,19.93
+1950,Eswatini,19.98
+1951,Eswatini,19.54
+1952,Eswatini,20.15
+1953,Eswatini,19.51
+1954,Eswatini,19.55
+1955,Eswatini,19.11
+1956,Eswatini,19.76
+1957,Eswatini,20.24
+1958,Eswatini,20.24
+1959,Eswatini,19.95
+1960,Eswatini,19.74
+1961,Eswatini,19.97
+1962,Eswatini,20.22
+1963,Eswatini,19.59
+1964,Eswatini,19.56
+1965,Eswatini,19.63
+1966,Eswatini,19.86
+1967,Eswatini,19.45
+1968,Eswatini,19.52
+1969,Eswatini,20.15
+1970,Eswatini,20.32
+1971,Eswatini,19.65
+1972,Eswatini,19.71
+1973,Eswatini,19.82
+1974,Eswatini,19.66
+1975,Eswatini,19.5
+1976,Eswatini,19.48
+1977,Eswatini,20.22
+1978,Eswatini,19.9
+1979,Eswatini,20.15
+1980,Eswatini,19.88
+1981,Eswatini,19.37
+1982,Eswatini,20.18
+1983,Eswatini,20.69
+1984,Eswatini,20.05
+1985,Eswatini,20.58
+1986,Eswatini,20.46
+1987,Eswatini,20.6
+1988,Eswatini,20.31
+1989,Eswatini,20.05
+1990,Eswatini,20.02
+1991,Eswatini,20.31
+1992,Eswatini,21.05
+1993,Eswatini,20.7
+1994,Eswatini,19.75
+1995,Eswatini,20.35
+1996,Eswatini,19.86
+1997,Eswatini,20
+1998,Eswatini,20.66
+1999,Eswatini,20.57
+2000,Eswatini,19.74
+2001,Eswatini,20.21
+2002,Eswatini,20.32
+2003,Eswatini,20.69
+2004,Eswatini,20.75
+2005,Eswatini,21.07
+2006,Eswatini,20.38
+2007,Eswatini,20.63
+2008,Eswatini,20.78
+2009,Eswatini,20.63
+2010,Eswatini,20.87
+2011,Eswatini,20.36
+2012,Eswatini,20.8
+2013,Eswatini,20.66
+2014,Eswatini,20.74
+2015,Eswatini,21.34
+2016,Eswatini,21.36
+2017,Eswatini,20.86
+2018,Eswatini,21.21
+2019,Eswatini,21.63
+2020,Eswatini,20.84
+2021,Eswatini,20.52
+2022,Eswatini,20.92
+1901,Ethiopia,22.95
+1902,Ethiopia,22.88
+1903,Ethiopia,22.96
+1904,Ethiopia,22.72
+1905,Ethiopia,22.81
+1906,Ethiopia,22.84
+1907,Ethiopia,22.56
+1908,Ethiopia,22.92
+1909,Ethiopia,22.31
+1910,Ethiopia,22.93
+1911,Ethiopia,22.86
+1912,Ethiopia,22.23
+1913,Ethiopia,22.32
+1914,Ethiopia,22.66
+1915,Ethiopia,22.67
+1916,Ethiopia,22.37
+1917,Ethiopia,22.4
+1918,Ethiopia,22.46
+1919,Ethiopia,22.66
+1920,Ethiopia,22.34
+1921,Ethiopia,22.73
+1922,Ethiopia,22.88
+1923,Ethiopia,22.6
+1924,Ethiopia,23.18
+1925,Ethiopia,22.87
+1926,Ethiopia,22.84
+1927,Ethiopia,22.91
+1928,Ethiopia,23.24
+1929,Ethiopia,22.54
+1930,Ethiopia,22.35
+1931,Ethiopia,22.87
+1932,Ethiopia,22.59
+1933,Ethiopia,22.88
+1934,Ethiopia,22.7
+1935,Ethiopia,22.72
+1936,Ethiopia,22.78
+1937,Ethiopia,22.88
+1938,Ethiopia,22.72
+1939,Ethiopia,23.04
+1940,Ethiopia,23.13
+1941,Ethiopia,22.83
+1942,Ethiopia,22.72
+1943,Ethiopia,22.39
+1944,Ethiopia,22.65
+1945,Ethiopia,22.49
+1946,Ethiopia,22.69
+1947,Ethiopia,22.81
+1948,Ethiopia,22.37
+1949,Ethiopia,22.23
+1950,Ethiopia,22.25
+1951,Ethiopia,22.78
+1952,Ethiopia,23.01
+1953,Ethiopia,23.15
+1954,Ethiopia,23.12
+1955,Ethiopia,23.17
+1956,Ethiopia,22.44
+1957,Ethiopia,22.49
+1958,Ethiopia,22.86
+1959,Ethiopia,22.71
+1960,Ethiopia,22.6
+1961,Ethiopia,22.31
+1962,Ethiopia,22.36
+1963,Ethiopia,22.57
+1964,Ethiopia,22.15
+1965,Ethiopia,22.54
+1966,Ethiopia,22.65
+1967,Ethiopia,22.15
+1968,Ethiopia,22.17
+1969,Ethiopia,22.89
+1970,Ethiopia,22.81
+1971,Ethiopia,22.3
+1972,Ethiopia,22.75
+1973,Ethiopia,23.12
+1974,Ethiopia,22.49
+1975,Ethiopia,22.61
+1976,Ethiopia,22.92
+1977,Ethiopia,22.91
+1978,Ethiopia,22.94
+1979,Ethiopia,23.08
+1980,Ethiopia,23.38
+1981,Ethiopia,22.73
+1982,Ethiopia,22.87
+1983,Ethiopia,23.08
+1984,Ethiopia,22.9
+1985,Ethiopia,22.77
+1986,Ethiopia,22.95
+1987,Ethiopia,23.14
+1988,Ethiopia,22.98
+1989,Ethiopia,22.45
+1990,Ethiopia,23.05
+1991,Ethiopia,23.14
+1992,Ethiopia,22.81
+1993,Ethiopia,22.83
+1994,Ethiopia,22.91
+1995,Ethiopia,23.11
+1996,Ethiopia,23.14
+1997,Ethiopia,23.14
+1998,Ethiopia,23.39
+1999,Ethiopia,22.82
+2000,Ethiopia,23.15
+2001,Ethiopia,23.29
+2002,Ethiopia,23.73
+2003,Ethiopia,23.46
+2004,Ethiopia,23.41
+2005,Ethiopia,23.5
+2006,Ethiopia,23.42
+2007,Ethiopia,23.32
+2008,Ethiopia,23.25
+2009,Ethiopia,23.96
+2010,Ethiopia,23.68
+2011,Ethiopia,23.57
+2012,Ethiopia,23.39
+2013,Ethiopia,23.74
+2014,Ethiopia,23.51
+2015,Ethiopia,23.94
+2016,Ethiopia,23.92
+2017,Ethiopia,23.64
+2018,Ethiopia,23.26
+2019,Ethiopia,23.42
+2020,Ethiopia,23.35
+2021,Ethiopia,23.41
+2022,Ethiopia,23.45
+1901,Gabon,24.51
+1902,Gabon,24.71
+1903,Gabon,24.85
+1904,Gabon,24.55
+1905,Gabon,24.94
+1906,Gabon,24.86
+1907,Gabon,24.93
+1908,Gabon,24.52
+1909,Gabon,25.09
+1910,Gabon,24.51
+1911,Gabon,24.94
+1912,Gabon,25
+1913,Gabon,24.57
+1914,Gabon,24.96
+1915,Gabon,24.79
+1916,Gabon,24.77
+1917,Gabon,24.79
+1918,Gabon,24.78
+1919,Gabon,24.78
+1920,Gabon,24.79
+1921,Gabon,24.79
+1922,Gabon,24.78
+1923,Gabon,24.77
+1924,Gabon,24.83
+1925,Gabon,24.79
+1926,Gabon,24.79
+1927,Gabon,24.8
+1928,Gabon,24.82
+1929,Gabon,24.76
+1930,Gabon,24.8
+1931,Gabon,24.81
+1932,Gabon,24.76
+1933,Gabon,24.84
+1934,Gabon,24.85
+1935,Gabon,24.81
+1936,Gabon,24.78
+1937,Gabon,24.86
+1938,Gabon,24.81
+1939,Gabon,24.82
+1940,Gabon,24.8
+1941,Gabon,25.34
+1942,Gabon,25.18
+1943,Gabon,24.63
+1944,Gabon,25.27
+1945,Gabon,25.2
+1946,Gabon,24.96
+1947,Gabon,25.31
+1948,Gabon,24.89
+1949,Gabon,25.27
+1950,Gabon,25.06
+1951,Gabon,25.22
+1952,Gabon,25.13
+1953,Gabon,25.1
+1954,Gabon,24.76
+1955,Gabon,24.91
+1956,Gabon,24.82
+1957,Gabon,25.12
+1958,Gabon,25
+1959,Gabon,25.09
+1960,Gabon,25.21
+1961,Gabon,24.85
+1962,Gabon,24.95
+1963,Gabon,25.22
+1964,Gabon,24.94
+1965,Gabon,24.91
+1966,Gabon,25.27
+1967,Gabon,24.95
+1968,Gabon,24.94
+1969,Gabon,25.18
+1970,Gabon,25.07
+1971,Gabon,24.66
+1972,Gabon,24.64
+1973,Gabon,24.87
+1974,Gabon,24.38
+1975,Gabon,24.42
+1976,Gabon,24.15
+1977,Gabon,24.62
+1978,Gabon,24.53
+1979,Gabon,25.03
+1980,Gabon,24.92
+1981,Gabon,24.82
+1982,Gabon,24.6
+1983,Gabon,25.04
+1984,Gabon,25.1
+1985,Gabon,24.77
+1986,Gabon,24.71
+1987,Gabon,25.27
+1988,Gabon,25.03
+1989,Gabon,24.98
+1990,Gabon,25.08
+1991,Gabon,24.93
+1992,Gabon,24.65
+1993,Gabon,24.82
+1994,Gabon,24.8
+1995,Gabon,25.05
+1996,Gabon,24.81
+1997,Gabon,24.85
+1998,Gabon,25.57
+1999,Gabon,25.02
+2000,Gabon,24.96
+2001,Gabon,25.11
+2002,Gabon,25.3
+2003,Gabon,25.27
+2004,Gabon,25.26
+2005,Gabon,25.29
+2006,Gabon,25.3
+2007,Gabon,25.29
+2008,Gabon,25.13
+2009,Gabon,25.25
+2010,Gabon,25.5
+2011,Gabon,25.09
+2012,Gabon,25.19
+2013,Gabon,25.23
+2014,Gabon,25.23
+2015,Gabon,25.38
+2016,Gabon,25.67
+2017,Gabon,25.33
+2018,Gabon,25.54
+2019,Gabon,25.41
+2020,Gabon,25.73
+2021,Gabon,25.66
+2022,Gabon,25.46
+1901,The Gambia,27.8
+1902,The Gambia,28.07
+1903,The Gambia,27.88
+1904,The Gambia,27.61
+1905,The Gambia,27.82
+1906,The Gambia,27.92
+1907,The Gambia,27.18
+1908,The Gambia,27.98
+1909,The Gambia,27.73
+1910,The Gambia,27.94
+1911,The Gambia,27.72
+1912,The Gambia,27.99
+1913,The Gambia,27.97
+1914,The Gambia,27.66
+1915,The Gambia,28.15
+1916,The Gambia,27.65
+1917,The Gambia,27.56
+1918,The Gambia,27.82
+1919,The Gambia,28.16
+1920,The Gambia,27.51
+1921,The Gambia,27.49
+1922,The Gambia,27.17
+1923,The Gambia,27.73
+1924,The Gambia,27.41
+1925,The Gambia,27.58
+1926,The Gambia,27.95
+1927,The Gambia,27.54
+1928,The Gambia,27.27
+1929,The Gambia,27.16
+1930,The Gambia,27.07
+1931,The Gambia,27.73
+1932,The Gambia,27.65
+1933,The Gambia,27.72
+1934,The Gambia,27.49
+1935,The Gambia,27.5
+1936,The Gambia,27.77
+1937,The Gambia,27.94
+1938,The Gambia,27.91
+1939,The Gambia,27.7
+1940,The Gambia,27.67
+1941,The Gambia,27.91
+1942,The Gambia,27.62
+1943,The Gambia,27.54
+1944,The Gambia,28.03
+1945,The Gambia,28.3
+1946,The Gambia,27.74
+1947,The Gambia,27.8
+1948,The Gambia,27.65
+1949,The Gambia,27.75
+1950,The Gambia,27.56
+1951,The Gambia,27.35
+1952,The Gambia,27.2
+1953,The Gambia,27.38
+1954,The Gambia,27.37
+1955,The Gambia,27.56
+1956,The Gambia,27.27
+1957,The Gambia,27.27
+1958,The Gambia,27.77
+1959,The Gambia,27.49
+1960,The Gambia,27.64
+1961,The Gambia,27.69
+1962,The Gambia,27.81
+1963,The Gambia,27.89
+1964,The Gambia,27.7
+1965,The Gambia,27.3
+1966,The Gambia,27.75
+1967,The Gambia,27.03
+1968,The Gambia,27.39
+1969,The Gambia,28.36
+1970,The Gambia,28.12
+1971,The Gambia,27.12
+1972,The Gambia,27.55
+1973,The Gambia,27.77
+1974,The Gambia,26.94
+1975,The Gambia,27.08
+1976,The Gambia,27.03
+1977,The Gambia,27.77
+1978,The Gambia,27.5
+1979,The Gambia,27.86
+1980,The Gambia,27.81
+1981,The Gambia,27.85
+1982,The Gambia,27.35
+1983,The Gambia,28.34
+1984,The Gambia,27.69
+1985,The Gambia,27.53
+1986,The Gambia,27.45
+1987,The Gambia,28.15
+1988,The Gambia,27.8
+1989,The Gambia,27.62
+1990,The Gambia,28.19
+1991,The Gambia,28.02
+1992,The Gambia,27.94
+1993,The Gambia,28.07
+1994,The Gambia,27.75
+1995,The Gambia,27.91
+1996,The Gambia,28.34
+1997,The Gambia,28.5
+1998,The Gambia,28.88
+1999,The Gambia,27.92
+2000,The Gambia,28.07
+2001,The Gambia,28.51
+2002,The Gambia,28.47
+2003,The Gambia,28.4
+2004,The Gambia,28.47
+2005,The Gambia,28.69
+2006,The Gambia,28.38
+2007,The Gambia,28.45
+2008,The Gambia,28.45
+2009,The Gambia,28.09
+2010,The Gambia,28.86
+2011,The Gambia,28.34
+2012,The Gambia,28.33
+2013,The Gambia,28.44
+2014,The Gambia,28.41
+2015,The Gambia,28.57
+2016,The Gambia,28.8
+2017,The Gambia,28.82
+2018,The Gambia,28.23
+2019,The Gambia,28.25
+2020,The Gambia,29.06
+2021,The Gambia,29.03
+2022,The Gambia,28.46
+1901,Ghana,27.04
+1902,Ghana,27.1
+1903,Ghana,27.21
+1904,Ghana,27.22
+1905,Ghana,26.94
+1906,Ghana,27.34
+1907,Ghana,27.1
+1908,Ghana,27.16
+1909,Ghana,27.04
+1910,Ghana,27.24
+1911,Ghana,26.97
+1912,Ghana,27.26
+1913,Ghana,27.4
+1914,Ghana,27.57
+1915,Ghana,26.98
+1916,Ghana,26.82
+1917,Ghana,26.89
+1918,Ghana,26.84
+1919,Ghana,27.21
+1920,Ghana,27.27
+1921,Ghana,27.21
+1922,Ghana,27.06
+1923,Ghana,26.89
+1924,Ghana,27.16
+1925,Ghana,26.69
+1926,Ghana,27.13
+1927,Ghana,26.36
+1928,Ghana,26.44
+1929,Ghana,26.33
+1930,Ghana,26.97
+1931,Ghana,27.46
+1932,Ghana,27.38
+1933,Ghana,27.35
+1934,Ghana,27.53
+1935,Ghana,27.58
+1936,Ghana,27.12
+1937,Ghana,28.25
+1938,Ghana,28.42
+1939,Ghana,27.82
+1940,Ghana,27.31
+1941,Ghana,27.78
+1942,Ghana,27.5
+1943,Ghana,27.11
+1944,Ghana,27.54
+1945,Ghana,27.24
+1946,Ghana,27.06
+1947,Ghana,27.43
+1948,Ghana,26.96
+1949,Ghana,27.51
+1950,Ghana,26.9
+1951,Ghana,27.45
+1952,Ghana,27.28
+1953,Ghana,27.17
+1954,Ghana,26.88
+1955,Ghana,26.8
+1956,Ghana,26.84
+1957,Ghana,27.03
+1958,Ghana,27.24
+1959,Ghana,27.22
+1960,Ghana,27.08
+1961,Ghana,26.98
+1962,Ghana,26.96
+1963,Ghana,27.27
+1964,Ghana,26.87
+1965,Ghana,26.99
+1966,Ghana,27.32
+1967,Ghana,26.96
+1968,Ghana,27.21
+1969,Ghana,27.51
+1970,Ghana,27.37
+1971,Ghana,26.59
+1972,Ghana,26.88
+1973,Ghana,27.35
+1974,Ghana,26.66
+1975,Ghana,26.53
+1976,Ghana,26.48
+1977,Ghana,27.15
+1978,Ghana,26.87
+1979,Ghana,27.17
+1980,Ghana,27.06
+1981,Ghana,27.48
+1982,Ghana,27.25
+1983,Ghana,27.76
+1984,Ghana,27.64
+1985,Ghana,27.48
+1986,Ghana,27.34
+1987,Ghana,27.79
+1988,Ghana,27.3
+1989,Ghana,26.99
+1990,Ghana,27.37
+1991,Ghana,27.21
+1992,Ghana,27.06
+1993,Ghana,27.24
+1994,Ghana,27.2
+1995,Ghana,27.44
+1996,Ghana,27.39
+1997,Ghana,27.4
+1998,Ghana,27.96
+1999,Ghana,27.34
+2000,Ghana,27.5
+2001,Ghana,27.58
+2002,Ghana,27.67
+2003,Ghana,27.71
+2004,Ghana,27.6
+2005,Ghana,27.88
+2006,Ghana,27.74
+2007,Ghana,27.74
+2008,Ghana,27.44
+2009,Ghana,27.76
+2010,Ghana,28.07
+2011,Ghana,27.77
+2012,Ghana,27.53
+2013,Ghana,27.7
+2014,Ghana,27.83
+2015,Ghana,27.95
+2016,Ghana,28.21
+2017,Ghana,28.04
+2018,Ghana,27.95
+2019,Ghana,27.81
+2020,Ghana,28.1
+2021,Ghana,28.3
+2022,Ghana,27.73
+1901,Guinea,25.7
+1902,Guinea,25.85
+1903,Guinea,25.53
+1904,Guinea,25.38
+1905,Guinea,25.52
+1906,Guinea,25.51
+1907,Guinea,25.15
+1908,Guinea,25.66
+1909,Guinea,25.5
+1910,Guinea,25.7
+1911,Guinea,25.4
+1912,Guinea,25.85
+1913,Guinea,25.59
+1914,Guinea,25.46
+1915,Guinea,25.78
+1916,Guinea,25.34
+1917,Guinea,25.36
+1918,Guinea,25.37
+1919,Guinea,25.54
+1920,Guinea,25.3
+1921,Guinea,25.2
+1922,Guinea,25.09
+1923,Guinea,25.4
+1924,Guinea,25.11
+1925,Guinea,25.22
+1926,Guinea,25.31
+1927,Guinea,24.79
+1928,Guinea,24.7
+1929,Guinea,24.6
+1930,Guinea,24.69
+1931,Guinea,25.36
+1932,Guinea,25.2
+1933,Guinea,25.31
+1934,Guinea,25.31
+1935,Guinea,25.26
+1936,Guinea,25.32
+1937,Guinea,25.58
+1938,Guinea,25.63
+1939,Guinea,25.53
+1940,Guinea,25.46
+1941,Guinea,25.77
+1942,Guinea,25.51
+1943,Guinea,25.15
+1944,Guinea,25.69
+1945,Guinea,25.71
+1946,Guinea,25.4
+1947,Guinea,25.54
+1948,Guinea,25.22
+1949,Guinea,25.42
+1950,Guinea,25.21
+1951,Guinea,25.35
+1952,Guinea,25.21
+1953,Guinea,25.46
+1954,Guinea,25.07
+1955,Guinea,25.13
+1956,Guinea,25.07
+1957,Guinea,25.28
+1958,Guinea,25.43
+1959,Guinea,25.3
+1960,Guinea,25.34
+1961,Guinea,25.1
+1962,Guinea,25.15
+1963,Guinea,25.45
+1964,Guinea,25.13
+1965,Guinea,25.02
+1966,Guinea,25.32
+1967,Guinea,24.99
+1968,Guinea,25.31
+1969,Guinea,25.72
+1970,Guinea,25.51
+1971,Guinea,25.07
+1972,Guinea,25.38
+1973,Guinea,25.61
+1974,Guinea,24.97
+1975,Guinea,24.81
+1976,Guinea,24.74
+1977,Guinea,25.35
+1978,Guinea,25.14
+1979,Guinea,25.43
+1980,Guinea,25.63
+1981,Guinea,25.45
+1982,Guinea,25.15
+1983,Guinea,25.8
+1984,Guinea,25.41
+1985,Guinea,25.4
+1986,Guinea,25.08
+1987,Guinea,25.85
+1988,Guinea,25.46
+1989,Guinea,25.27
+1990,Guinea,25.55
+1991,Guinea,25.63
+1992,Guinea,25.37
+1993,Guinea,25.6
+1994,Guinea,25.23
+1995,Guinea,25.48
+1996,Guinea,25.69
+1997,Guinea,25.65
+1998,Guinea,26.22
+1999,Guinea,25.37
+2000,Guinea,25.51
+2001,Guinea,25.81
+2002,Guinea,26.03
+2003,Guinea,25.93
+2004,Guinea,26.08
+2005,Guinea,26.12
+2006,Guinea,25.93
+2007,Guinea,26.01
+2008,Guinea,25.78
+2009,Guinea,25.76
+2010,Guinea,26.26
+2011,Guinea,26.01
+2012,Guinea,25.73
+2013,Guinea,25.92
+2014,Guinea,25.86
+2015,Guinea,26.07
+2016,Guinea,26.31
+2017,Guinea,26.24
+2018,Guinea,26.1
+2019,Guinea,25.86
+2020,Guinea,26.34
+2021,Guinea,26.6
+2022,Guinea,25.95
+1901,Guinea-Bissau,27.48
+1902,Guinea-Bissau,27.69
+1903,Guinea-Bissau,27.52
+1904,Guinea-Bissau,27.25
+1905,Guinea-Bissau,27.46
+1906,Guinea-Bissau,27.55
+1907,Guinea-Bissau,26.87
+1908,Guinea-Bissau,27.59
+1909,Guinea-Bissau,27.36
+1910,Guinea-Bissau,27.6
+1911,Guinea-Bissau,27.36
+1912,Guinea-Bissau,27.65
+1913,Guinea-Bissau,27.6
+1914,Guinea-Bissau,27.3
+1915,Guinea-Bissau,27.8
+1916,Guinea-Bissau,27.32
+1917,Guinea-Bissau,27.23
+1918,Guinea-Bissau,27.43
+1919,Guinea-Bissau,27.71
+1920,Guinea-Bissau,27.18
+1921,Guinea-Bissau,27.12
+1922,Guinea-Bissau,26.89
+1923,Guinea-Bissau,27.36
+1924,Guinea-Bissau,27.02
+1925,Guinea-Bissau,27.2
+1926,Guinea-Bissau,27.51
+1927,Guinea-Bissau,27.07
+1928,Guinea-Bissau,26.83
+1929,Guinea-Bissau,26.74
+1930,Guinea-Bissau,26.68
+1931,Guinea-Bissau,27.28
+1932,Guinea-Bissau,27.22
+1933,Guinea-Bissau,27.32
+1934,Guinea-Bissau,27.08
+1935,Guinea-Bissau,27.1
+1936,Guinea-Bissau,27.33
+1937,Guinea-Bissau,27.52
+1938,Guinea-Bissau,27.5
+1939,Guinea-Bissau,27.31
+1940,Guinea-Bissau,27.32
+1941,Guinea-Bissau,27.57
+1942,Guinea-Bissau,27.3
+1943,Guinea-Bissau,27.15
+1944,Guinea-Bissau,27.64
+1945,Guinea-Bissau,27.85
+1946,Guinea-Bissau,27.35
+1947,Guinea-Bissau,27.37
+1948,Guinea-Bissau,27.19
+1949,Guinea-Bissau,27.27
+1950,Guinea-Bissau,27.13
+1951,Guinea-Bissau,27.2
+1952,Guinea-Bissau,27.05
+1953,Guinea-Bissau,27.27
+1954,Guinea-Bissau,27.07
+1955,Guinea-Bissau,27.22
+1956,Guinea-Bissau,26.98
+1957,Guinea-Bissau,27.09
+1958,Guinea-Bissau,27.43
+1959,Guinea-Bissau,27.22
+1960,Guinea-Bissau,27.33
+1961,Guinea-Bissau,27.17
+1962,Guinea-Bissau,27.33
+1963,Guinea-Bissau,27.51
+1964,Guinea-Bissau,27.23
+1965,Guinea-Bissau,26.99
+1966,Guinea-Bissau,27.32
+1967,Guinea-Bissau,26.76
+1968,Guinea-Bissau,27.05
+1969,Guinea-Bissau,27.8
+1970,Guinea-Bissau,27.58
+1971,Guinea-Bissau,26.83
+1972,Guinea-Bissau,27.25
+1973,Guinea-Bissau,27.42
+1974,Guinea-Bissau,26.73
+1975,Guinea-Bissau,26.71
+1976,Guinea-Bissau,26.73
+1977,Guinea-Bissau,27.34
+1978,Guinea-Bissau,27.05
+1979,Guinea-Bissau,27.37
+1980,Guinea-Bissau,27.41
+1981,Guinea-Bissau,27.43
+1982,Guinea-Bissau,27.07
+1983,Guinea-Bissau,27.86
+1984,Guinea-Bissau,27.31
+1985,Guinea-Bissau,27.21
+1986,Guinea-Bissau,27.11
+1987,Guinea-Bissau,27.73
+1988,Guinea-Bissau,27.4
+1989,Guinea-Bissau,27.19
+1990,Guinea-Bissau,27.68
+1991,Guinea-Bissau,27.65
+1992,Guinea-Bissau,27.47
+1993,Guinea-Bissau,27.63
+1994,Guinea-Bissau,27.37
+1995,Guinea-Bissau,27.57
+1996,Guinea-Bissau,27.89
+1997,Guinea-Bissau,28.07
+1998,Guinea-Bissau,28.49
+1999,Guinea-Bissau,27.49
+2000,Guinea-Bissau,27.64
+2001,Guinea-Bissau,28.03
+2002,Guinea-Bissau,28.06
+2003,Guinea-Bissau,28.01
+2004,Guinea-Bissau,28.11
+2005,Guinea-Bissau,28.27
+2006,Guinea-Bissau,27.97
+2007,Guinea-Bissau,28.04
+2008,Guinea-Bissau,28.04
+2009,Guinea-Bissau,27.69
+2010,Guinea-Bissau,28.44
+2011,Guinea-Bissau,28
+2012,Guinea-Bissau,27.93
+2013,Guinea-Bissau,28.02
+2014,Guinea-Bissau,28
+2015,Guinea-Bissau,28.16
+2016,Guinea-Bissau,28.39
+2017,Guinea-Bissau,28.39
+2018,Guinea-Bissau,27.9
+2019,Guinea-Bissau,27.85
+2020,Guinea-Bissau,28.65
+2021,Guinea-Bissau,28.68
+2022,Guinea-Bissau,28.05
+1901,Kenya,24.37
+1902,Kenya,24.55
+1903,Kenya,24.5
+1904,Kenya,23.87
+1905,Kenya,24.03
+1906,Kenya,23.74
+1907,Kenya,23.81
+1908,Kenya,24.45
+1909,Kenya,23.21
+1910,Kenya,23.31
+1911,Kenya,23.53
+1912,Kenya,23.13
+1913,Kenya,22.83
+1914,Kenya,23.26
+1915,Kenya,23.36
+1916,Kenya,22.91
+1917,Kenya,22.53
+1918,Kenya,22.76
+1919,Kenya,22.8
+1920,Kenya,22.77
+1921,Kenya,24.39
+1922,Kenya,24.45
+1923,Kenya,24.07
+1924,Kenya,24.96
+1925,Kenya,24.57
+1926,Kenya,24.74
+1927,Kenya,24.59
+1928,Kenya,24.96
+1929,Kenya,22.72
+1930,Kenya,22.89
+1931,Kenya,23.99
+1932,Kenya,23.32
+1933,Kenya,23.76
+1934,Kenya,23.77
+1935,Kenya,23.73
+1936,Kenya,23.58
+1937,Kenya,23.79
+1938,Kenya,23.8
+1939,Kenya,24.12
+1940,Kenya,24.49
+1941,Kenya,24.34
+1942,Kenya,24.29
+1943,Kenya,24.25
+1944,Kenya,24.5
+1945,Kenya,24.44
+1946,Kenya,24.45
+1947,Kenya,24.25
+1948,Kenya,24.25
+1949,Kenya,24.37
+1950,Kenya,23.92
+1951,Kenya,24.52
+1952,Kenya,24.94
+1953,Kenya,24.89
+1954,Kenya,24.66
+1955,Kenya,24.59
+1956,Kenya,24.12
+1957,Kenya,24.5
+1958,Kenya,24.74
+1959,Kenya,24.6
+1960,Kenya,24.42
+1961,Kenya,24.51
+1962,Kenya,24.25
+1963,Kenya,24.15
+1964,Kenya,24.05
+1965,Kenya,24.21
+1966,Kenya,24.46
+1967,Kenya,24.13
+1968,Kenya,23.68
+1969,Kenya,24.53
+1970,Kenya,24.56
+1971,Kenya,24.03
+1972,Kenya,24.61
+1973,Kenya,24.79
+1974,Kenya,24.34
+1975,Kenya,24.32
+1976,Kenya,24.6
+1977,Kenya,24.56
+1978,Kenya,24.43
+1979,Kenya,24.51
+1980,Kenya,24.73
+1981,Kenya,24.63
+1982,Kenya,24.56
+1983,Kenya,25.01
+1984,Kenya,24.53
+1985,Kenya,24.39
+1986,Kenya,24.61
+1987,Kenya,25.04
+1988,Kenya,24.92
+1989,Kenya,24.27
+1990,Kenya,24.66
+1991,Kenya,24.77
+1992,Kenya,24.67
+1993,Kenya,24.58
+1994,Kenya,24.75
+1995,Kenya,24.96
+1996,Kenya,24.84
+1997,Kenya,24.8
+1998,Kenya,25.01
+1999,Kenya,24.85
+2000,Kenya,24.91
+2001,Kenya,25.1
+2002,Kenya,25.38
+2003,Kenya,25.35
+2004,Kenya,25.05
+2005,Kenya,24.96
+2006,Kenya,25.11
+2007,Kenya,25
+2008,Kenya,24.96
+2009,Kenya,25.55
+2010,Kenya,25.41
+2011,Kenya,25.2
+2012,Kenya,24.92
+2013,Kenya,25.15
+2014,Kenya,25.11
+2015,Kenya,25.21
+2016,Kenya,25.56
+2017,Kenya,25.36
+2018,Kenya,25.01
+2019,Kenya,25.45
+2020,Kenya,25.42
+2021,Kenya,25.25
+2022,Kenya,25.22
+1901,Lesotho,10.79
+1902,Lesotho,10.63
+1903,Lesotho,10.61
+1904,Lesotho,10.75
+1905,Lesotho,10.71
+1906,Lesotho,10.49
+1907,Lesotho,10.34
+1908,Lesotho,10.54
+1909,Lesotho,10.61
+1910,Lesotho,10.33
+1911,Lesotho,10.68
+1912,Lesotho,11.02
+1913,Lesotho,11.18
+1914,Lesotho,11.28
+1915,Lesotho,11
+1916,Lesotho,10.97
+1917,Lesotho,10.43
+1918,Lesotho,10.81
+1919,Lesotho,11.14
+1920,Lesotho,11.13
+1921,Lesotho,10.61
+1922,Lesotho,11.21
+1923,Lesotho,11.32
+1924,Lesotho,10.59
+1925,Lesotho,11.04
+1926,Lesotho,11.13
+1927,Lesotho,11.48
+1928,Lesotho,11.08
+1929,Lesotho,11.18
+1930,Lesotho,11
+1931,Lesotho,11.46
+1932,Lesotho,11.78
+1933,Lesotho,11.63
+1934,Lesotho,11.75
+1935,Lesotho,10.81
+1936,Lesotho,11.21
+1937,Lesotho,11.57
+1938,Lesotho,11.57
+1939,Lesotho,11.22
+1940,Lesotho,11.79
+1941,Lesotho,12.01
+1942,Lesotho,11.6
+1943,Lesotho,10.86
+1944,Lesotho,11.67
+1945,Lesotho,11.73
+1946,Lesotho,11.89
+1947,Lesotho,11.75
+1948,Lesotho,11.52
+1949,Lesotho,11.82
+1950,Lesotho,11.71
+1951,Lesotho,11.24
+1952,Lesotho,11.84
+1953,Lesotho,11.35
+1954,Lesotho,11.26
+1955,Lesotho,10.68
+1956,Lesotho,11.37
+1957,Lesotho,11.72
+1958,Lesotho,11.86
+1959,Lesotho,11.52
+1960,Lesotho,11.66
+1961,Lesotho,11.87
+1962,Lesotho,11.93
+1963,Lesotho,11.46
+1964,Lesotho,11.43
+1965,Lesotho,11.61
+1966,Lesotho,11.97
+1967,Lesotho,11.42
+1968,Lesotho,11.22
+1969,Lesotho,12.01
+1970,Lesotho,11.95
+1971,Lesotho,11.58
+1972,Lesotho,11.76
+1973,Lesotho,11.67
+1974,Lesotho,11.46
+1975,Lesotho,11.31
+1976,Lesotho,11.19
+1977,Lesotho,11.97
+1978,Lesotho,11.6
+1979,Lesotho,12
+1980,Lesotho,11.88
+1981,Lesotho,11.16
+1982,Lesotho,11.92
+1983,Lesotho,12.55
+1984,Lesotho,12.15
+1985,Lesotho,12.49
+1986,Lesotho,12.32
+1987,Lesotho,12.3
+1988,Lesotho,11.78
+1989,Lesotho,11.65
+1990,Lesotho,11.89
+1991,Lesotho,12.1
+1992,Lesotho,12.71
+1993,Lesotho,12.4
+1994,Lesotho,11.53
+1995,Lesotho,11.99
+1996,Lesotho,11.5
+1997,Lesotho,11.72
+1998,Lesotho,12.27
+1999,Lesotho,12.67
+2000,Lesotho,11.6
+2001,Lesotho,12.01
+2002,Lesotho,12.05
+2003,Lesotho,12.38
+2004,Lesotho,12.59
+2005,Lesotho,12.66
+2006,Lesotho,12.02
+2007,Lesotho,12.46
+2008,Lesotho,12.51
+2009,Lesotho,12.31
+2010,Lesotho,12.74
+2011,Lesotho,12.02
+2012,Lesotho,12.33
+2013,Lesotho,12.31
+2014,Lesotho,12.53
+2015,Lesotho,12.97
+2016,Lesotho,13.15
+2017,Lesotho,12.69
+2018,Lesotho,12.88
+2019,Lesotho,13.54
+2020,Lesotho,12.65
+2021,Lesotho,12.28
+2022,Lesotho,12.64
+1901,Liberia,25.75
+1902,Liberia,25.58
+1903,Liberia,25.4
+1904,Liberia,25.19
+1905,Liberia,25.41
+1906,Liberia,25.39
+1907,Liberia,25.22
+1908,Liberia,25.33
+1909,Liberia,25.24
+1910,Liberia,25.55
+1911,Liberia,25.29
+1912,Liberia,25.74
+1913,Liberia,25.39
+1914,Liberia,25.36
+1915,Liberia,25.71
+1916,Liberia,25.47
+1917,Liberia,25.4
+1918,Liberia,25.22
+1919,Liberia,25.01
+1920,Liberia,25.14
+1921,Liberia,25.05
+1922,Liberia,25.17
+1923,Liberia,25.31
+1924,Liberia,24.97
+1925,Liberia,24.89
+1926,Liberia,25.21
+1927,Liberia,24.64
+1928,Liberia,24.54
+1929,Liberia,24.51
+1930,Liberia,24.56
+1931,Liberia,24.97
+1932,Liberia,24.92
+1933,Liberia,25.03
+1934,Liberia,25.07
+1935,Liberia,24.93
+1936,Liberia,24.98
+1937,Liberia,25.2
+1938,Liberia,25.22
+1939,Liberia,25.19
+1940,Liberia,25.26
+1941,Liberia,25.56
+1942,Liberia,25.27
+1943,Liberia,25.01
+1944,Liberia,25.45
+1945,Liberia,25.42
+1946,Liberia,25.17
+1947,Liberia,25.2
+1948,Liberia,24.94
+1949,Liberia,25.19
+1950,Liberia,24.96
+1951,Liberia,25.16
+1952,Liberia,25.19
+1953,Liberia,25.26
+1954,Liberia,24.91
+1955,Liberia,24.95
+1956,Liberia,24.85
+1957,Liberia,25.13
+1958,Liberia,25.16
+1959,Liberia,25.02
+1960,Liberia,25.13
+1961,Liberia,24.99
+1962,Liberia,25
+1963,Liberia,25.22
+1964,Liberia,24.9
+1965,Liberia,24.75
+1966,Liberia,25.11
+1967,Liberia,24.89
+1968,Liberia,25.07
+1969,Liberia,25.36
+1970,Liberia,25.22
+1971,Liberia,24.51
+1972,Liberia,24.88
+1973,Liberia,25.26
+1974,Liberia,24.83
+1975,Liberia,24.67
+1976,Liberia,24.47
+1977,Liberia,25.01
+1978,Liberia,24.84
+1979,Liberia,25.15
+1980,Liberia,25.13
+1981,Liberia,25.14
+1982,Liberia,24.86
+1983,Liberia,25.33
+1984,Liberia,25.14
+1985,Liberia,24.97
+1986,Liberia,24.8
+1987,Liberia,25.67
+1988,Liberia,25.27
+1989,Liberia,25.11
+1990,Liberia,25.24
+1991,Liberia,25.18
+1992,Liberia,25.04
+1993,Liberia,25.11
+1994,Liberia,25.06
+1995,Liberia,25.32
+1996,Liberia,25.31
+1997,Liberia,25.34
+1998,Liberia,25.86
+1999,Liberia,25.25
+2000,Liberia,25.25
+2001,Liberia,25.26
+2002,Liberia,25.5
+2003,Liberia,25.48
+2004,Liberia,25.57
+2005,Liberia,25.68
+2006,Liberia,25.53
+2007,Liberia,25.59
+2008,Liberia,25.2
+2009,Liberia,25.38
+2010,Liberia,25.78
+2011,Liberia,25.48
+2012,Liberia,25.24
+2013,Liberia,25.41
+2014,Liberia,25.46
+2015,Liberia,25.64
+2016,Liberia,25.93
+2017,Liberia,25.8
+2018,Liberia,25.62
+2019,Liberia,25.44
+2020,Liberia,25.73
+2021,Liberia,25.87
+2022,Liberia,25.47
+1901,Libya,21.96
+1902,Libya,21.9
+1903,Libya,21.79
+1904,Libya,21.82
+1905,Libya,21.83
+1906,Libya,21.95
+1907,Libya,21.76
+1908,Libya,21.8
+1909,Libya,21.83
+1910,Libya,21.72
+1911,Libya,21.91
+1912,Libya,21.95
+1913,Libya,21.97
+1914,Libya,21.79
+1915,Libya,21.97
+1916,Libya,22.2
+1917,Libya,22.05
+1918,Libya,22.01
+1919,Libya,22.08
+1920,Libya,22.01
+1921,Libya,21.8
+1922,Libya,22.15
+1923,Libya,22.04
+1924,Libya,22.17
+1925,Libya,22.1
+1926,Libya,22.16
+1927,Libya,22.26
+1928,Libya,22.19
+1929,Libya,21.96
+1930,Libya,22.14
+1931,Libya,22.25
+1932,Libya,22.14
+1933,Libya,22.1
+1934,Libya,22.19
+1935,Libya,22.15
+1936,Libya,22.14
+1937,Libya,22.22
+1938,Libya,22.05
+1939,Libya,22.16
+1940,Libya,21.98
+1941,Libya,22.07
+1942,Libya,22.15
+1943,Libya,22.2
+1944,Libya,22
+1945,Libya,22.03
+1946,Libya,22.34
+1947,Libya,22.78
+1948,Libya,21.73
+1949,Libya,21.64
+1950,Libya,21.73
+1951,Libya,22.24
+1952,Libya,22.17
+1953,Libya,21.81
+1954,Libya,21.65
+1955,Libya,22.68
+1956,Libya,21.79
+1957,Libya,21.94
+1958,Libya,22.32
+1959,Libya,21.73
+1960,Libya,22.45
+1961,Libya,21.7
+1962,Libya,22.2
+1963,Libya,22.4
+1964,Libya,21.82
+1965,Libya,21.84
+1966,Libya,22.2
+1967,Libya,21.66
+1968,Libya,22.11
+1969,Libya,22.54
+1970,Libya,21.9
+1971,Libya,21.8
+1972,Libya,22.16
+1973,Libya,21.79
+1974,Libya,21.87
+1975,Libya,21.81
+1976,Libya,21.79
+1977,Libya,22
+1978,Libya,21.96
+1979,Libya,22.41
+1980,Libya,21.97
+1981,Libya,22.17
+1982,Libya,22.17
+1983,Libya,21.87
+1984,Libya,22.02
+1985,Libya,22.28
+1986,Libya,22.13
+1987,Libya,22.27
+1988,Libya,22.52
+1989,Libya,22.21
+1990,Libya,22.58
+1991,Libya,22.29
+1992,Libya,21.78
+1993,Libya,22.43
+1994,Libya,22.56
+1995,Libya,22.58
+1996,Libya,22.62
+1997,Libya,22.61
+1998,Libya,22.93
+1999,Libya,23.25
+2000,Libya,22.48
+2001,Libya,23.17
+2002,Libya,23.02
+2003,Libya,23.07
+2004,Libya,22.93
+2005,Libya,22.85
+2006,Libya,22.84
+2007,Libya,22.97
+2008,Libya,23.12
+2009,Libya,23.08
+2010,Libya,23.98
+2011,Libya,22.53
+2012,Libya,22.88
+2013,Libya,22.96
+2014,Libya,22.89
+2015,Libya,22.57
+2016,Libya,23
+2017,Libya,22.56
+2018,Libya,23.05
+2019,Libya,22.65
+2020,Libya,22.63
+2021,Libya,23.05
+2022,Libya,22.8
+1901,Madagascar,22.63
+1902,Madagascar,23.05
+1903,Madagascar,22.74
+1904,Madagascar,22.69
+1905,Madagascar,23.01
+1906,Madagascar,22.81
+1907,Madagascar,22.71
+1908,Madagascar,23.06
+1909,Madagascar,22.77
+1910,Madagascar,22.56
+1911,Madagascar,22.6
+1912,Madagascar,23.28
+1913,Madagascar,22.84
+1914,Madagascar,22.99
+1915,Madagascar,23.01
+1916,Madagascar,22.47
+1917,Madagascar,22.35
+1918,Madagascar,22.65
+1919,Madagascar,22.88
+1920,Madagascar,22.61
+1921,Madagascar,22.54
+1922,Madagascar,22.28
+1923,Madagascar,23.16
+1924,Madagascar,22.93
+1925,Madagascar,23.07
+1926,Madagascar,23.62
+1927,Madagascar,22.89
+1928,Madagascar,23.03
+1929,Madagascar,23.16
+1930,Madagascar,22.67
+1931,Madagascar,22.17
+1932,Madagascar,22.45
+1933,Madagascar,22.44
+1934,Madagascar,22.27
+1935,Madagascar,22.53
+1936,Madagascar,22.73
+1937,Madagascar,22.76
+1938,Madagascar,22.81
+1939,Madagascar,22.78
+1940,Madagascar,22.15
+1941,Madagascar,22.53
+1942,Madagascar,22.37
+1943,Madagascar,21.95
+1944,Madagascar,22.38
+1945,Madagascar,22.32
+1946,Madagascar,22.34
+1947,Madagascar,22.4
+1948,Madagascar,22.48
+1949,Madagascar,22.38
+1950,Madagascar,22.06
+1951,Madagascar,21.92
+1952,Madagascar,22.13
+1953,Madagascar,22.07
+1954,Madagascar,22.1
+1955,Madagascar,21.95
+1956,Madagascar,21.9
+1957,Madagascar,22.06
+1958,Madagascar,22.19
+1959,Madagascar,21.96
+1960,Madagascar,21.92
+1961,Madagascar,22.73
+1962,Madagascar,22.15
+1963,Madagascar,21.87
+1964,Madagascar,21.79
+1965,Madagascar,21.66
+1966,Madagascar,22.24
+1967,Madagascar,22.47
+1968,Madagascar,21.82
+1969,Madagascar,22.62
+1970,Madagascar,22.28
+1971,Madagascar,21.76
+1972,Madagascar,22.01
+1973,Madagascar,22.02
+1974,Madagascar,21.71
+1975,Madagascar,21.71
+1976,Madagascar,22.01
+1977,Madagascar,22.31
+1978,Madagascar,22.29
+1979,Madagascar,22.16
+1980,Madagascar,22.2
+1981,Madagascar,22.11
+1982,Madagascar,22.16
+1983,Madagascar,22.45
+1984,Madagascar,21.88
+1985,Madagascar,22.04
+1986,Madagascar,21.97
+1987,Madagascar,22.46
+1988,Madagascar,22.41
+1989,Madagascar,22.09
+1990,Madagascar,22.26
+1991,Madagascar,22.29
+1992,Madagascar,22.28
+1993,Madagascar,22.19
+1994,Madagascar,22.56
+1995,Madagascar,22.45
+1996,Madagascar,22.32
+1997,Madagascar,22.54
+1998,Madagascar,22.8
+1999,Madagascar,22.36
+2000,Madagascar,22.52
+2001,Madagascar,22.49
+2002,Madagascar,22.51
+2003,Madagascar,22.69
+2004,Madagascar,22.48
+2005,Madagascar,22.64
+2006,Madagascar,22.55
+2007,Madagascar,22.64
+2008,Madagascar,22.39
+2009,Madagascar,22.64
+2010,Madagascar,22.98
+2011,Madagascar,22.83
+2012,Madagascar,22.76
+2013,Madagascar,22.68
+2014,Madagascar,22.92
+2015,Madagascar,22.98
+2016,Madagascar,22.82
+2017,Madagascar,23.07
+2018,Madagascar,22.9
+2019,Madagascar,23.13
+2020,Madagascar,22.89
+2021,Madagascar,22.87
+2022,Madagascar,22.7
+1901,Malawi,21.8
+1902,Malawi,22.17
+1903,Malawi,22.23
+1904,Malawi,21.57
+1905,Malawi,22.14
+1906,Malawi,21.68
+1907,Malawi,21.56
+1908,Malawi,22.02
+1909,Malawi,21.87
+1910,Malawi,21.59
+1911,Malawi,21.59
+1912,Malawi,22.07
+1913,Malawi,22.18
+1914,Malawi,22.67
+1915,Malawi,22.46
+1916,Malawi,22.4
+1917,Malawi,22.3
+1918,Malawi,21.66
+1919,Malawi,21.81
+1920,Malawi,22.44
+1921,Malawi,22.11
+1922,Malawi,22.69
+1923,Malawi,22.3
+1924,Malawi,22.12
+1925,Malawi,21.92
+1926,Malawi,22.19
+1927,Malawi,21.92
+1928,Malawi,22.31
+1929,Malawi,22.24
+1930,Malawi,21.88
+1931,Malawi,22.44
+1932,Malawi,21.95
+1933,Malawi,21.86
+1934,Malawi,22
+1935,Malawi,21.64
+1936,Malawi,21.83
+1937,Malawi,21.93
+1938,Malawi,22.13
+1939,Malawi,21.69
+1940,Malawi,22.09
+1941,Malawi,22.47
+1942,Malawi,22.32
+1943,Malawi,21.98
+1944,Malawi,22.18
+1945,Malawi,21.77
+1946,Malawi,21.95
+1947,Malawi,22.12
+1948,Malawi,22.22
+1949,Malawi,22.5
+1950,Malawi,21.82
+1951,Malawi,22
+1952,Malawi,22.15
+1953,Malawi,22.05
+1954,Malawi,22.11
+1955,Malawi,21.93
+1956,Malawi,21.7
+1957,Malawi,22.35
+1958,Malawi,22.31
+1959,Malawi,22.33
+1960,Malawi,22.09
+1961,Malawi,22.18
+1962,Malawi,21.81
+1963,Malawi,21.49
+1964,Malawi,21.69
+1965,Malawi,21.41
+1966,Malawi,22.15
+1967,Malawi,22
+1968,Malawi,21.85
+1969,Malawi,22.29
+1970,Malawi,22.25
+1971,Malawi,21.82
+1972,Malawi,21.99
+1973,Malawi,22.13
+1974,Malawi,21.52
+1975,Malawi,21.79
+1976,Malawi,21.82
+1977,Malawi,22.31
+1978,Malawi,21.96
+1979,Malawi,22.03
+1980,Malawi,21.98
+1981,Malawi,21.81
+1982,Malawi,21.97
+1983,Malawi,22.94
+1984,Malawi,22.2
+1985,Malawi,21.87
+1986,Malawi,21.93
+1987,Malawi,22.66
+1988,Malawi,22.32
+1989,Malawi,21.85
+1990,Malawi,22.44
+1991,Malawi,22.23
+1992,Malawi,22.75
+1993,Malawi,22.37
+1994,Malawi,22.46
+1995,Malawi,22.91
+1996,Malawi,22.48
+1997,Malawi,22.57
+1998,Malawi,22.9
+1999,Malawi,22.26
+2000,Malawi,22.29
+2001,Malawi,22.5
+2002,Malawi,22.67
+2003,Malawi,22.77
+2004,Malawi,22.61
+2005,Malawi,23.39
+2006,Malawi,22.73
+2007,Malawi,22.76
+2008,Malawi,22.52
+2009,Malawi,22.6
+2010,Malawi,23.08
+2011,Malawi,22.46
+2012,Malawi,22.48
+2013,Malawi,22.53
+2014,Malawi,22.59
+2015,Malawi,22.91
+2016,Malawi,22.85
+2017,Malawi,22.66
+2018,Malawi,22.63
+2019,Malawi,22.89
+2020,Malawi,22.81
+2021,Malawi,22.8
+2022,Malawi,22.55
+1901,Mali,28.11
+1902,Mali,28.47
+1903,Mali,28.66
+1904,Mali,28.68
+1905,Mali,28.32
+1906,Mali,28.36
+1907,Mali,28.14
+1908,Mali,28.58
+1909,Mali,28.62
+1910,Mali,28.41
+1911,Mali,27.95
+1912,Mali,28.51
+1913,Mali,28.45
+1914,Mali,28.61
+1915,Mali,27.89
+1916,Mali,27.24
+1917,Mali,27.5
+1918,Mali,27.32
+1919,Mali,28.71
+1920,Mali,28.66
+1921,Mali,28.67
+1922,Mali,28.05
+1923,Mali,28.02
+1924,Mali,28.51
+1925,Mali,28.37
+1926,Mali,28.24
+1927,Mali,27.67
+1928,Mali,27.83
+1929,Mali,27.68
+1930,Mali,28.08
+1931,Mali,28.73
+1932,Mali,28.28
+1933,Mali,28.24
+1934,Mali,28.33
+1935,Mali,29.15
+1936,Mali,28.77
+1937,Mali,29.37
+1938,Mali,29.45
+1939,Mali,29.15
+1940,Mali,28.71
+1941,Mali,29.13
+1942,Mali,29.04
+1943,Mali,28.51
+1944,Mali,28.89
+1945,Mali,28.65
+1946,Mali,28.56
+1947,Mali,29.02
+1948,Mali,28.44
+1949,Mali,28.97
+1950,Mali,28.11
+1951,Mali,28.83
+1952,Mali,28.2
+1953,Mali,28.42
+1954,Mali,28.19
+1955,Mali,28.52
+1956,Mali,28.45
+1957,Mali,28.26
+1958,Mali,28.77
+1959,Mali,28.7
+1960,Mali,28.41
+1961,Mali,28.14
+1962,Mali,28.3
+1963,Mali,28.59
+1964,Mali,28.34
+1965,Mali,28.14
+1966,Mali,28.65
+1967,Mali,28.17
+1968,Mali,28.52
+1969,Mali,29.15
+1970,Mali,28.85
+1971,Mali,28.64
+1972,Mali,28.74
+1973,Mali,28.86
+1974,Mali,28.1
+1975,Mali,28.11
+1976,Mali,28
+1977,Mali,28.71
+1978,Mali,28.83
+1979,Mali,28.89
+1980,Mali,29.16
+1981,Mali,28.78
+1982,Mali,28.56
+1983,Mali,29.23
+1984,Mali,29.04
+1985,Mali,28.91
+1986,Mali,28.61
+1987,Mali,29.58
+1988,Mali,28.79
+1989,Mali,28.73
+1990,Mali,29.22
+1991,Mali,28.85
+1992,Mali,28.57
+1993,Mali,29.1
+1994,Mali,28.48
+1995,Mali,28.92
+1996,Mali,29.21
+1997,Mali,29.2
+1998,Mali,29.43
+1999,Mali,28.81
+2000,Mali,29.07
+2001,Mali,29.22
+2002,Mali,29.45
+2003,Mali,29.38
+2004,Mali,29.45
+2005,Mali,29.53
+2006,Mali,29.17
+2007,Mali,29.3
+2008,Mali,28.89
+2009,Mali,29.5
+2010,Mali,29.75
+2011,Mali,29.49
+2012,Mali,29.01
+2013,Mali,29.24
+2014,Mali,29.25
+2015,Mali,29.25
+2016,Mali,29.51
+2017,Mali,29.38
+2018,Mali,29.33
+2019,Mali,29.1
+2020,Mali,29.4
+2021,Mali,29.78
+2022,Mali,29.19
+1901,Mauritania,27.94
+1902,Mauritania,28.32
+1903,Mauritania,28.08
+1904,Mauritania,28.06
+1905,Mauritania,28.02
+1906,Mauritania,27.99
+1907,Mauritania,27.58
+1908,Mauritania,28.27
+1909,Mauritania,28.2
+1910,Mauritania,28.1
+1911,Mauritania,27.89
+1912,Mauritania,28.2
+1913,Mauritania,28.12
+1914,Mauritania,27.97
+1915,Mauritania,27.97
+1916,Mauritania,27.57
+1917,Mauritania,27.55
+1918,Mauritania,27.61
+1919,Mauritania,28.4
+1920,Mauritania,27.82
+1921,Mauritania,27.95
+1922,Mauritania,27.66
+1923,Mauritania,28.04
+1924,Mauritania,28
+1925,Mauritania,27.91
+1926,Mauritania,28.39
+1927,Mauritania,27.95
+1928,Mauritania,27.77
+1929,Mauritania,27.59
+1930,Mauritania,27.72
+1931,Mauritania,28.24
+1932,Mauritania,27.92
+1933,Mauritania,27.87
+1934,Mauritania,28.11
+1935,Mauritania,28.54
+1936,Mauritania,28.42
+1937,Mauritania,28.54
+1938,Mauritania,28.44
+1939,Mauritania,28.27
+1940,Mauritania,28.24
+1941,Mauritania,28.34
+1942,Mauritania,28.08
+1943,Mauritania,28
+1944,Mauritania,28.32
+1945,Mauritania,28.61
+1946,Mauritania,28.1
+1947,Mauritania,28.48
+1948,Mauritania,28.18
+1949,Mauritania,28.28
+1950,Mauritania,28.05
+1951,Mauritania,27.84
+1952,Mauritania,27.64
+1953,Mauritania,28.07
+1954,Mauritania,27.74
+1955,Mauritania,28.28
+1956,Mauritania,27.67
+1957,Mauritania,27.7
+1958,Mauritania,28.26
+1959,Mauritania,28.01
+1960,Mauritania,27.92
+1961,Mauritania,28.25
+1962,Mauritania,28.09
+1963,Mauritania,28.1
+1964,Mauritania,28.14
+1965,Mauritania,27.67
+1966,Mauritania,28.24
+1967,Mauritania,27.62
+1968,Mauritania,27.86
+1969,Mauritania,28.54
+1970,Mauritania,28.54
+1971,Mauritania,27.73
+1972,Mauritania,27.79
+1973,Mauritania,28.27
+1974,Mauritania,27.53
+1975,Mauritania,27.69
+1976,Mauritania,27.45
+1977,Mauritania,28.44
+1978,Mauritania,28.34
+1979,Mauritania,28.62
+1980,Mauritania,28.48
+1981,Mauritania,28.45
+1982,Mauritania,27.98
+1983,Mauritania,29.15
+1984,Mauritania,28.32
+1985,Mauritania,28.23
+1986,Mauritania,27.93
+1987,Mauritania,29.26
+1988,Mauritania,28.32
+1989,Mauritania,28.38
+1990,Mauritania,28.76
+1991,Mauritania,28.44
+1992,Mauritania,28.3
+1993,Mauritania,28.46
+1994,Mauritania,28.11
+1995,Mauritania,28.55
+1996,Mauritania,28.73
+1997,Mauritania,28.89
+1998,Mauritania,29.15
+1999,Mauritania,28.36
+2000,Mauritania,28.6
+2001,Mauritania,29.12
+2002,Mauritania,29.01
+2003,Mauritania,28.89
+2004,Mauritania,28.87
+2005,Mauritania,29.15
+2006,Mauritania,28.92
+2007,Mauritania,28.92
+2008,Mauritania,28.83
+2009,Mauritania,28.83
+2010,Mauritania,29.48
+2011,Mauritania,28.94
+2012,Mauritania,28.64
+2013,Mauritania,29.1
+2014,Mauritania,28.8
+2015,Mauritania,29.05
+2016,Mauritania,29.12
+2017,Mauritania,29.1
+2018,Mauritania,28.61
+2019,Mauritania,28.67
+2020,Mauritania,29.11
+2021,Mauritania,29.3
+2022,Mauritania,28.9
+1901,Mauritius,22.68
+1902,Mauritius,22.71
+1903,Mauritius,22.69
+1904,Mauritius,22.69
+1905,Mauritius,22.7
+1906,Mauritius,22.68
+1907,Mauritius,22.68
+1908,Mauritius,22.71
+1909,Mauritius,22.69
+1910,Mauritius,22.68
+1911,Mauritius,22.69
+1912,Mauritius,22.73
+1913,Mauritius,22.7
+1914,Mauritius,22.71
+1915,Mauritius,22.69
+1916,Mauritius,22.68
+1917,Mauritius,22.66
+1918,Mauritius,22.68
+1919,Mauritius,22.7
+1920,Mauritius,22.69
+1921,Mauritius,22.68
+1922,Mauritius,22.66
+1923,Mauritius,22.72
+1924,Mauritius,22.7
+1925,Mauritius,22.71
+1926,Mauritius,22.75
+1927,Mauritius,22.71
+1928,Mauritius,22.72
+1929,Mauritius,22.73
+1930,Mauritius,22.68
+1931,Mauritius,22.65
+1932,Mauritius,22.68
+1933,Mauritius,22.68
+1934,Mauritius,22.66
+1935,Mauritius,22.68
+1936,Mauritius,22.69
+1937,Mauritius,22.69
+1938,Mauritius,22.68
+1939,Mauritius,22.69
+1940,Mauritius,22.66
+1941,Mauritius,22.68
+1942,Mauritius,22.68
+1943,Mauritius,22.66
+1944,Mauritius,22.69
+1945,Mauritius,22.7
+1946,Mauritius,22.67
+1947,Mauritius,22.68
+1948,Mauritius,22.7
+1949,Mauritius,22.71
+1950,Mauritius,22.66
+1951,Mauritius,22.35
+1952,Mauritius,22.5
+1953,Mauritius,22.71
+1954,Mauritius,22.61
+1955,Mauritius,22.4
+1956,Mauritius,22.22
+1957,Mauritius,22.53
+1958,Mauritius,22.71
+1959,Mauritius,22.49
+1960,Mauritius,22.44
+1961,Mauritius,22.99
+1962,Mauritius,22.26
+1963,Mauritius,22.16
+1964,Mauritius,22.12
+1965,Mauritius,22.11
+1966,Mauritius,22.54
+1967,Mauritius,22.72
+1968,Mauritius,22.17
+1969,Mauritius,23.03
+1970,Mauritius,22.73
+1971,Mauritius,22.32
+1972,Mauritius,22.82
+1973,Mauritius,22.71
+1974,Mauritius,22.15
+1975,Mauritius,22.6
+1976,Mauritius,22.85
+1977,Mauritius,23.12
+1978,Mauritius,22.9
+1979,Mauritius,22.9
+1980,Mauritius,22.85
+1981,Mauritius,22.85
+1982,Mauritius,22.87
+1983,Mauritius,22.74
+1984,Mauritius,22.38
+1985,Mauritius,22.53
+1986,Mauritius,22.65
+1987,Mauritius,23.21
+1988,Mauritius,23.04
+1989,Mauritius,22.66
+1990,Mauritius,22.68
+1991,Mauritius,23.06
+1992,Mauritius,22.66
+1993,Mauritius,22.75
+1994,Mauritius,22.95
+1995,Mauritius,22.84
+1996,Mauritius,22.6
+1997,Mauritius,22.93
+1998,Mauritius,23.2
+1999,Mauritius,22.85
+2000,Mauritius,22.76
+2001,Mauritius,23.23
+2002,Mauritius,23.19
+2003,Mauritius,23.36
+2004,Mauritius,23.23
+2005,Mauritius,23.07
+2006,Mauritius,23.26
+2007,Mauritius,23.28
+2008,Mauritius,23.22
+2009,Mauritius,23.7
+2010,Mauritius,23.73
+2011,Mauritius,23.7
+2012,Mauritius,23.55
+2013,Mauritius,23.53
+2014,Mauritius,23.92
+2015,Mauritius,23.88
+2016,Mauritius,23.65
+2017,Mauritius,24.05
+2018,Mauritius,23.83
+2019,Mauritius,24.15
+2020,Mauritius,23.59
+2021,Mauritius,23.7
+2022,Mauritius,23.27
+1901,Morocco,17.3
+1902,Morocco,17.12
+1903,Morocco,17.08
+1904,Morocco,17.3
+1905,Morocco,16.97
+1906,Morocco,17.05
+1907,Morocco,16.83
+1908,Morocco,17.04
+1909,Morocco,16.92
+1910,Morocco,16.91
+1911,Morocco,16.84
+1912,Morocco,16.88
+1913,Morocco,16.9
+1914,Morocco,16.7
+1915,Morocco,17
+1916,Morocco,16.9
+1917,Morocco,16.6
+1918,Morocco,16.76
+1919,Morocco,16.9
+1920,Morocco,17.01
+1921,Morocco,16.98
+1922,Morocco,16.96
+1923,Morocco,17.05
+1924,Morocco,17.46
+1925,Morocco,16.75
+1926,Morocco,17.95
+1927,Morocco,17.38
+1928,Morocco,17.31
+1929,Morocco,17.3
+1930,Morocco,17.58
+1931,Morocco,17.26
+1932,Morocco,16.81
+1933,Morocco,17.31
+1934,Morocco,16.9
+1935,Morocco,17.19
+1936,Morocco,17.09
+1937,Morocco,18.06
+1938,Morocco,17.48
+1939,Morocco,17.11
+1940,Morocco,17.76
+1941,Morocco,17.59
+1942,Morocco,17.66
+1943,Morocco,17.5
+1944,Morocco,17.52
+1945,Morocco,18.25
+1946,Morocco,17.54
+1947,Morocco,17.91
+1948,Morocco,18.07
+1949,Morocco,17.93
+1950,Morocco,17.73
+1951,Morocco,17.23
+1952,Morocco,17.52
+1953,Morocco,17.57
+1954,Morocco,17.15
+1955,Morocco,18.32
+1956,Morocco,16.51
+1957,Morocco,17.06
+1958,Morocco,17.57
+1959,Morocco,17.3
+1960,Morocco,17.41
+1961,Morocco,18.13
+1962,Morocco,17.54
+1963,Morocco,17.19
+1964,Morocco,17.56
+1965,Morocco,17.14
+1966,Morocco,17.35
+1967,Morocco,17.05
+1968,Morocco,17.22
+1969,Morocco,17.13
+1970,Morocco,17.43
+1971,Morocco,16.47
+1972,Morocco,16.44
+1973,Morocco,17.12
+1974,Morocco,17.05
+1975,Morocco,16.99
+1976,Morocco,16.83
+1977,Morocco,17.16
+1978,Morocco,17.45
+1979,Morocco,17.34
+1980,Morocco,17.47
+1981,Morocco,17.71
+1982,Morocco,17.41
+1983,Morocco,17.88
+1984,Morocco,17.25
+1985,Morocco,17.77
+1986,Morocco,17.24
+1987,Morocco,18.08
+1988,Morocco,17.62
+1989,Morocco,18.08
+1990,Morocco,18.01
+1991,Morocco,17.15
+1992,Morocco,17.25
+1993,Morocco,16.99
+1994,Morocco,17.82
+1995,Morocco,18.42
+1996,Morocco,17.7
+1997,Morocco,18.3
+1998,Morocco,18.06
+1999,Morocco,17.78
+2000,Morocco,18
+2001,Morocco,18.51
+2002,Morocco,18.19
+2003,Morocco,18.29
+2004,Morocco,17.98
+2005,Morocco,18.08
+2006,Morocco,18.35
+2007,Morocco,17.99
+2008,Morocco,17.94
+2009,Morocco,18.51
+2010,Morocco,18.76
+2011,Morocco,18.36
+2012,Morocco,18.26
+2013,Morocco,18.11
+2014,Morocco,18.48
+2015,Morocco,18.6
+2016,Morocco,18.72
+2017,Morocco,18.94
+2018,Morocco,17.68
+2019,Morocco,18.29
+2020,Morocco,18.57
+2021,Morocco,18.48
+2022,Morocco,19.1
+1901,Mozambique,23.55
+1902,Mozambique,23.87
+1903,Mozambique,23.95
+1904,Mozambique,23.31
+1905,Mozambique,23.86
+1906,Mozambique,23.41
+1907,Mozambique,23.26
+1908,Mozambique,23.75
+1909,Mozambique,23.57
+1910,Mozambique,23.17
+1911,Mozambique,23.23
+1912,Mozambique,23.76
+1913,Mozambique,23.9
+1914,Mozambique,24.22
+1915,Mozambique,23.96
+1916,Mozambique,23.96
+1917,Mozambique,23.8
+1918,Mozambique,23.35
+1919,Mozambique,23.5
+1920,Mozambique,23.97
+1921,Mozambique,23.67
+1922,Mozambique,24.2
+1923,Mozambique,23.94
+1924,Mozambique,23.65
+1925,Mozambique,23.58
+1926,Mozambique,23.87
+1927,Mozambique,23.62
+1928,Mozambique,24
+1929,Mozambique,23.96
+1930,Mozambique,23.5
+1931,Mozambique,24.2
+1932,Mozambique,23.7
+1933,Mozambique,23.61
+1934,Mozambique,23.86
+1935,Mozambique,23.23
+1936,Mozambique,23.52
+1937,Mozambique,23.69
+1938,Mozambique,23.87
+1939,Mozambique,23.36
+1940,Mozambique,23.89
+1941,Mozambique,24.31
+1942,Mozambique,24.12
+1943,Mozambique,23.73
+1944,Mozambique,23.97
+1945,Mozambique,23.48
+1946,Mozambique,23.75
+1947,Mozambique,23.98
+1948,Mozambique,23.96
+1949,Mozambique,24.12
+1950,Mozambique,23.72
+1951,Mozambique,23.74
+1952,Mozambique,23.97
+1953,Mozambique,23.72
+1954,Mozambique,23.87
+1955,Mozambique,23.59
+1956,Mozambique,23.62
+1957,Mozambique,24.25
+1958,Mozambique,24.1
+1959,Mozambique,24.09
+1960,Mozambique,23.82
+1961,Mozambique,24
+1962,Mozambique,23.77
+1963,Mozambique,23.27
+1964,Mozambique,23.47
+1965,Mozambique,23.25
+1966,Mozambique,23.88
+1967,Mozambique,23.76
+1968,Mozambique,23.58
+1969,Mozambique,24.07
+1970,Mozambique,24.1
+1971,Mozambique,23.64
+1972,Mozambique,23.63
+1973,Mozambique,23.84
+1974,Mozambique,23.29
+1975,Mozambique,23.45
+1976,Mozambique,23.49
+1977,Mozambique,23.99
+1978,Mozambique,23.71
+1979,Mozambique,23.75
+1980,Mozambique,23.69
+1981,Mozambique,23.35
+1982,Mozambique,23.68
+1983,Mozambique,24.52
+1984,Mozambique,23.86
+1985,Mozambique,23.66
+1986,Mozambique,23.75
+1987,Mozambique,24.33
+1988,Mozambique,24.01
+1989,Mozambique,23.7
+1990,Mozambique,24.08
+1991,Mozambique,24.04
+1992,Mozambique,24.59
+1993,Mozambique,24.24
+1994,Mozambique,23.99
+1995,Mozambique,24.5
+1996,Mozambique,24.11
+1997,Mozambique,24.18
+1998,Mozambique,24.6
+1999,Mozambique,24.04
+2000,Mozambique,23.91
+2001,Mozambique,24.18
+2002,Mozambique,24.34
+2003,Mozambique,24.45
+2004,Mozambique,24.36
+2005,Mozambique,24.99
+2006,Mozambique,24.48
+2007,Mozambique,24.54
+2008,Mozambique,24.36
+2009,Mozambique,24.42
+2010,Mozambique,24.78
+2011,Mozambique,24.27
+2012,Mozambique,24.36
+2013,Mozambique,24.27
+2014,Mozambique,24.39
+2015,Mozambique,24.78
+2016,Mozambique,24.67
+2017,Mozambique,24.44
+2018,Mozambique,24.56
+2019,Mozambique,24.81
+2020,Mozambique,24.61
+2021,Mozambique,24.53
+2022,Mozambique,24.42
+1901,Namibia,19.79
+1902,Namibia,19.74
+1903,Namibia,19.72
+1904,Namibia,19.7
+1905,Namibia,19.79
+1906,Namibia,19.67
+1907,Namibia,19.64
+1908,Namibia,19.75
+1909,Namibia,19.77
+1910,Namibia,19.74
+1911,Namibia,19.77
+1912,Namibia,19.85
+1913,Namibia,19.85
+1914,Namibia,19.87
+1915,Namibia,19.82
+1916,Namibia,19.83
+1917,Namibia,19.74
+1918,Namibia,19.64
+1919,Namibia,19.79
+1920,Namibia,19.84
+1921,Namibia,19.72
+1922,Namibia,19.99
+1923,Namibia,19.9
+1924,Namibia,19.75
+1925,Namibia,19.71
+1926,Namibia,19.79
+1927,Namibia,19.91
+1928,Namibia,19.97
+1929,Namibia,19.94
+1930,Namibia,19.83
+1931,Namibia,20.11
+1932,Namibia,20.05
+1933,Namibia,20.26
+1934,Namibia,19.88
+1935,Namibia,19.53
+1936,Namibia,19.76
+1937,Namibia,19.81
+1938,Namibia,19.74
+1939,Namibia,19.75
+1940,Namibia,20.05
+1941,Namibia,20.32
+1942,Namibia,20.13
+1943,Namibia,19.65
+1944,Namibia,20.11
+1945,Namibia,20.44
+1946,Namibia,20.21
+1947,Namibia,20.19
+1948,Namibia,19.94
+1949,Namibia,20.27
+1950,Namibia,19.81
+1951,Namibia,19.78
+1952,Namibia,19.95
+1953,Namibia,19.74
+1954,Namibia,19.5
+1955,Namibia,19.28
+1956,Namibia,19.42
+1957,Namibia,19.82
+1958,Namibia,19.85
+1959,Namibia,19.88
+1960,Namibia,19.96
+1961,Namibia,19.84
+1962,Namibia,19.86
+1963,Namibia,19.93
+1964,Namibia,19.68
+1965,Namibia,19.73
+1966,Namibia,20.02
+1967,Namibia,19.67
+1968,Namibia,19.58
+1969,Namibia,19.94
+1970,Namibia,19.86
+1971,Namibia,19.68
+1972,Namibia,20.09
+1973,Namibia,20.09
+1974,Namibia,19.4
+1975,Namibia,19.61
+1976,Namibia,19.28
+1977,Namibia,19.82
+1978,Namibia,19.68
+1979,Namibia,20.02
+1980,Namibia,20.08
+1981,Namibia,19.81
+1982,Namibia,20.11
+1983,Namibia,20.28
+1984,Namibia,20.4
+1985,Namibia,20.32
+1986,Namibia,20.19
+1987,Namibia,20.44
+1988,Namibia,20.09
+1989,Namibia,19.99
+1990,Namibia,20.19
+1991,Namibia,20.09
+1992,Namibia,20.36
+1993,Namibia,20.42
+1994,Namibia,20.23
+1995,Namibia,20.35
+1996,Namibia,20
+1997,Namibia,20.27
+1998,Namibia,20.47
+1999,Namibia,20.54
+2000,Namibia,20.26
+2001,Namibia,20.25
+2002,Namibia,20.23
+2003,Namibia,20.45
+2004,Namibia,20.61
+2005,Namibia,20.65
+2006,Namibia,20.32
+2007,Namibia,20.36
+2008,Namibia,20.47
+2009,Namibia,20.79
+2010,Namibia,20.68
+2011,Namibia,20.25
+2012,Namibia,20.33
+2013,Namibia,20.53
+2014,Namibia,20.75
+2015,Namibia,21.04
+2016,Namibia,20.93
+2017,Namibia,20.46
+2018,Namibia,20.31
+2019,Namibia,20.73
+2020,Namibia,20.31
+2021,Namibia,20.12
+2022,Namibia,20.24
+1901,Niger,27.36
+1902,Niger,27.39
+1903,Niger,27.45
+1904,Niger,27.43
+1905,Niger,27.27
+1906,Niger,27.55
+1907,Niger,27.38
+1908,Niger,27.4
+1909,Niger,27.33
+1910,Niger,27.48
+1911,Niger,27.31
+1912,Niger,27.47
+1913,Niger,27.59
+1914,Niger,27.7
+1915,Niger,27.32
+1916,Niger,27.22
+1917,Niger,27.28
+1918,Niger,27.25
+1919,Niger,27.45
+1920,Niger,27.43
+1921,Niger,27.44
+1922,Niger,27.36
+1923,Niger,27.72
+1924,Niger,27.63
+1925,Niger,26.99
+1926,Niger,27.79
+1927,Niger,27.86
+1928,Niger,27.56
+1929,Niger,27.34
+1930,Niger,28.46
+1931,Niger,28.7
+1932,Niger,27.76
+1933,Niger,27.58
+1934,Niger,27.95
+1935,Niger,28.19
+1936,Niger,27.84
+1937,Niger,28.19
+1938,Niger,28.67
+1939,Niger,28.21
+1940,Niger,27.43
+1941,Niger,28.5
+1942,Niger,28.12
+1943,Niger,27.48
+1944,Niger,27.45
+1945,Niger,26.96
+1946,Niger,27.3
+1947,Niger,27.62
+1948,Niger,26.86
+1949,Niger,27.48
+1950,Niger,26.66
+1951,Niger,27.47
+1952,Niger,26.94
+1953,Niger,26.96
+1954,Niger,27.12
+1955,Niger,27.15
+1956,Niger,27.1
+1957,Niger,27.11
+1958,Niger,27.44
+1959,Niger,27.13
+1960,Niger,27.34
+1961,Niger,26.41
+1962,Niger,27.23
+1963,Niger,27.59
+1964,Niger,27.27
+1965,Niger,26.93
+1966,Niger,27.25
+1967,Niger,26.99
+1968,Niger,27.28
+1969,Niger,28.18
+1970,Niger,27.32
+1971,Niger,27.33
+1972,Niger,27.8
+1973,Niger,27.88
+1974,Niger,27.07
+1975,Niger,27.09
+1976,Niger,27.41
+1977,Niger,26.92
+1978,Niger,27.47
+1979,Niger,27.71
+1980,Niger,27.64
+1981,Niger,27.34
+1982,Niger,27.55
+1983,Niger,27.4
+1984,Niger,27.93
+1985,Niger,27.52
+1986,Niger,27.71
+1987,Niger,28.05
+1988,Niger,27.49
+1989,Niger,26.92
+1990,Niger,27.96
+1991,Niger,27.76
+1992,Niger,27.06
+1993,Niger,27.67
+1994,Niger,27.38
+1995,Niger,27.85
+1996,Niger,27.96
+1997,Niger,28.09
+1998,Niger,28.19
+1999,Niger,28.07
+2000,Niger,27.55
+2001,Niger,27.8
+2002,Niger,28
+2003,Niger,28.08
+2004,Niger,28.19
+2005,Niger,28.27
+2006,Niger,28.18
+2007,Niger,28.19
+2008,Niger,27.71
+2009,Niger,28.76
+2010,Niger,28.92
+2011,Niger,28.39
+2012,Niger,28.18
+2013,Niger,28.32
+2014,Niger,28.43
+2015,Niger,27.92
+2016,Niger,28.54
+2017,Niger,28
+2018,Niger,28.13
+2019,Niger,27.87
+2020,Niger,27.85
+2021,Niger,28.09
+2022,Niger,27.61
+1901,Nigeria,26.63
+1902,Nigeria,26.82
+1903,Nigeria,26.86
+1904,Nigeria,26.81
+1905,Nigeria,26.71
+1906,Nigeria,27.08
+1907,Nigeria,26.86
+1908,Nigeria,26.81
+1909,Nigeria,26.77
+1910,Nigeria,26.87
+1911,Nigeria,26.82
+1912,Nigeria,26.92
+1913,Nigeria,27.06
+1914,Nigeria,27.27
+1915,Nigeria,26.84
+1916,Nigeria,26.82
+1917,Nigeria,26.83
+1918,Nigeria,26.82
+1919,Nigeria,26.85
+1920,Nigeria,26.86
+1921,Nigeria,26.85
+1922,Nigeria,26.84
+1923,Nigeria,27.07
+1924,Nigeria,26.96
+1925,Nigeria,26.29
+1926,Nigeria,27.12
+1927,Nigeria,27.02
+1928,Nigeria,26.67
+1929,Nigeria,26.35
+1930,Nigeria,27.5
+1931,Nigeria,27.79
+1932,Nigeria,27.39
+1933,Nigeria,27.12
+1934,Nigeria,27.43
+1935,Nigeria,27.55
+1936,Nigeria,27
+1937,Nigeria,27.62
+1938,Nigeria,28.1
+1939,Nigeria,27.6
+1940,Nigeria,26.87
+1941,Nigeria,27.87
+1942,Nigeria,27.52
+1943,Nigeria,26.96
+1944,Nigeria,27.02
+1945,Nigeria,26.6
+1946,Nigeria,26.76
+1947,Nigeria,27.02
+1948,Nigeria,26.46
+1949,Nigeria,27.09
+1950,Nigeria,26.49
+1951,Nigeria,26.89
+1952,Nigeria,26.71
+1953,Nigeria,26.58
+1954,Nigeria,26.61
+1955,Nigeria,26.48
+1956,Nigeria,26.56
+1957,Nigeria,26.66
+1958,Nigeria,26.95
+1959,Nigeria,26.76
+1960,Nigeria,26.87
+1961,Nigeria,26.28
+1962,Nigeria,26.68
+1963,Nigeria,27.02
+1964,Nigeria,26.66
+1965,Nigeria,26.56
+1966,Nigeria,26.81
+1967,Nigeria,26.55
+1968,Nigeria,26.78
+1969,Nigeria,27.3
+1970,Nigeria,26.91
+1971,Nigeria,26.45
+1972,Nigeria,26.84
+1973,Nigeria,27.19
+1974,Nigeria,26.33
+1975,Nigeria,26.27
+1976,Nigeria,26.43
+1977,Nigeria,26.54
+1978,Nigeria,26.59
+1979,Nigeria,26.88
+1980,Nigeria,26.91
+1981,Nigeria,26.9
+1982,Nigeria,26.99
+1983,Nigeria,27.11
+1984,Nigeria,27.23
+1985,Nigeria,27.01
+1986,Nigeria,27.04
+1987,Nigeria,27.38
+1988,Nigeria,26.86
+1989,Nigeria,26.39
+1990,Nigeria,27.2
+1991,Nigeria,26.96
+1992,Nigeria,26.59
+1993,Nigeria,26.96
+1994,Nigeria,26.75
+1995,Nigeria,27.05
+1996,Nigeria,27.13
+1997,Nigeria,27.14
+1998,Nigeria,27.51
+1999,Nigeria,27.12
+2000,Nigeria,26.92
+2001,Nigeria,27.11
+2002,Nigeria,27.28
+2003,Nigeria,27.38
+2004,Nigeria,27.38
+2005,Nigeria,27.5
+2006,Nigeria,27.47
+2007,Nigeria,27.45
+2008,Nigeria,27.09
+2009,Nigeria,27.75
+2010,Nigeria,27.86
+2011,Nigeria,27.49
+2012,Nigeria,27.3
+2013,Nigeria,27.51
+2014,Nigeria,27.61
+2015,Nigeria,27.38
+2016,Nigeria,27.79
+2017,Nigeria,27.46
+2018,Nigeria,27.41
+2019,Nigeria,27.29
+2020,Nigeria,27.43
+2021,Nigeria,27.67
+2022,Nigeria,27.15
+1901,Rwanda,18.8
+1902,Rwanda,18.93
+1903,Rwanda,18.78
+1904,Rwanda,18.49
+1905,Rwanda,18.42
+1906,Rwanda,18.06
+1907,Rwanda,18.06
+1908,Rwanda,18.63
+1909,Rwanda,17.76
+1910,Rwanda,17.76
+1911,Rwanda,17.94
+1912,Rwanda,17.8
+1913,Rwanda,17.76
+1914,Rwanda,18.02
+1915,Rwanda,17.95
+1916,Rwanda,17.7
+1917,Rwanda,17.41
+1918,Rwanda,17.65
+1919,Rwanda,17.79
+1920,Rwanda,17.78
+1921,Rwanda,18.56
+1922,Rwanda,18.48
+1923,Rwanda,18.45
+1924,Rwanda,18.64
+1925,Rwanda,18.57
+1926,Rwanda,18.76
+1927,Rwanda,18.66
+1928,Rwanda,18.78
+1929,Rwanda,17.54
+1930,Rwanda,17.71
+1931,Rwanda,18.29
+1932,Rwanda,18.03
+1933,Rwanda,18.02
+1934,Rwanda,18.02
+1935,Rwanda,18.2
+1936,Rwanda,18.06
+1937,Rwanda,18.02
+1938,Rwanda,18.21
+1939,Rwanda,18.29
+1940,Rwanda,18.51
+1941,Rwanda,18.73
+1942,Rwanda,18.36
+1943,Rwanda,18.43
+1944,Rwanda,18.46
+1945,Rwanda,18.42
+1946,Rwanda,18.38
+1947,Rwanda,18.27
+1948,Rwanda,18.44
+1949,Rwanda,18.76
+1950,Rwanda,18.09
+1951,Rwanda,18.55
+1952,Rwanda,18.7
+1953,Rwanda,18.81
+1954,Rwanda,18.64
+1955,Rwanda,18.55
+1956,Rwanda,18.46
+1957,Rwanda,18.74
+1958,Rwanda,18.98
+1959,Rwanda,18.71
+1960,Rwanda,18.56
+1961,Rwanda,18.62
+1962,Rwanda,18.43
+1963,Rwanda,18.44
+1964,Rwanda,18.45
+1965,Rwanda,18.51
+1966,Rwanda,18.72
+1967,Rwanda,18.5
+1968,Rwanda,18.22
+1969,Rwanda,18.8
+1970,Rwanda,18.6
+1971,Rwanda,18.38
+1972,Rwanda,18.62
+1973,Rwanda,18.74
+1974,Rwanda,18.47
+1975,Rwanda,18.44
+1976,Rwanda,18.72
+1977,Rwanda,18.77
+1978,Rwanda,18.71
+1979,Rwanda,18.63
+1980,Rwanda,18.75
+1981,Rwanda,18.75
+1982,Rwanda,18.83
+1983,Rwanda,19.03
+1984,Rwanda,18.72
+1985,Rwanda,18.61
+1986,Rwanda,18.7
+1987,Rwanda,19.17
+1988,Rwanda,18.94
+1989,Rwanda,18.51
+1990,Rwanda,18.89
+1991,Rwanda,18.87
+1992,Rwanda,18.86
+1993,Rwanda,18.84
+1994,Rwanda,18.9
+1995,Rwanda,19.17
+1996,Rwanda,18.92
+1997,Rwanda,19.12
+1998,Rwanda,19.05
+1999,Rwanda,19.09
+2000,Rwanda,19.29
+2001,Rwanda,19.35
+2002,Rwanda,19.62
+2003,Rwanda,19.62
+2004,Rwanda,19.36
+2005,Rwanda,19.36
+2006,Rwanda,19.24
+2007,Rwanda,19.28
+2008,Rwanda,19.17
+2009,Rwanda,19.65
+2010,Rwanda,19.6
+2011,Rwanda,19.12
+2012,Rwanda,19.01
+2013,Rwanda,19.2
+2014,Rwanda,19.01
+2015,Rwanda,19.07
+2016,Rwanda,19.32
+2017,Rwanda,19.48
+2018,Rwanda,19.07
+2019,Rwanda,19.26
+2020,Rwanda,19.13
+2021,Rwanda,19.21
+2022,Rwanda,19.14
+1901,São Tomé and Príncipe,23.79
+1902,São Tomé and Príncipe,24.02
+1903,São Tomé and Príncipe,24.16
+1904,São Tomé and Príncipe,23.86
+1905,São Tomé and Príncipe,24.29
+1906,São Tomé and Príncipe,24.23
+1907,São Tomé and Príncipe,24.27
+1908,São Tomé and Príncipe,23.84
+1909,São Tomé and Príncipe,24.41
+1910,São Tomé and Príncipe,23.78
+1911,São Tomé and Príncipe,24.23
+1912,São Tomé and Príncipe,24.31
+1913,São Tomé and Príncipe,23.85
+1914,São Tomé and Príncipe,24.31
+1915,São Tomé and Príncipe,24.12
+1916,São Tomé and Príncipe,24.12
+1917,São Tomé and Príncipe,24.12
+1918,São Tomé and Príncipe,24.12
+1919,São Tomé and Príncipe,24.12
+1920,São Tomé and Príncipe,24.12
+1921,São Tomé and Príncipe,24.12
+1922,São Tomé and Príncipe,24.12
+1923,São Tomé and Príncipe,24.12
+1924,São Tomé and Príncipe,24.12
+1925,São Tomé and Príncipe,24.12
+1926,São Tomé and Príncipe,24.12
+1927,São Tomé and Príncipe,24.12
+1928,São Tomé and Príncipe,24.12
+1929,São Tomé and Príncipe,24.12
+1930,São Tomé and Príncipe,24.12
+1931,São Tomé and Príncipe,24.12
+1932,São Tomé and Príncipe,24.12
+1933,São Tomé and Príncipe,24.12
+1934,São Tomé and Príncipe,24.12
+1935,São Tomé and Príncipe,24.12
+1936,São Tomé and Príncipe,24.12
+1937,São Tomé and Príncipe,24.12
+1938,São Tomé and Príncipe,24.12
+1939,São Tomé and Príncipe,24.12
+1940,São Tomé and Príncipe,24.12
+1941,São Tomé and Príncipe,24.64
+1942,São Tomé and Príncipe,24.51
+1943,São Tomé and Príncipe,23.93
+1944,São Tomé and Príncipe,24.62
+1945,São Tomé and Príncipe,24.73
+1946,São Tomé and Príncipe,24.35
+1947,São Tomé and Príncipe,24.71
+1948,São Tomé and Príncipe,24.31
+1949,São Tomé and Príncipe,24.71
+1950,São Tomé and Príncipe,24.6
+1951,São Tomé and Príncipe,24.49
+1952,São Tomé and Príncipe,24.36
+1953,São Tomé and Príncipe,24.26
+1954,São Tomé and Príncipe,23.86
+1955,São Tomé and Príncipe,24.05
+1956,São Tomé and Príncipe,23.91
+1957,São Tomé and Príncipe,24.27
+1958,São Tomé and Príncipe,24.14
+1959,São Tomé and Príncipe,24.23
+1960,São Tomé and Príncipe,24.34
+1961,São Tomé and Príncipe,24.13
+1962,São Tomé and Príncipe,24.15
+1963,São Tomé and Príncipe,24.55
+1964,São Tomé and Príncipe,24.17
+1965,São Tomé and Príncipe,24.14
+1966,São Tomé and Príncipe,24.49
+1967,São Tomé and Príncipe,24.21
+1968,São Tomé and Príncipe,24.17
+1969,São Tomé and Príncipe,24.35
+1970,São Tomé and Príncipe,24.3
+1971,São Tomé and Príncipe,23.92
+1972,São Tomé and Príncipe,23.87
+1973,São Tomé and Príncipe,24.29
+1974,São Tomé and Príncipe,23.81
+1975,São Tomé and Príncipe,23.79
+1976,São Tomé and Príncipe,23.58
+1977,São Tomé and Príncipe,24.07
+1978,São Tomé and Príncipe,24.02
+1979,São Tomé and Príncipe,24.22
+1980,São Tomé and Príncipe,24.25
+1981,São Tomé and Príncipe,24.04
+1982,São Tomé and Príncipe,23.86
+1983,São Tomé and Príncipe,24.18
+1984,São Tomé and Príncipe,24.33
+1985,São Tomé and Príncipe,23.97
+1986,São Tomé and Príncipe,23.9
+1987,São Tomé and Príncipe,24.52
+1988,São Tomé and Príncipe,24.28
+1989,São Tomé and Príncipe,24.26
+1990,São Tomé and Príncipe,24.19
+1991,São Tomé and Príncipe,24.19
+1992,São Tomé and Príncipe,24
+1993,São Tomé and Príncipe,24.2
+1994,São Tomé and Príncipe,24.14
+1995,São Tomé and Príncipe,24.41
+1996,São Tomé and Príncipe,24.22
+1997,São Tomé and Príncipe,24.08
+1998,São Tomé and Príncipe,24.75
+1999,São Tomé and Príncipe,24.38
+2000,São Tomé and Príncipe,24.44
+2001,São Tomé and Príncipe,24.45
+2002,São Tomé and Príncipe,24.66
+2003,São Tomé and Príncipe,24.7
+2004,São Tomé and Príncipe,24.46
+2005,São Tomé and Príncipe,24.54
+2006,São Tomé and Príncipe,24.59
+2007,São Tomé and Príncipe,24.59
+2008,São Tomé and Príncipe,24.44
+2009,São Tomé and Príncipe,24.53
+2010,São Tomé and Príncipe,24.73
+2011,São Tomé and Príncipe,24.4
+2012,São Tomé and Príncipe,24.48
+2013,São Tomé and Príncipe,24.51
+2014,São Tomé and Príncipe,24.59
+2015,São Tomé and Príncipe,24.66
+2016,São Tomé and Príncipe,24.76
+2017,São Tomé and Príncipe,24.66
+2018,São Tomé and Príncipe,24.82
+2019,São Tomé and Príncipe,24.66
+2020,São Tomé and Príncipe,24.72
+2021,São Tomé and Príncipe,24.93
+2022,São Tomé and Príncipe,24.66
+1901,Senegal,28.27
+1902,Senegal,28.63
+1903,Senegal,28.36
+1904,Senegal,28.13
+1905,Senegal,28.31
+1906,Senegal,28.41
+1907,Senegal,27.66
+1908,Senegal,28.55
+1909,Senegal,28.26
+1910,Senegal,28.47
+1911,Senegal,28.24
+1912,Senegal,28.54
+1913,Senegal,28.5
+1914,Senegal,28.2
+1915,Senegal,28.64
+1916,Senegal,28.14
+1917,Senegal,28.03
+1918,Senegal,28.32
+1919,Senegal,28.72
+1920,Senegal,28
+1921,Senegal,28.02
+1922,Senegal,27.7
+1923,Senegal,28.28
+1924,Senegal,27.98
+1925,Senegal,28.09
+1926,Senegal,28.5
+1927,Senegal,28.09
+1928,Senegal,27.79
+1929,Senegal,27.68
+1930,Senegal,27.63
+1931,Senegal,28.27
+1932,Senegal,28.16
+1933,Senegal,28.22
+1934,Senegal,28.12
+1935,Senegal,28.16
+1936,Senegal,28.36
+1937,Senegal,28.51
+1938,Senegal,28.47
+1939,Senegal,28.27
+1940,Senegal,28.19
+1941,Senegal,28.48
+1942,Senegal,28.15
+1943,Senegal,28.08
+1944,Senegal,28.56
+1945,Senegal,28.83
+1946,Senegal,28.3
+1947,Senegal,28.4
+1948,Senegal,28.21
+1949,Senegal,28.32
+1950,Senegal,28.11
+1951,Senegal,27.85
+1952,Senegal,27.58
+1953,Senegal,27.84
+1954,Senegal,27.83
+1955,Senegal,27.97
+1956,Senegal,27.69
+1957,Senegal,27.75
+1958,Senegal,28.27
+1959,Senegal,27.98
+1960,Senegal,28.1
+1961,Senegal,28.24
+1962,Senegal,28.25
+1963,Senegal,28.36
+1964,Senegal,28.14
+1965,Senegal,27.73
+1966,Senegal,28.24
+1967,Senegal,27.56
+1968,Senegal,27.98
+1969,Senegal,28.88
+1970,Senegal,28.68
+1971,Senegal,27.75
+1972,Senegal,28.15
+1973,Senegal,28.38
+1974,Senegal,27.48
+1975,Senegal,27.67
+1976,Senegal,27.59
+1977,Senegal,28.4
+1978,Senegal,28.11
+1979,Senegal,28.54
+1980,Senegal,28.43
+1981,Senegal,28.42
+1982,Senegal,27.91
+1983,Senegal,28.94
+1984,Senegal,28.3
+1985,Senegal,28.16
+1986,Senegal,27.97
+1987,Senegal,28.76
+1988,Senegal,28.3
+1989,Senegal,28.19
+1990,Senegal,28.72
+1991,Senegal,28.54
+1992,Senegal,28.45
+1993,Senegal,28.65
+1994,Senegal,28.2
+1995,Senegal,28.47
+1996,Senegal,28.86
+1997,Senegal,28.96
+1998,Senegal,29.4
+1999,Senegal,28.33
+2000,Senegal,28.59
+2001,Senegal,29.03
+2002,Senegal,29.02
+2003,Senegal,28.94
+2004,Senegal,29.02
+2005,Senegal,29.17
+2006,Senegal,28.93
+2007,Senegal,28.95
+2008,Senegal,28.96
+2009,Senegal,28.63
+2010,Senegal,29.43
+2011,Senegal,28.9
+2012,Senegal,28.81
+2013,Senegal,28.99
+2014,Senegal,28.9
+2015,Senegal,29.14
+2016,Senegal,29.33
+2017,Senegal,29.34
+2018,Senegal,28.82
+2019,Senegal,28.82
+2020,Senegal,29.55
+2021,Senegal,29.62
+2022,Senegal,29
+1901,Seychelles,25.75
+1902,Seychelles,25.69
+1903,Seychelles,25.92
+1904,Seychelles,26.23
+1905,Seychelles,26.65
+1906,Seychelles,26.26
+1907,Seychelles,26.06
+1908,Seychelles,26.35
+1909,Seychelles,26.1
+1910,Seychelles,26.05
+1911,Seychelles,26.12
+1912,Seychelles,26.52
+1913,Seychelles,26.38
+1914,Seychelles,26.82
+1915,Seychelles,26.58
+1916,Seychelles,26.34
+1917,Seychelles,26.21
+1918,Seychelles,26.17
+1919,Seychelles,26.78
+1920,Seychelles,26.41
+1921,Seychelles,26.42
+1922,Seychelles,26.41
+1923,Seychelles,26.17
+1924,Seychelles,26.41
+1925,Seychelles,26.24
+1926,Seychelles,26.55
+1927,Seychelles,26.51
+1928,Seychelles,25.85
+1929,Seychelles,25.64
+1930,Seychelles,25.66
+1931,Seychelles,25.99
+1932,Seychelles,25.72
+1933,Seychelles,25.69
+1934,Seychelles,25.74
+1935,Seychelles,25.73
+1936,Seychelles,25.95
+1937,Seychelles,25.86
+1938,Seychelles,25.87
+1939,Seychelles,25.57
+1940,Seychelles,25.96
+1941,Seychelles,26.49
+1942,Seychelles,25.93
+1943,Seychelles,26.08
+1944,Seychelles,26.51
+1945,Seychelles,25.97
+1946,Seychelles,26.03
+1947,Seychelles,26.16
+1948,Seychelles,26.22
+1949,Seychelles,26.39
+1950,Seychelles,26.19
+1951,Seychelles,26.57
+1952,Seychelles,26.44
+1953,Seychelles,26.52
+1954,Seychelles,26.42
+1955,Seychelles,26.21
+1956,Seychelles,26.12
+1957,Seychelles,26.32
+1958,Seychelles,26.75
+1959,Seychelles,26.48
+1960,Seychelles,26.39
+1961,Seychelles,26.66
+1962,Seychelles,26.46
+1963,Seychelles,26.12
+1964,Seychelles,26.16
+1965,Seychelles,26.13
+1966,Seychelles,26.58
+1967,Seychelles,26.55
+1968,Seychelles,26.42
+1969,Seychelles,26.75
+1970,Seychelles,26.72
+1971,Seychelles,26.07
+1972,Seychelles,26.4
+1973,Seychelles,26.62
+1974,Seychelles,25.83
+1975,Seychelles,26.08
+1976,Seychelles,26.2
+1977,Seychelles,26.61
+1978,Seychelles,26.7
+1979,Seychelles,26.6
+1980,Seychelles,26.67
+1981,Seychelles,26.66
+1982,Seychelles,26.87
+1983,Seychelles,26.89
+1984,Seychelles,26.11
+1985,Seychelles,26.3
+1986,Seychelles,26.61
+1987,Seychelles,27.11
+1988,Seychelles,26.76
+1989,Seychelles,26.37
+1990,Seychelles,26.63
+1991,Seychelles,26.78
+1992,Seychelles,26.41
+1993,Seychelles,26.42
+1994,Seychelles,26.74
+1995,Seychelles,26.8
+1996,Seychelles,26.44
+1997,Seychelles,27.04
+1998,Seychelles,27.12
+1999,Seychelles,26.59
+2000,Seychelles,26.54
+2001,Seychelles,26.75
+2002,Seychelles,26.81
+2003,Seychelles,26.89
+2004,Seychelles,26.65
+2005,Seychelles,26.78
+2006,Seychelles,26.9
+2007,Seychelles,27.07
+2008,Seychelles,26.78
+2009,Seychelles,27.14
+2010,Seychelles,27.31
+2011,Seychelles,27.16
+2012,Seychelles,27.12
+2013,Seychelles,27.11
+2014,Seychelles,27.11
+2015,Seychelles,27.48
+2016,Seychelles,27.28
+2017,Seychelles,27.25
+2018,Seychelles,27.17
+2019,Seychelles,27.29
+2020,Seychelles,27.26
+2021,Seychelles,27.07
+2022,Seychelles,27.11
+1901,Sierra Leone,26.67
+1902,Sierra Leone,26.7
+1903,Sierra Leone,26.34
+1904,Sierra Leone,26.17
+1905,Sierra Leone,26.36
+1906,Sierra Leone,26.36
+1907,Sierra Leone,26.04
+1908,Sierra Leone,26.45
+1909,Sierra Leone,26.29
+1910,Sierra Leone,26.54
+1911,Sierra Leone,26.21
+1912,Sierra Leone,26.69
+1913,Sierra Leone,26.4
+1914,Sierra Leone,26.25
+1915,Sierra Leone,26.68
+1916,Sierra Leone,26.18
+1917,Sierra Leone,26.32
+1918,Sierra Leone,26.28
+1919,Sierra Leone,26.28
+1920,Sierra Leone,26.14
+1921,Sierra Leone,25.93
+1922,Sierra Leone,25.87
+1923,Sierra Leone,26.2
+1924,Sierra Leone,25.8
+1925,Sierra Leone,25.95
+1926,Sierra Leone,26.17
+1927,Sierra Leone,25.62
+1928,Sierra Leone,25.49
+1929,Sierra Leone,25.41
+1930,Sierra Leone,25.49
+1931,Sierra Leone,26.07
+1932,Sierra Leone,26.01
+1933,Sierra Leone,26.12
+1934,Sierra Leone,26.05
+1935,Sierra Leone,25.96
+1936,Sierra Leone,26.05
+1937,Sierra Leone,26.23
+1938,Sierra Leone,26.31
+1939,Sierra Leone,26.24
+1940,Sierra Leone,26.25
+1941,Sierra Leone,26.61
+1942,Sierra Leone,26.32
+1943,Sierra Leone,25.97
+1944,Sierra Leone,26.49
+1945,Sierra Leone,26.5
+1946,Sierra Leone,26.19
+1947,Sierra Leone,26.28
+1948,Sierra Leone,26
+1949,Sierra Leone,26.19
+1950,Sierra Leone,25.93
+1951,Sierra Leone,26.06
+1952,Sierra Leone,26.06
+1953,Sierra Leone,26.22
+1954,Sierra Leone,25.81
+1955,Sierra Leone,25.84
+1956,Sierra Leone,25.72
+1957,Sierra Leone,25.97
+1958,Sierra Leone,26.05
+1959,Sierra Leone,25.91
+1960,Sierra Leone,26.02
+1961,Sierra Leone,25.8
+1962,Sierra Leone,25.86
+1963,Sierra Leone,26.14
+1964,Sierra Leone,25.8
+1965,Sierra Leone,25.67
+1966,Sierra Leone,25.99
+1967,Sierra Leone,25.82
+1968,Sierra Leone,25.99
+1969,Sierra Leone,26.29
+1970,Sierra Leone,26.14
+1971,Sierra Leone,25.68
+1972,Sierra Leone,26.11
+1973,Sierra Leone,26.36
+1974,Sierra Leone,25.89
+1975,Sierra Leone,25.69
+1976,Sierra Leone,25.61
+1977,Sierra Leone,26.12
+1978,Sierra Leone,25.94
+1979,Sierra Leone,26.26
+1980,Sierra Leone,26.24
+1981,Sierra Leone,26.19
+1982,Sierra Leone,26.02
+1983,Sierra Leone,26.47
+1984,Sierra Leone,26.2
+1985,Sierra Leone,26.02
+1986,Sierra Leone,25.83
+1987,Sierra Leone,26.6
+1988,Sierra Leone,26.24
+1989,Sierra Leone,26.1
+1990,Sierra Leone,26.3
+1991,Sierra Leone,26.34
+1992,Sierra Leone,26.11
+1993,Sierra Leone,26.26
+1994,Sierra Leone,26.03
+1995,Sierra Leone,26.24
+1996,Sierra Leone,26.4
+1997,Sierra Leone,26.35
+1998,Sierra Leone,26.85
+1999,Sierra Leone,26.14
+2000,Sierra Leone,26.26
+2001,Sierra Leone,26.48
+2002,Sierra Leone,26.66
+2003,Sierra Leone,26.57
+2004,Sierra Leone,26.7
+2005,Sierra Leone,26.72
+2006,Sierra Leone,26.69
+2007,Sierra Leone,26.75
+2008,Sierra Leone,26.46
+2009,Sierra Leone,26.38
+2010,Sierra Leone,26.84
+2011,Sierra Leone,26.66
+2012,Sierra Leone,26.45
+2013,Sierra Leone,26.59
+2014,Sierra Leone,26.52
+2015,Sierra Leone,26.68
+2016,Sierra Leone,26.97
+2017,Sierra Leone,26.88
+2018,Sierra Leone,26.75
+2019,Sierra Leone,26.58
+2020,Sierra Leone,27.01
+2021,Sierra Leone,27.19
+2022,Sierra Leone,26.64
+1901,Somalia,26.62
+1902,Somalia,26.67
+1903,Somalia,26.71
+1904,Somalia,26.53
+1905,Somalia,26.59
+1906,Somalia,26.55
+1907,Somalia,26.5
+1908,Somalia,26.69
+1909,Somalia,26.35
+1910,Somalia,26.56
+1911,Somalia,26.15
+1912,Somalia,25.75
+1913,Somalia,26.08
+1914,Somalia,26.45
+1915,Somalia,26.38
+1916,Somalia,26.3
+1917,Somalia,26.34
+1918,Somalia,26.36
+1919,Somalia,26.35
+1920,Somalia,26.34
+1921,Somalia,26.84
+1922,Somalia,27.17
+1923,Somalia,26.57
+1924,Somalia,27.61
+1925,Somalia,27.08
+1926,Somalia,26.86
+1927,Somalia,26.82
+1928,Somalia,27.28
+1929,Somalia,26.4
+1930,Somalia,26.05
+1931,Somalia,26.86
+1932,Somalia,26.49
+1933,Somalia,26.7
+1934,Somalia,26.62
+1935,Somalia,26.56
+1936,Somalia,26.51
+1937,Somalia,26.94
+1938,Somalia,26.56
+1939,Somalia,26.91
+1940,Somalia,27.05
+1941,Somalia,26.89
+1942,Somalia,26.84
+1943,Somalia,26.83
+1944,Somalia,27.01
+1945,Somalia,26.88
+1946,Somalia,26.88
+1947,Somalia,26.73
+1948,Somalia,26.76
+1949,Somalia,26.63
+1950,Somalia,26.42
+1951,Somalia,26.85
+1952,Somalia,26.9
+1953,Somalia,26.92
+1954,Somalia,26.84
+1955,Somalia,26.93
+1956,Somalia,26.58
+1957,Somalia,26.57
+1958,Somalia,26.82
+1959,Somalia,26.78
+1960,Somalia,26.48
+1961,Somalia,26.63
+1962,Somalia,26.59
+1963,Somalia,26.42
+1964,Somalia,26.15
+1965,Somalia,26.34
+1966,Somalia,26.59
+1967,Somalia,26.3
+1968,Somalia,26.13
+1969,Somalia,26.91
+1970,Somalia,26.96
+1971,Somalia,26.45
+1972,Somalia,26.73
+1973,Somalia,26.94
+1974,Somalia,26.55
+1975,Somalia,26.55
+1976,Somalia,26.78
+1977,Somalia,26.74
+1978,Somalia,26.77
+1979,Somalia,26.73
+1980,Somalia,26.98
+1981,Somalia,26.64
+1982,Somalia,26.64
+1983,Somalia,26.84
+1984,Somalia,26.46
+1985,Somalia,26.6
+1986,Somalia,26.72
+1987,Somalia,26.98
+1988,Somalia,26.88
+1989,Somalia,26.51
+1990,Somalia,26.8
+1991,Somalia,26.84
+1992,Somalia,26.74
+1993,Somalia,26.6
+1994,Somalia,26.69
+1995,Somalia,26.92
+1996,Somalia,26.87
+1997,Somalia,26.79
+1998,Somalia,27.07
+1999,Somalia,26.69
+2000,Somalia,26.8
+2001,Somalia,26.86
+2002,Somalia,27.12
+2003,Somalia,27.07
+2004,Somalia,26.91
+2005,Somalia,26.91
+2006,Somalia,26.96
+2007,Somalia,26.88
+2008,Somalia,26.71
+2009,Somalia,27.28
+2010,Somalia,26.96
+2011,Somalia,26.99
+2012,Somalia,26.89
+2013,Somalia,27.11
+2014,Somalia,27.08
+2015,Somalia,27.27
+2016,Somalia,27.34
+2017,Somalia,27.17
+2018,Somalia,26.84
+2019,Somalia,27.17
+2020,Somalia,27.07
+2021,Somalia,26.93
+2022,Somalia,27.1
+1901,South Africa,16.87
+1902,South Africa,16.74
+1903,South Africa,16.63
+1904,South Africa,16.68
+1905,South Africa,16.81
+1906,South Africa,16.52
+1907,South Africa,16.39
+1908,South Africa,16.64
+1909,South Africa,16.77
+1910,South Africa,16.52
+1911,South Africa,16.76
+1912,South Africa,17.05
+1913,South Africa,17.15
+1914,South Africa,17.23
+1915,South Africa,17.03
+1916,South Africa,17.01
+1917,South Africa,16.61
+1918,South Africa,16.83
+1919,South Africa,17.13
+1920,South Africa,17.16
+1921,South Africa,16.65
+1922,South Africa,17.24
+1923,South Africa,17.28
+1924,South Africa,16.71
+1925,South Africa,17.02
+1926,South Africa,17.08
+1927,South Africa,17.51
+1928,South Africa,17.19
+1929,South Africa,17.23
+1930,South Africa,17.09
+1931,South Africa,17.5
+1932,South Africa,17.71
+1933,South Africa,17.57
+1934,South Africa,17.66
+1935,South Africa,16.86
+1936,South Africa,17.17
+1937,South Africa,17.51
+1938,South Africa,17.42
+1939,South Africa,17.22
+1940,South Africa,17.56
+1941,South Africa,17.75
+1942,South Africa,17.5
+1943,South Africa,16.77
+1944,South Africa,17.54
+1945,South Africa,17.71
+1946,South Africa,17.69
+1947,South Africa,17.7
+1948,South Africa,17.41
+1949,South Africa,17.73
+1950,South Africa,17.5
+1951,South Africa,17.12
+1952,South Africa,17.63
+1953,South Africa,17.25
+1954,South Africa,17.06
+1955,South Africa,16.55
+1956,South Africa,17.13
+1957,South Africa,17.54
+1958,South Africa,17.61
+1959,South Africa,17.41
+1960,South Africa,17.52
+1961,South Africa,17.49
+1962,South Africa,17.66
+1963,South Africa,17.44
+1964,South Africa,17.24
+1965,South Africa,17.34
+1966,South Africa,17.72
+1967,South Africa,17.16
+1968,South Africa,16.98
+1969,South Africa,17.66
+1970,South Africa,17.63
+1971,South Africa,17.23
+1972,South Africa,17.62
+1973,South Africa,17.56
+1974,South Africa,17.11
+1975,South Africa,17.1
+1976,South Africa,16.92
+1977,South Africa,17.6
+1978,South Africa,17.4
+1979,South Africa,17.79
+1980,South Africa,17.6
+1981,South Africa,17.1
+1982,South Africa,17.71
+1983,South Africa,18.22
+1984,South Africa,18.06
+1985,South Africa,18.13
+1986,South Africa,18.08
+1987,South Africa,18.16
+1988,South Africa,17.67
+1989,South Africa,17.49
+1990,South Africa,17.73
+1991,South Africa,17.76
+1992,South Africa,18.32
+1993,South Africa,18.26
+1994,South Africa,17.58
+1995,South Africa,17.88
+1996,South Africa,17.33
+1997,South Africa,17.68
+1998,South Africa,18.15
+1999,South Africa,18.5
+2000,South Africa,17.55
+2001,South Africa,17.81
+2002,South Africa,17.85
+2003,South Africa,18.21
+2004,South Africa,18.49
+2005,South Africa,18.49
+2006,South Africa,17.97
+2007,South Africa,18.29
+2008,South Africa,18.41
+2009,South Africa,18.33
+2010,South Africa,18.58
+2011,South Africa,17.89
+2012,South Africa,18.13
+2013,South Africa,18.2
+2014,South Africa,18.41
+2015,South Africa,18.87
+2016,South Africa,18.98
+2017,South Africa,18.51
+2018,South Africa,18.65
+2019,South Africa,19.27
+2020,South Africa,18.47
+2021,South Africa,18.06
+2022,South Africa,18.42
+1901,South Sudan,27.34
+1902,South Sudan,27.16
+1903,South Sudan,27.12
+1904,South Sudan,27.09
+1905,South Sudan,27.06
+1906,South Sudan,27.13
+1907,South Sudan,27.02
+1908,South Sudan,27.13
+1909,South Sudan,26.98
+1910,South Sudan,26.77
+1911,South Sudan,26.91
+1912,South Sudan,26.64
+1913,South Sudan,26.49
+1914,South Sudan,27.08
+1915,South Sudan,27.04
+1916,South Sudan,26.37
+1917,South Sudan,26.46
+1918,South Sudan,26.75
+1919,South Sudan,27.34
+1920,South Sudan,26.34
+1921,South Sudan,26.86
+1922,South Sudan,26.81
+1923,South Sudan,26.89
+1924,South Sudan,27.29
+1925,South Sudan,27.05
+1926,South Sudan,27.19
+1927,South Sudan,27.38
+1928,South Sudan,27.61
+1929,South Sudan,26.78
+1930,South Sudan,26.7
+1931,South Sudan,27.17
+1932,South Sudan,27.02
+1933,South Sudan,27.54
+1934,South Sudan,27.11
+1935,South Sudan,27.17
+1936,South Sudan,27.36
+1937,South Sudan,27.27
+1938,South Sudan,27.32
+1939,South Sudan,27.39
+1940,South Sudan,27.35
+1941,South Sudan,27.21
+1942,South Sudan,27.13
+1943,South Sudan,26.59
+1944,South Sudan,26.71
+1945,South Sudan,26.55
+1946,South Sudan,26.56
+1947,South Sudan,26.71
+1948,South Sudan,26.44
+1949,South Sudan,26.46
+1950,South Sudan,26.28
+1951,South Sudan,26.49
+1952,South Sudan,26.99
+1953,South Sudan,26.68
+1954,South Sudan,26.64
+1955,South Sudan,26.56
+1956,South Sudan,26.34
+1957,South Sudan,26.66
+1958,South Sudan,27.12
+1959,South Sudan,26.78
+1960,South Sudan,26.95
+1961,South Sudan,26.36
+1962,South Sudan,26.5
+1963,South Sudan,26.73
+1964,South Sudan,26.37
+1965,South Sudan,26.69
+1966,South Sudan,26.75
+1967,South Sudan,26.33
+1968,South Sudan,26.45
+1969,South Sudan,27.13
+1970,South Sudan,26.89
+1971,South Sudan,26.51
+1972,South Sudan,26.91
+1973,South Sudan,27.26
+1974,South Sudan,26.76
+1975,South Sudan,26.89
+1976,South Sudan,27.12
+1977,South Sudan,27.05
+1978,South Sudan,27.24
+1979,South Sudan,27.38
+1980,South Sudan,27.59
+1981,South Sudan,27.7
+1982,South Sudan,27.61
+1983,South Sudan,27.79
+1984,South Sudan,27.9
+1985,South Sudan,27.63
+1986,South Sudan,27.76
+1987,South Sudan,28.06
+1988,South Sudan,27.6
+1989,South Sudan,26.97
+1990,South Sudan,27.97
+1991,South Sudan,27.61
+1992,South Sudan,27.1
+1993,South Sudan,27.57
+1994,South Sudan,27.22
+1995,South Sudan,27.5
+1996,South Sudan,27.53
+1997,South Sudan,27.82
+1998,South Sudan,27.83
+1999,South Sudan,27.31
+2000,South Sudan,27.84
+2001,South Sudan,27.9
+2002,South Sudan,28.27
+2003,South Sudan,28.19
+2004,South Sudan,28.38
+2005,South Sudan,28.53
+2006,South Sudan,28.32
+2007,South Sudan,28.47
+2008,South Sudan,28.5
+2009,South Sudan,29.15
+2010,South Sudan,28.88
+2011,South Sudan,28.16
+2012,South Sudan,27.76
+2013,South Sudan,28.09
+2014,South Sudan,27.79
+2015,South Sudan,28.1
+2016,South Sudan,28.21
+2017,South Sudan,27.91
+2018,South Sudan,27.71
+2019,South Sudan,27.83
+2020,South Sudan,27.54
+2021,South Sudan,27.9
+2022,South Sudan,27.55
+1901,Sudan,27.74
+1902,Sudan,27.02
+1903,Sudan,26.62
+1904,Sudan,26.9
+1905,Sudan,26.87
+1906,Sudan,27.32
+1907,Sudan,26.92
+1908,Sudan,26.94
+1909,Sudan,27.35
+1910,Sudan,26.67
+1911,Sudan,26.85
+1912,Sudan,26.64
+1913,Sudan,26.35
+1914,Sudan,27.18
+1915,Sudan,27.47
+1916,Sudan,26.59
+1917,Sudan,26.6
+1918,Sudan,26.91
+1919,Sudan,27.68
+1920,Sudan,26.13
+1921,Sudan,26.79
+1922,Sudan,26.66
+1923,Sudan,26.79
+1924,Sudan,27.31
+1925,Sudan,27.07
+1926,Sudan,27.17
+1927,Sudan,27.53
+1928,Sudan,27.98
+1929,Sudan,26.94
+1930,Sudan,26.9
+1931,Sudan,27.5
+1932,Sudan,27.22
+1933,Sudan,27.84
+1934,Sudan,27.3
+1935,Sudan,27.44
+1936,Sudan,27.91
+1937,Sudan,27.62
+1938,Sudan,27.55
+1939,Sudan,27.93
+1940,Sudan,27.82
+1941,Sudan,27.16
+1942,Sudan,27
+1943,Sudan,26.21
+1944,Sudan,26.56
+1945,Sudan,26.3
+1946,Sudan,26.4
+1947,Sudan,26.75
+1948,Sudan,26.18
+1949,Sudan,26.08
+1950,Sudan,26.32
+1951,Sudan,26.24
+1952,Sudan,26.83
+1953,Sudan,26.34
+1954,Sudan,26.49
+1955,Sudan,26.66
+1956,Sudan,26.38
+1957,Sudan,26.6
+1958,Sudan,27
+1959,Sudan,26.27
+1960,Sudan,27.04
+1961,Sudan,25.94
+1962,Sudan,26.77
+1963,Sudan,27.03
+1964,Sudan,26.04
+1965,Sudan,26.53
+1966,Sudan,26.98
+1967,Sudan,26.02
+1968,Sudan,26.4
+1969,Sudan,27.38
+1970,Sudan,26.65
+1971,Sudan,26.3
+1972,Sudan,26.76
+1973,Sudan,27.24
+1974,Sudan,26.81
+1975,Sudan,26.96
+1976,Sudan,27.44
+1977,Sudan,26.76
+1978,Sudan,27.12
+1979,Sudan,27.73
+1980,Sudan,27.69
+1981,Sudan,27.46
+1982,Sudan,27.21
+1983,Sudan,27.16
+1984,Sudan,27.9
+1985,Sudan,27.76
+1986,Sudan,27.43
+1987,Sudan,27.65
+1988,Sudan,27.3
+1989,Sudan,27
+1990,Sudan,27.78
+1991,Sudan,27.49
+1992,Sudan,26.73
+1993,Sudan,27.67
+1994,Sudan,27.2
+1995,Sudan,27.22
+1996,Sudan,27.7
+1997,Sudan,27.75
+1998,Sudan,27.91
+1999,Sudan,27.85
+2000,Sudan,27.66
+2001,Sudan,27.8
+2002,Sudan,27.99
+2003,Sudan,28
+2004,Sudan,28.13
+2005,Sudan,28.32
+2006,Sudan,27.98
+2007,Sudan,27.92
+2008,Sudan,28.19
+2009,Sudan,28.69
+2010,Sudan,29.14
+2011,Sudan,27.96
+2012,Sudan,28.16
+2013,Sudan,28.27
+2014,Sudan,28.1
+2015,Sudan,28.41
+2016,Sudan,28.54
+2017,Sudan,28.23
+2018,Sudan,28.16
+2019,Sudan,28.03
+2020,Sudan,27.41
+2021,Sudan,28.17
+2022,Sudan,27.57
+1901,Tanzania,22.19
+1902,Tanzania,22.5
+1903,Tanzania,22.3
+1904,Tanzania,21.94
+1905,Tanzania,22.11
+1906,Tanzania,21.69
+1907,Tanzania,21.74
+1908,Tanzania,22.25
+1909,Tanzania,21.46
+1910,Tanzania,21.31
+1911,Tanzania,21.62
+1912,Tanzania,21.59
+1913,Tanzania,21.29
+1914,Tanzania,21.61
+1915,Tanzania,21.53
+1916,Tanzania,21.22
+1917,Tanzania,20.87
+1918,Tanzania,21.14
+1919,Tanzania,21.31
+1920,Tanzania,21.31
+1921,Tanzania,22.26
+1922,Tanzania,22.19
+1923,Tanzania,22.12
+1924,Tanzania,22.37
+1925,Tanzania,22.27
+1926,Tanzania,22.53
+1927,Tanzania,22.37
+1928,Tanzania,22.55
+1929,Tanzania,21.06
+1930,Tanzania,21.23
+1931,Tanzania,22.01
+1932,Tanzania,21.68
+1933,Tanzania,21.71
+1934,Tanzania,21.76
+1935,Tanzania,21.86
+1936,Tanzania,21.79
+1937,Tanzania,21.76
+1938,Tanzania,21.99
+1939,Tanzania,21.99
+1940,Tanzania,22.26
+1941,Tanzania,22.36
+1942,Tanzania,22.12
+1943,Tanzania,22.07
+1944,Tanzania,22.24
+1945,Tanzania,22.15
+1946,Tanzania,22.21
+1947,Tanzania,22.07
+1948,Tanzania,22.29
+1949,Tanzania,22.61
+1950,Tanzania,21.92
+1951,Tanzania,22.31
+1952,Tanzania,22.6
+1953,Tanzania,22.65
+1954,Tanzania,22.47
+1955,Tanzania,22.36
+1956,Tanzania,22.06
+1957,Tanzania,22.46
+1958,Tanzania,22.69
+1959,Tanzania,22.58
+1960,Tanzania,22.31
+1961,Tanzania,22.6
+1962,Tanzania,22.16
+1963,Tanzania,22.02
+1964,Tanzania,22.04
+1965,Tanzania,22.03
+1966,Tanzania,22.51
+1967,Tanzania,22.29
+1968,Tanzania,21.87
+1969,Tanzania,22.61
+1970,Tanzania,22.39
+1971,Tanzania,21.96
+1972,Tanzania,22.37
+1973,Tanzania,22.53
+1974,Tanzania,22.16
+1975,Tanzania,22.19
+1976,Tanzania,22.36
+1977,Tanzania,22.51
+1978,Tanzania,22.31
+1979,Tanzania,22.32
+1980,Tanzania,22.42
+1981,Tanzania,22.38
+1982,Tanzania,22.43
+1983,Tanzania,22.99
+1984,Tanzania,22.35
+1985,Tanzania,22.23
+1986,Tanzania,22.34
+1987,Tanzania,22.95
+1988,Tanzania,22.83
+1989,Tanzania,22.21
+1990,Tanzania,22.67
+1991,Tanzania,22.62
+1992,Tanzania,22.71
+1993,Tanzania,22.53
+1994,Tanzania,22.76
+1995,Tanzania,22.95
+1996,Tanzania,22.73
+1997,Tanzania,22.9
+1998,Tanzania,23.06
+1999,Tanzania,22.81
+2000,Tanzania,22.81
+2001,Tanzania,22.88
+2002,Tanzania,23.08
+2003,Tanzania,23.29
+2004,Tanzania,22.81
+2005,Tanzania,23.15
+2006,Tanzania,22.83
+2007,Tanzania,22.83
+2008,Tanzania,22.62
+2009,Tanzania,23
+2010,Tanzania,23.21
+2011,Tanzania,22.78
+2012,Tanzania,22.77
+2013,Tanzania,22.94
+2014,Tanzania,22.88
+2015,Tanzania,23.03
+2016,Tanzania,23.19
+2017,Tanzania,23.26
+2018,Tanzania,22.86
+2019,Tanzania,23.26
+2020,Tanzania,23.1
+2021,Tanzania,23
+2022,Tanzania,22.9
+1901,Togo,26.76
+1902,Togo,26.82
+1903,Togo,26.92
+1904,Togo,26.92
+1905,Togo,26.54
+1906,Togo,27.18
+1907,Togo,26.81
+1908,Togo,26.87
+1909,Togo,26.67
+1910,Togo,27.02
+1911,Togo,26.67
+1912,Togo,27.02
+1913,Togo,27.28
+1914,Togo,27.52
+1915,Togo,26.72
+1916,Togo,26.59
+1917,Togo,26.65
+1918,Togo,26.6
+1919,Togo,26.92
+1920,Togo,26.97
+1921,Togo,26.91
+1922,Togo,26.78
+1923,Togo,26.66
+1924,Togo,26.9
+1925,Togo,26.34
+1926,Togo,26.88
+1927,Togo,26.13
+1928,Togo,26.19
+1929,Togo,26.02
+1930,Togo,26.87
+1931,Togo,27.23
+1932,Togo,27.17
+1933,Togo,27.08
+1934,Togo,27.35
+1935,Togo,27.49
+1936,Togo,26.83
+1937,Togo,27.97
+1938,Togo,28.17
+1939,Togo,27.53
+1940,Togo,27
+1941,Togo,27.54
+1942,Togo,27.29
+1943,Togo,26.87
+1944,Togo,27.23
+1945,Togo,26.86
+1946,Togo,26.76
+1947,Togo,27.15
+1948,Togo,26.63
+1949,Togo,27.26
+1950,Togo,26.55
+1951,Togo,27.22
+1952,Togo,26.98
+1953,Togo,26.79
+1954,Togo,26.5
+1955,Togo,26.46
+1956,Togo,26.52
+1957,Togo,26.66
+1958,Togo,26.89
+1959,Togo,26.84
+1960,Togo,26.73
+1961,Togo,26.6
+1962,Togo,26.56
+1963,Togo,26.88
+1964,Togo,26.6
+1965,Togo,26.72
+1966,Togo,26.95
+1967,Togo,26.61
+1968,Togo,26.84
+1969,Togo,27.14
+1970,Togo,26.96
+1971,Togo,26.15
+1972,Togo,26.48
+1973,Togo,26.91
+1974,Togo,26.19
+1975,Togo,26.04
+1976,Togo,26.08
+1977,Togo,26.76
+1978,Togo,26.44
+1979,Togo,26.74
+1980,Togo,26.72
+1981,Togo,27.35
+1982,Togo,27.18
+1983,Togo,27.59
+1984,Togo,27.43
+1985,Togo,27.33
+1986,Togo,27.15
+1987,Togo,27.36
+1988,Togo,26.83
+1989,Togo,26.51
+1990,Togo,27
+1991,Togo,26.76
+1992,Togo,26.67
+1993,Togo,26.79
+1994,Togo,26.71
+1995,Togo,26.95
+1996,Togo,26.99
+1997,Togo,26.95
+1998,Togo,27.49
+1999,Togo,26.94
+2000,Togo,27.19
+2001,Togo,27.35
+2002,Togo,27.38
+2003,Togo,27.45
+2004,Togo,27.28
+2005,Togo,27.6
+2006,Togo,27.5
+2007,Togo,27.45
+2008,Togo,27.17
+2009,Togo,27.5
+2010,Togo,27.78
+2011,Togo,27.46
+2012,Togo,27.27
+2013,Togo,27.42
+2014,Togo,27.6
+2015,Togo,27.66
+2016,Togo,27.88
+2017,Togo,27.7
+2018,Togo,27.66
+2019,Togo,27.54
+2020,Togo,27.81
+2021,Togo,28.04
+2022,Togo,27.47
+1901,Tunisia,19.05
+1902,Tunisia,19.2
+1903,Tunisia,18.73
+1904,Tunisia,19.06
+1905,Tunisia,18.75
+1906,Tunisia,18.68
+1907,Tunisia,18.62
+1908,Tunisia,18.86
+1909,Tunisia,18.75
+1910,Tunisia,18.68
+1911,Tunisia,19.38
+1912,Tunisia,19.12
+1913,Tunisia,19.4
+1914,Tunisia,19
+1915,Tunisia,19.05
+1916,Tunisia,19.39
+1917,Tunisia,18.93
+1918,Tunisia,18.72
+1919,Tunisia,18.85
+1920,Tunisia,19.49
+1921,Tunisia,19.09
+1922,Tunisia,19.43
+1923,Tunisia,18.94
+1924,Tunisia,19.6
+1925,Tunisia,18.93
+1926,Tunisia,19.6
+1927,Tunisia,19.71
+1928,Tunisia,19.46
+1929,Tunisia,18.83
+1930,Tunisia,19.41
+1931,Tunisia,19.54
+1932,Tunisia,19.25
+1933,Tunisia,19.34
+1934,Tunisia,19.18
+1935,Tunisia,19.15
+1936,Tunisia,19.03
+1937,Tunisia,19.54
+1938,Tunisia,19.04
+1939,Tunisia,19.1
+1940,Tunisia,19.14
+1941,Tunisia,19.05
+1942,Tunisia,19.77
+1943,Tunisia,20.05
+1944,Tunisia,19.27
+1945,Tunisia,19.76
+1946,Tunisia,19.87
+1947,Tunisia,20.36
+1948,Tunisia,19.68
+1949,Tunisia,19.64
+1950,Tunisia,19.78
+1951,Tunisia,19.47
+1952,Tunisia,19.98
+1953,Tunisia,19.27
+1954,Tunisia,18.93
+1955,Tunisia,20.12
+1956,Tunisia,18.77
+1957,Tunisia,19.14
+1958,Tunisia,19.78
+1959,Tunisia,19.57
+1960,Tunisia,19.77
+1961,Tunisia,19.67
+1962,Tunisia,19.36
+1963,Tunisia,19.32
+1964,Tunisia,19.41
+1965,Tunisia,19.35
+1966,Tunisia,19.51
+1967,Tunisia,19.41
+1968,Tunisia,19.59
+1969,Tunisia,19.14
+1970,Tunisia,19.41
+1971,Tunisia,19.08
+1972,Tunisia,18.97
+1973,Tunisia,19.29
+1974,Tunisia,19.08
+1975,Tunisia,19.09
+1976,Tunisia,18.58
+1977,Tunisia,19.89
+1978,Tunisia,19.07
+1979,Tunisia,19.57
+1980,Tunisia,18.84
+1981,Tunisia,19.75
+1982,Tunisia,20.14
+1983,Tunisia,19.9
+1984,Tunisia,19.33
+1985,Tunisia,19.99
+1986,Tunisia,19.93
+1987,Tunisia,20.15
+1988,Tunisia,20.4
+1989,Tunisia,20.1
+1990,Tunisia,20.31
+1991,Tunisia,19.31
+1992,Tunisia,19.38
+1993,Tunisia,19.87
+1994,Tunisia,20.84
+1995,Tunisia,20.16
+1996,Tunisia,19.91
+1997,Tunisia,20.63
+1998,Tunisia,20.16
+1999,Tunisia,20.99
+2000,Tunisia,20.5
+2001,Tunisia,20.96
+2002,Tunisia,20.67
+2003,Tunisia,20.92
+2004,Tunisia,20.33
+2005,Tunisia,20.19
+2006,Tunisia,20.75
+2007,Tunisia,20.59
+2008,Tunisia,20.63
+2009,Tunisia,20.54
+2010,Tunisia,20.77
+2011,Tunisia,20.46
+2012,Tunisia,20.93
+2013,Tunisia,20.63
+2014,Tunisia,21.09
+2015,Tunisia,20.78
+2016,Tunisia,21.05
+2017,Tunisia,20.71
+2018,Tunisia,20.71
+2019,Tunisia,20.72
+2020,Tunisia,20.86
+2021,Tunisia,21.33
+2022,Tunisia,21.44
+1901,Uganda,22.58
+1902,Uganda,22.67
+1903,Uganda,22.6
+1904,Uganda,22.09
+1905,Uganda,22.17
+1906,Uganda,21.86
+1907,Uganda,21.91
+1908,Uganda,22.5
+1909,Uganda,21.24
+1910,Uganda,21.31
+1911,Uganda,21.71
+1912,Uganda,21.22
+1913,Uganda,21.15
+1914,Uganda,21.54
+1915,Uganda,21.44
+1916,Uganda,21.05
+1917,Uganda,20.61
+1918,Uganda,20.97
+1919,Uganda,21.2
+1920,Uganda,21.17
+1921,Uganda,22.37
+1922,Uganda,22.27
+1923,Uganda,22.19
+1924,Uganda,22.5
+1925,Uganda,22.39
+1926,Uganda,22.7
+1927,Uganda,22.52
+1928,Uganda,22.72
+1929,Uganda,20.81
+1930,Uganda,21.06
+1931,Uganda,21.99
+1932,Uganda,21.64
+1933,Uganda,21.77
+1934,Uganda,21.78
+1935,Uganda,21.8
+1936,Uganda,21.66
+1937,Uganda,21.66
+1938,Uganda,21.87
+1939,Uganda,22.03
+1940,Uganda,22.36
+1941,Uganda,22.47
+1942,Uganda,22.27
+1943,Uganda,22.21
+1944,Uganda,22.29
+1945,Uganda,22.25
+1946,Uganda,22.18
+1947,Uganda,22.06
+1948,Uganda,22.12
+1949,Uganda,22.31
+1950,Uganda,21.78
+1951,Uganda,22.35
+1952,Uganda,22.63
+1953,Uganda,22.66
+1954,Uganda,22.43
+1955,Uganda,22.36
+1956,Uganda,22.09
+1957,Uganda,22.42
+1958,Uganda,22.75
+1959,Uganda,22.52
+1960,Uganda,22.45
+1961,Uganda,22.32
+1962,Uganda,22.11
+1963,Uganda,22.2
+1964,Uganda,22.13
+1965,Uganda,22.26
+1966,Uganda,22.43
+1967,Uganda,22.11
+1968,Uganda,21.82
+1969,Uganda,22.44
+1970,Uganda,22.46
+1971,Uganda,22.1
+1972,Uganda,22.5
+1973,Uganda,22.7
+1974,Uganda,22.27
+1975,Uganda,22.28
+1976,Uganda,22.55
+1977,Uganda,22.57
+1978,Uganda,22.49
+1979,Uganda,22.55
+1980,Uganda,22.71
+1981,Uganda,22.8
+1982,Uganda,22.78
+1983,Uganda,23.04
+1984,Uganda,22.75
+1985,Uganda,22.56
+1986,Uganda,22.76
+1987,Uganda,23.21
+1988,Uganda,22.93
+1989,Uganda,22.33
+1990,Uganda,22.88
+1991,Uganda,22.75
+1992,Uganda,22.71
+1993,Uganda,22.81
+1994,Uganda,22.71
+1995,Uganda,23.09
+1996,Uganda,22.81
+1997,Uganda,22.91
+1998,Uganda,23.01
+1999,Uganda,22.93
+2000,Uganda,23.22
+2001,Uganda,23.38
+2002,Uganda,23.74
+2003,Uganda,23.64
+2004,Uganda,23.64
+2005,Uganda,23.64
+2006,Uganda,23.5
+2007,Uganda,23.56
+2008,Uganda,23.5
+2009,Uganda,24.03
+2010,Uganda,23.81
+2011,Uganda,23.37
+2012,Uganda,22.97
+2013,Uganda,23.14
+2014,Uganda,23.05
+2015,Uganda,23.08
+2016,Uganda,23.38
+2017,Uganda,23.3
+2018,Uganda,23.08
+2019,Uganda,23.33
+2020,Uganda,23.34
+2021,Uganda,23.22
+2022,Uganda,23.14
+1901,Zambia,21.52
+1902,Zambia,21.77
+1903,Zambia,21.84
+1904,Zambia,21.25
+1905,Zambia,21.73
+1906,Zambia,21.29
+1907,Zambia,21.1
+1908,Zambia,21.62
+1909,Zambia,21.43
+1910,Zambia,21.18
+1911,Zambia,21.17
+1912,Zambia,21.68
+1913,Zambia,21.79
+1914,Zambia,22.08
+1915,Zambia,21.82
+1916,Zambia,21.83
+1917,Zambia,21.77
+1918,Zambia,20.96
+1919,Zambia,21.21
+1920,Zambia,21.76
+1921,Zambia,21.56
+1922,Zambia,22.22
+1923,Zambia,21.76
+1924,Zambia,21.55
+1925,Zambia,21.24
+1926,Zambia,21.52
+1927,Zambia,21.34
+1928,Zambia,21.89
+1929,Zambia,21.71
+1930,Zambia,21.37
+1931,Zambia,22.03
+1932,Zambia,21.51
+1933,Zambia,21.46
+1934,Zambia,21.68
+1935,Zambia,21.33
+1936,Zambia,21.28
+1937,Zambia,21.2
+1938,Zambia,21.65
+1939,Zambia,21.19
+1940,Zambia,21.73
+1941,Zambia,21.98
+1942,Zambia,22.09
+1943,Zambia,21.69
+1944,Zambia,21.78
+1945,Zambia,21.45
+1946,Zambia,21.62
+1947,Zambia,21.66
+1948,Zambia,21.52
+1949,Zambia,22.17
+1950,Zambia,21.52
+1951,Zambia,21.37
+1952,Zambia,21.69
+1953,Zambia,21.39
+1954,Zambia,21.46
+1955,Zambia,21.38
+1956,Zambia,21.09
+1957,Zambia,21.75
+1958,Zambia,21.59
+1959,Zambia,21.74
+1960,Zambia,21.57
+1961,Zambia,21.5
+1962,Zambia,21.2
+1963,Zambia,20.92
+1964,Zambia,21.2
+1965,Zambia,21.03
+1966,Zambia,21.62
+1967,Zambia,21.34
+1968,Zambia,21.42
+1969,Zambia,21.66
+1970,Zambia,21.81
+1971,Zambia,21.34
+1972,Zambia,21.47
+1973,Zambia,21.67
+1974,Zambia,20.99
+1975,Zambia,21.28
+1976,Zambia,21.11
+1977,Zambia,21.8
+1978,Zambia,21.33
+1979,Zambia,21.51
+1980,Zambia,21.45
+1981,Zambia,21.33
+1982,Zambia,21.67
+1983,Zambia,22.43
+1984,Zambia,21.86
+1985,Zambia,21.65
+1986,Zambia,21.44
+1987,Zambia,22.43
+1988,Zambia,21.9
+1989,Zambia,21.62
+1990,Zambia,22.14
+1991,Zambia,21.8
+1992,Zambia,22.45
+1993,Zambia,21.83
+1994,Zambia,22.14
+1995,Zambia,22.67
+1996,Zambia,22.25
+1997,Zambia,22.34
+1998,Zambia,22.6
+1999,Zambia,21.87
+2000,Zambia,21.96
+2001,Zambia,22.17
+2002,Zambia,22.39
+2003,Zambia,22.49
+2004,Zambia,22.27
+2005,Zambia,23.19
+2006,Zambia,22.07
+2007,Zambia,22.16
+2008,Zambia,21.96
+2009,Zambia,22.23
+2010,Zambia,22.62
+2011,Zambia,21.95
+2012,Zambia,22.06
+2013,Zambia,21.9
+2014,Zambia,21.95
+2015,Zambia,22.36
+2016,Zambia,22.51
+2017,Zambia,22.21
+2018,Zambia,21.94
+2019,Zambia,22.4
+2020,Zambia,22.03
+2021,Zambia,22.11
+2022,Zambia,21.92
+1901,Zimbabwe,21
+1902,Zimbabwe,21.4
+1903,Zimbabwe,21.58
+1904,Zimbabwe,20.54
+1905,Zimbabwe,21.4
+1906,Zimbabwe,20.68
+1907,Zimbabwe,20.36
+1908,Zimbabwe,21.21
+1909,Zimbabwe,20.88
+1910,Zimbabwe,20.32
+1911,Zimbabwe,20.38
+1912,Zimbabwe,21.21
+1913,Zimbabwe,21.42
+1914,Zimbabwe,21.75
+1915,Zimbabwe,21.29
+1916,Zimbabwe,21.38
+1917,Zimbabwe,21.18
+1918,Zimbabwe,20.35
+1919,Zimbabwe,20.64
+1920,Zimbabwe,21.27
+1921,Zimbabwe,20.91
+1922,Zimbabwe,21.79
+1923,Zimbabwe,21.3
+1924,Zimbabwe,20.93
+1925,Zimbabwe,20.68
+1926,Zimbabwe,21.03
+1927,Zimbabwe,20.84
+1928,Zimbabwe,21.4
+1929,Zimbabwe,21.2
+1930,Zimbabwe,20.74
+1931,Zimbabwe,21.61
+1932,Zimbabwe,21.08
+1933,Zimbabwe,20.96
+1934,Zimbabwe,21.35
+1935,Zimbabwe,20.62
+1936,Zimbabwe,20.75
+1937,Zimbabwe,20.83
+1938,Zimbabwe,21.22
+1939,Zimbabwe,20.47
+1940,Zimbabwe,21.24
+1941,Zimbabwe,21.63
+1942,Zimbabwe,21.62
+1943,Zimbabwe,21.1
+1944,Zimbabwe,21.34
+1945,Zimbabwe,20.81
+1946,Zimbabwe,21.24
+1947,Zimbabwe,21.47
+1948,Zimbabwe,21.15
+1949,Zimbabwe,21.51
+1950,Zimbabwe,21.21
+1951,Zimbabwe,20.99
+1952,Zimbabwe,21.31
+1953,Zimbabwe,20.82
+1954,Zimbabwe,21.15
+1955,Zimbabwe,20.88
+1956,Zimbabwe,21
+1957,Zimbabwe,21.76
+1958,Zimbabwe,21.33
+1959,Zimbabwe,21.49
+1960,Zimbabwe,21.21
+1961,Zimbabwe,21.12
+1962,Zimbabwe,21.11
+1963,Zimbabwe,20.49
+1964,Zimbabwe,20.86
+1965,Zimbabwe,20.73
+1966,Zimbabwe,21.19
+1967,Zimbabwe,20.9
+1968,Zimbabwe,21.11
+1969,Zimbabwe,21.23
+1970,Zimbabwe,21.61
+1971,Zimbabwe,21.03
+1972,Zimbabwe,20.85
+1973,Zimbabwe,21.24
+1974,Zimbabwe,20.46
+1975,Zimbabwe,20.7
+1976,Zimbabwe,20.59
+1977,Zimbabwe,21.24
+1978,Zimbabwe,20.72
+1979,Zimbabwe,21.03
+1980,Zimbabwe,20.85
+1981,Zimbabwe,20.5
+1982,Zimbabwe,21.25
+1983,Zimbabwe,22.03
+1984,Zimbabwe,21.42
+1985,Zimbabwe,21.13
+1986,Zimbabwe,21.15
+1987,Zimbabwe,21.91
+1988,Zimbabwe,21.2
+1989,Zimbabwe,21.19
+1990,Zimbabwe,21.61
+1991,Zimbabwe,21.54
+1992,Zimbabwe,22.3
+1993,Zimbabwe,21.67
+1994,Zimbabwe,21.4
+1995,Zimbabwe,22.14
+1996,Zimbabwe,21.56
+1997,Zimbabwe,21.6
+1998,Zimbabwe,22.09
+1999,Zimbabwe,21.44
+2000,Zimbabwe,21.23
+2001,Zimbabwe,21.6
+2002,Zimbabwe,21.85
+2003,Zimbabwe,21.96
+2004,Zimbabwe,22.03
+2005,Zimbabwe,22.79
+2006,Zimbabwe,21.88
+2007,Zimbabwe,22.01
+2008,Zimbabwe,21.94
+2009,Zimbabwe,22.02
+2010,Zimbabwe,22.25
+2011,Zimbabwe,21.68
+2012,Zimbabwe,21.91
+2013,Zimbabwe,21.58
+2014,Zimbabwe,21.71
+2015,Zimbabwe,22.32
+2016,Zimbabwe,22.25
+2017,Zimbabwe,21.73
+2018,Zimbabwe,22.09
+2019,Zimbabwe,22.37
+2020,Zimbabwe,21.93
+2021,Zimbabwe,21.87
+2022,Zimbabwe,21.83
