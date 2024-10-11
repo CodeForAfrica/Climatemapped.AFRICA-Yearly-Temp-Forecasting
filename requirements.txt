@@ -7,6 +7,6 @@ keras
 tensorflow
 tensorflow-cpu
 plotly
-dill
+dill==0.3.9
 
 #setuptools>=65.5.0
