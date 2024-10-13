@@ -125,12 +125,12 @@ if selected_countries:
     yaxis_title_font=dict(size=18),
     xaxis=dict(
         tickangle=-45,  
-        tickvals=list(heatmap_pivot.columns),  # Set tick values
+        tickvals=list(heatmap_pivot.columns), 
         ticktext=[str(year) for year in heatmap_pivot.columns],  # Display year as text
         gridcolor='darkgrey',  
-        showgrid=True,  # Show grid
+        showgrid=True,  
     ),
-    yaxis=dict(tickmode='linear', showticklabels=False),  # Hide y-axis tick labels
+    yaxis=dict(tickmode='linear', showticklabels=False, gridcolor='lightgrey' ),  # Hide y-axis tick labels
     template='plotly_white' 
 )
 
