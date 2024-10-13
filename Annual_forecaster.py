@@ -127,7 +127,7 @@ if selected_countries:
         tickangle=-45,  
         tickvals=list(heatmap_pivot.columns),  # Set tick values
         ticktext=[str(year) for year in heatmap_pivot.columns],  # Display year as text
-        gridcolor='lightgrey',  # Change grid color
+        gridcolor='darkgrey',  
         showgrid=True,  # Show grid
     ),
     yaxis=dict(tickmode='linear', showticklabels=False),  # Hide y-axis tick labels
