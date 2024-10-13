@@ -68,7 +68,7 @@ if selected_countries:
         future_temperatures = scaler.inverse_transform(future_scaled)
 # Create a DataFrame with the predictions
     future_years = range(2023, 2051)
-    future_df = pd.DataFrame(np.round(future_temperatures, 2), index=str(future_years), columns=df_pivot.columns)
+    future_df = pd.DataFrame(np.round(future_temperatures, 2), index=future_years.astype(int), columns=df_pivot.columns)
     future_df.index.name = 'Year'
 
     # Display forecasted temperatures
