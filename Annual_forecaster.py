@@ -123,7 +123,7 @@ if selected_countries:
     xaxis_title='Year',    
     #yaxis_title='Country',  
     xaxis_title_font=dict(size=18),
-        xaxis=dict(
+    xaxis=dict(
         tickangle=-45,  # Rotate x-axis labels for better readability
         tickvals=list(heatmap_pivot.columns),  # Set tick values
         ticktext=[str(year) for year in heatmap_pivot.columns],  # Display year as text
