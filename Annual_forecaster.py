@@ -85,7 +85,6 @@ if selected_countries:
         fig.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot[country], name=f'{country} (Historical)', mode='lines'))
         fig.add_trace(go.Scatter(x=future_df.index, y=future_df[country], name=f'{country} (Predicted)', mode='lines'))
 
-    # Update layout for better visualization
     fig.update_layout(title='Historical and Predicted Temperatures for Selected Countries',
                       xaxis_title='Year', 
                       yaxis_title='Temperature (°C)', 
@@ -97,7 +96,7 @@ if selected_countries:
 
     st.plotly_chart(fig)
 
-    # Prepare the data for the heatmap
+    # Prepare data for the heatmap
     heatmap_data = future_df[selected_countries].reset_index()  # Reset index to have 'Year' as a column
     heatmap_data_melted = heatmap_data.melt(id_vars='Year', var_name='Country', value_name='Temperature')
 
@@ -106,24 +105,30 @@ if selected_countries:
 
     # Create the heatmap with the color scale from blue to red
     heatmap_fig = go.Figure(data=go.Heatmap(
-        z=heatmap_pivot.values,
-        x=heatmap_pivot.columns,  # Years on the x-axis
-        y=heatmap_pivot.index,    # Countries on the y-axis
-        colorscale='RdBu',  # Color scale from blue (cold) to red (hot)
-        colorbar=dict(title='Temperature (°C)'),
-        reversescale=True  # Reverse the scale so blue is cold and red is hot
-    ))
+    z=heatmap_pivot.values,
+    x=heatmap_pivot.columns,  
+    y=heatmap_pivot.index,    
+    colorscale='RdBu', 
+    colorbar=dict(title='Temperature (°C)'),
+    reversescale=True,
+    hovertemplate="<b>Year: %{x}</b><br>" +  # Display the year
+                  "<b>Country: %{y}</b><br>" +  # Display the country
+                  "<b>Temperature: %{z:.2f} °C</b><extra></extra>",  # Display the temperature with 2 decimal places
+))
 
-    # Update layout for the heatmap
+# Update layout for the heatmap
     heatmap_fig.update_layout(
-        title='Forecasted Temperatures Heatmap',
-        xaxis_title='Year',    # Years are now on the x-axis
-        yaxis_title='Country', # Countries are on the y-axis
-        title_font=dict(size=22),
-        xaxis_title_font=dict(size=18),
-        yaxis_title_font=dict(size=18),
-        xaxis=dict(tickangle=-45),  # Rotate x-axis labels for better readability
-    )
+    title='Forecasted Temperatures Heatmap',
+    title_font=dict(size=22),
+    xaxis_title='Year',    # Rename x-axis to 'Year'
+    #yaxis_title='Country',  # Rename y-axis to 'Country'
+    xaxis_title_font=dict(size=18),
+    yaxis_title_font=dict(size=18),
+    xaxis=dict(tickangle=-45),  # Rotate x-axis labels for better readability
+    yaxis=dict(tickmode='linear'),  # Ensure y-axis ticks are linear
+    height=600,  # Set the height of the figure
+    width=800,   # Set the width of the figure
+    template='plotly_white'  # Use a white background for better aesthetics
+)
 
-    # Display the heatmap
     st.plotly_chart(heatmap_fig)
