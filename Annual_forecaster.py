@@ -111,24 +111,22 @@ if selected_countries:
     colorscale='RdBu', 
     colorbar=dict(title='Temperature (°C)'),
     reversescale=True,
-    hovertemplate="<b>Year: %{x}</b><br>" +  # Display the year
-                  "<b>Country: %{y}</b><br>" +  # Display the country
-                  "<b>Temperature: %{z:.2f} °C</b><extra></extra>",  # Display the temperature with 2 decimal places
+    hovertemplate="<b>Year: %{x}</b><br>" +  
+                  "<b>Country: %{y}</b><br>" + 
+                  "<b>Temperature: %{z:.2f} °C</b><extra></extra>",  
 ))
 
 # Update layout for the heatmap
     heatmap_fig.update_layout(
     title='Forecasted Temperatures Heatmap',
     title_font=dict(size=22),
-    xaxis_title='Year',    # Rename x-axis to 'Year'
-    #yaxis_title='Country',  # Rename y-axis to 'Country'
+    xaxis_title='Year',    
+    #yaxis_title='Country',  
     xaxis_title_font=dict(size=18),
-    yaxis_title_font=dict(size=18),
-    xaxis=dict(tickangle=-45),  # Rotate x-axis labels for better readability
-    yaxis=dict(tickmode='linear'),  # Ensure y-axis ticks are linear
-    height=600,  # Set the height of the figure
-    width=800,   # Set the width of the figure
-    template='plotly_white'  # Use a white background for better aesthetics
+    #yaxis_title_font=dict(size=18),
+    xaxis=dict(tickangle=-45),  
+    yaxis=dict(showticklabels=False),  
+    template='plotly_white'  
 )
 
     st.plotly_chart(heatmap_fig)
