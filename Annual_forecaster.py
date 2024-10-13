@@ -120,7 +120,7 @@ if selected_countries:
     title='Forecasted Temperatures Heatmap',
     title_font=dict(size=22),
     xaxis_title='Year',   
-    yaxis_title='Country',  
+    #yaxis_title='Country',  
     xaxis_title_font=dict(size=18),
     yaxis_title_font=dict(size=18),
     xaxis=dict(
@@ -130,8 +130,8 @@ if selected_countries:
         gridcolor='darkgrey',  
         showgrid=True,  
     ),
-    yaxis=dict(tickmode='linear', showticklabels=False, gridcolor='lightgrey' ),  # Hide y-axis tick labels
-    template='plotly_white' 
+    yaxis=dict(showticklabels=False, gridcolor='darkgrey' ),  # Hide y-axis tick labels
+    #template='plotly_white' 
 )
 
     st.plotly_chart(heatmap_fig)
