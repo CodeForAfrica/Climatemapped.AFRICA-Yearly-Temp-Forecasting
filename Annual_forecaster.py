@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 import joblib
-from tensorflow.keras.models import load_model
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
@@ -15,7 +14,7 @@ st.title("Temperature Forecasting App")
 st.write("Select countries and years to forecast future temperatures.")
 
 # Load the pre-trained model
-model = load_model('climate_country_forecaster.pkl')
+model = joblib.load('climate_country_forecaster.pkl')
 historical_data = pd.read_csv('Country-Level-Temperature.csv')
 
 # Function to create sequences
