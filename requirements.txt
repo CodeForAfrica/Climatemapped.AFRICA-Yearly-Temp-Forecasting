@@ -9,4 +9,3 @@ h5py
 tensorflow
 tensorflow-cpu
 plotly==5.24.1
-tensorRT
