@@ -116,7 +116,7 @@ if selected_countries:
                   "<b>Temperature: %{z:.2f} °C</b><extra></extra>",  
 ))
 
-heatmap_fig.update_layout(
+    heatmap_fig.update_layout(
     title='Forecasted Temperatures Heatmap',
     title_font=dict(size=22),
     xaxis_title='Year',   
