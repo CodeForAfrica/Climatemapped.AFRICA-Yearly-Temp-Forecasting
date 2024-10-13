@@ -116,24 +116,22 @@ if selected_countries:
                   "<b>Temperature: %{z:.2f} °C</b><extra></extra>",  
 ))
 
-# Update layout for the heatmap
-    heatmap_fig.update_layout(
+heatmap_fig.update_layout(
     title='Forecasted Temperatures Heatmap',
     title_font=dict(size=22),
-    xaxis_title='Year',    
-    #yaxis_title='Country',  
+    xaxis_title='Year',   
+    yaxis_title='Country',  
     xaxis_title_font=dict(size=18),
+    yaxis_title_font=dict(size=18),
     xaxis=dict(
-        tickangle=-45,  # Rotate x-axis labels for better readability
+        tickangle=-45,  
         tickvals=list(heatmap_pivot.columns),  # Set tick values
         ticktext=[str(year) for year in heatmap_pivot.columns],  # Display year as text
         gridcolor='lightgrey',  # Change grid color
         showgrid=True,  # Show grid
     ),
-    #yaxis_title_font=dict(size=18),
-    xaxis=dict(tickangle=-45),  
-    yaxis=dict(showticklabels=False),  
-    template='plotly_white'  
+    yaxis=dict(tickmode='linear', showticklabels=False),  # Hide y-axis tick labels
+    template='plotly_white' 
 )
 
     st.plotly_chart(heatmap_fig)
