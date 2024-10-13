@@ -6,7 +6,6 @@ h5py
 scikit-learn==1.5.2
 keras==3.4.1
 tensorflow-cpu
-tensorflow[and-cuda]
 plotly==5.24.1
 dill==0.3.7
 
