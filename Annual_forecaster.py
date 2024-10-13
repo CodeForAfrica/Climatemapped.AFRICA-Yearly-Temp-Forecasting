@@ -14,7 +14,7 @@ st.title("Temperature Forecasting App")
 st.write("Select countries and years to forecast future temperatures.")
 
 # Load the pre-trained model
-model = joblib.load('climate_country_forecaster.pkl')
+model = joblib.load('yearly_temp_forecaster.pkl')
 historical_data = pd.read_csv('Country-Level-Temperature.csv')
 
 # Function to create sequences
