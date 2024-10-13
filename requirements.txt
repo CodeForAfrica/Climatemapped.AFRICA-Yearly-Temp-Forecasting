@@ -1,9 +1,9 @@
 scikit-learn
-streamlit==1.39.0
+streamlit
 pandas
 numpy
-joblib==1.2.0
-dill==0.3.7
+joblib
+dill
 keras
 h5py
 tensorflow-cpu
