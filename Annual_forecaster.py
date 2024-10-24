@@ -85,14 +85,19 @@ if selected_countries:
         fig.add_trace(go.Scatter(x=df_pivot.index, y=df_pivot[country], name=f'{country} (Historical)', mode='lines'))
         fig.add_trace(go.Scatter(x=future_df.index, y=future_df[country], name=f'{country} (Predicted)', mode='lines'))
 
-    fig.update_layout(title='Historical and Predicted Temperatures for Selected Countries',
-                      xaxis_title='Year', 
-                      yaxis_title='Temperature (°C)', 
-                      legend_title='Country',
-                      xaxis=dict(type='category', title_font=dict(size=18)),
-                      yaxis=dict(title_font=dict(size=18)),
-                      title_font=dict(size=22),
-                      legend=dict(font=dict(size=16)))
+    fig.update_layout(
+    title='Historical and Predicted Temperatures for Selected Countries',
+    xaxis_title='Year', 
+    yaxis_title='Temperature (°C)', 
+    legend_title='Country',
+    width=1200,  # Increase width of the chart
+    height=600,  # Increase height of the chart
+    xaxis=dict(type='category', title_font=dict(size=18)),
+    yaxis=dict(title_font=dict(size=18)),
+    title_font=dict(size=22),
+    legend=dict(font=dict(size=16)),
+    margin=dict(l=40, r=40, t=80, b=40)  # Adjust margins if needed
+)
 
     st.plotly_chart(fig)
 
