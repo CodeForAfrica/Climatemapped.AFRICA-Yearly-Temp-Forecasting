@@ -6,6 +6,9 @@ import joblib
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
+# Page config
+st.set_page_config(layout="wide", page_title="Temperature Forecasting App")
+
 # Add logo
 st.image('climate_map_logo.png', width=200)  # Adjust the width as needed
 
@@ -16,6 +19,7 @@ st.write("Select countries and years to forecast future temperatures.")
 # Load the pre-trained model
 model = joblib.load('yearly_temp_forecaster.pkl')
 historical_data = pd.read_csv('Country-Level-Temperature.csv')
+historical_data = historical_data[historical_data.Year >= '2010-01-01']
 
 # Function to create sequences
 def create_sequences(data, seq_length):
